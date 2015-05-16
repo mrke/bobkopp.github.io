@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: Bio
+  url: /about/
+
+- title: Lab
+  url: /lab/
+
+- title: Research
+  url: /research/
+
+- title: Teaching
+  url: /teaching/
+
+- title: Papers
+  url: /papers/
+
+
+- title: Code
+  url: /software/
+
