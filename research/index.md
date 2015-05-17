@@ -13,7 +13,7 @@ image:
 
 <section id="table-of-contents" class="toc">
 <div id="drawer" markdown="1">
-<header> <h3>Overview</h3></header>
+<!--<header> <h3>Overview</h3></header>-->
 *  Auto generated table of contents
 {:toc}
 </div>

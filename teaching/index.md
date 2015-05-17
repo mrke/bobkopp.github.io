@@ -10,9 +10,17 @@ image:
 
 ---
 
+<section id="table-of-contents" class="toc">
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
+
 ### Current Courses
 
 #### _01:460:203 Building and Maintaining a Habitable Planet_ (premiered Fall 2013)
+{:.no_toc}
 
 [[Syllabus]](syllabi/Syllabus-HabitablePlanet.pdf)
 
@@ -22,6 +30,8 @@ Humanity has become a geological force, reshaping Earth’s land, atmosphere, oc
 This course will prepare students to become informed citizens of our empowered global civilization, able to step outside the realm of short-termism and interpret the environmental changes humanity is effecting today in in the context of our planet’s 4.6 billion year history. We will address questions such as: Why is the Earth so habitable, while Mars is at best marginally so and Venus totally uninhabitable? How did life evolve to regulate the planet’s chemical and energy flows before we arrived on the scene? How does human civilization fit into this long history, and what are the implications of the planetary and human experience for the frequency of intelligent life in the Universe?
 
 #### _01:460:571 Climate Change Risk Analysis_ (premiered as graduate seminar Spring 2014)
+{:.no_toc}
+
 
 [[Syllabus]](https://docs.google.com/document/d/1k03BXQKl2ifPZC2hry1KpmmRAY8Y2D3Gi4pTcXbh3ag/pub)
 
@@ -32,6 +42,7 @@ From Superstorm Sandy to the most extensive drought since the 1930s: in 2012, th
 ### Past Courses
 
 #### _Graduate Seminar: Assessing and Governing Long-Term Risks_ (Spring 2015)
+{:.no_toc}
 
 [[Syllabus]](syllabi/Long%20Term%20Risk%20Governance%20Syllabus.pdf)
 
@@ -41,6 +52,7 @@ Long-term risks can be thought of as risks where the probability and/or magnitud
 Risk governance “includes the totality of actors, rules, conventions, processes, and mechanisms concerned with how relevant risk information is collected, analyzed, and communicated and management decisions are taken,” (Renn and Roco, 2006: 157). Risk governance can be broken into two spheres of assessment and risk management. The assessment sphere is concerned with generating knowledge or “analyzing and understanding” the risk. The risk management sphere uses this knowledge to make decisions and implement actions. This class will focus on specific ways to assess and manage longer-term risks by learning about case studies where long term risks have been identified and specific tools (such as the info-gap and robust decision-making method) that have been developed to govern long-term risks.
 
 #### _16:460:611 Joint Rutgers-Princeton Graduate Seminar: Geological Constraints on Climate Sensitivity_ (Spring 2013)
+{:.no_toc}
 
 [[Syllabus]](syllabi/2013-Spring%20Geological%20Constraints%20on%20Climate%20Sensitivity%20Syllabus%20final.pdf)
 
@@ -48,6 +60,7 @@ Risk governance “includes the totality of actors, rules, conventions, processe
 Climate sensitivity and Earth system sensitivity relate changes in greenhouse gas concentrations and other radiative forcers to changes in temperature, both in Earth's past and in the future. The Cenozoic record provided by paleo-temperature and paleo-carbon dioxide proxies can constrain these parameters and thus also the projected response of the planet to human-induced changes in greenhouse gas concentrations. This seminar will explore the concepts of climate and Earth system sensitivity, the methods and records of paleo-temperature and paleo-carbon dioxide proxies in the Cenozoic, and the statistical challenges of inferring sensitivities from these proxies.
 
 #### _01:090:252 Rutgers SAS Honors Seminar: Energy in Nature and Society: From Earth’s Deep Past to Civilization’s Future_ (Fall 2012)
+{:.no_toc}
 
 [[Syllabus]](syllabi/121202%20Evolution%20of%20Global%20Energy%20System%20Fall%202012%20Syllabus%20Final.pdf)
 
@@ -57,6 +70,7 @@ The flow of energy drives natural and human systems. The balance between incomin
 This seminar, intended for students from all academic majors, will examine the evolution of energy supply, energy demand and the global energy system as a whole, from the rise of photosynthesis to the development of agriculture, the Industrial revolution, and the modern, carbon-constrained world. It will investigate the historical relationship between energy use and economic welfare and possible scenarios for the coupled development of the global energy system and Earth's climate over the coming centuries. Familiarity with basic mathematical and scientific concepts (comparable to high school physics) will be assumed; moderately sophisticated mathematics (e.g., calculus) will be discussed but not required for homework.
 
 #### _16:460:613 Graduate seminar on Major Transitions in the Evolution of the Global Carbon Cycle_ (Spring 2012)
+{:.no_toc}
 
 [[Syllabus]](syllabi/120417%20Evolution%20of%20Carbon%20Cycle%20Final%20Syllabus.pdf)
 
@@ -64,6 +78,7 @@ This seminar, intended for students from all academic majors, will examine the e
 This special topics course covered the evolution of the global carbon cycle over the 4.5 billion years of Earth’s history, with a particular focus on the relationship between the carbon cycle and paleogeography.
 
 #### _11:546:196 Rutgers SEBS Honors Seminar: State of the Planet_ (Spring 2012)
+{:.no_toc}
 
 [[Slides]](syllabi/120229%20Intro%20to%20Global%20Energy%20System.pdf)
 [[Reference Sheet and Reading List]](syllabi/120229%20Intro%20to%20Global%20Energy%20System%20Handout.pdf)
@@ -73,10 +88,12 @@ This special topics course covered the evolution of the global carbon cycle over
 I served as the guest instructor for the week on energy issues in the Rutgers School of Environmental & Biological Sciences honors seminar.
 
 #### _Ge11b: Earth and the Biosphere_ and  _Ge 104: Introduction to Geobiology_ (Winter 2005, 2006
+{:.no_toc}
 
 At Caltech, I served for two years as TA for _Ge11b: Earth and the Biosphere_ and _Ge 104: Introduction to Geobiology_, taught by Joe Kirschvink. As TA for Ge 11b and Ge 104, I led the redesign of the readings, assignments, and laboratory exercises for these classes.  [[Reading List]](syllabi/2006-Ge11b-reading-list.pdf)
 
 
 #### Other TA roles at Caltech (Fall 2003-Summer 2005)
+{:.no_toc}
 
 I also served as teaching assistant for _Ge 124: Paleomagnetism and Magnetostratigraphy_, taught by Joe Kirschvink (spring 2005), and _ACM 118: Methods in Applied Statistics and Data Analysis_, taught by Tapio Schneider (fall 2003). In addition, I coordinated several field trip classes, including weekend classes to southwestern Utah and the Colorado Plateau and two-week summer field trips to Western Australia in 2004 and to Grand Teton National Park, Yellowstone National Park, and the Beartooth Range in 2005.
