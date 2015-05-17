@@ -2,7 +2,7 @@
 layout: page-noauthor
 title: Rutgers Earth System Science & Policy Research Group
 tags: [about]
-modified: Sun May 10 18:32:31 EDT 2015
+modified: May 16 2015
 comments: false
 share: false
 image:
@@ -40,8 +40,9 @@ One of the main goals of my work is to answer the fundamentally important climat
 #### Eric Morrow
 {:.no_toc}
 
+<div style="margin: 20px; max-width: 150px"><img src="portraits/ericmorrow.jpg"></div>
 
-### Ph.D. students
+### Graduate students
 
 #### Erica Ashe (Statistics)
 {:.no_toc}
@@ -71,7 +72,27 @@ economic and social stressors.
 #### Kendra McKoy (Geological Sciences)
 {:.no_toc}
 
-### Undergraduate Students
+### Undergraduate students
 
-#### Rachel DiSchulio
-{:.no_toc} 
+#### Rachel DiSciullo (Philosophy/Political Science)
+{:.no_toc}
+
+### Alumni
+
+#### Graduate students co-advised
+{:.no_toc}
+
+* [R.D. Baluyot](https://www.linkedin.com/pub/ronidell-baluyot/72/2b5/359), Rutgers M.S. '13 in Geological Sciences
+* [Joe Majkut](https://www.linkedin.com/pub/joseph-majkut/4b/485/683), Princeton  Ph.D. '14 in Atmosphere & Ocean Sciences
+* [Shankar Chandramowli](https://www.linkedin.com/pub/shankar-chandramowli/10/4a9/78), Rutgers Ph.D. '15 in Public Policy
+
+
+#### Undergraduate students
+{:.no_toc}
+
+* Corie Hlavaty (senior thesis student; BS '13 in Geological Sciences)
+* [Kinan Tadmori](https://www.linkedin.com/pub/kinan-tadmori/b0/42a/212) (undergraduate research assistant, 2012-2013; BS '15 in Biological Sciences/Environmental Policy)
+* Andrew Wang (undergraduate research assistant, 2012-2013; BS '15 in Mechanical Engineering)
+* [Zeal Shah](https://www.linkedin.com/pub/zeal-shah/a3/902/353) (undergraduate research assistant, 2013-2014; BS '15 in Mechanical Engineering)
+* [Emily Zee](https://www.linkedin.com/pub/emily-zee/89/19a/56) (undergraduate research assistant, 2013-2014; BS '16 in Mechanical Engineering)
+
