@@ -78,7 +78,7 @@ The role of stochasticity in climate change impacts is illustrated by the sea le
 
 Social cost of carbon estimates also need to take into account policy uncertainty. Ongoing research is examining the role of uncertain expectations about mitigation reciprocity among nations and of “punctuated equilibrium” effects in environmental policy making.
 
-## Other projects
+## Other projects in deep time
 
 ### An "Appalachian Amazon" in the early Eocene: A magnetofossil record of stormier times?
 {: .no_toc}
