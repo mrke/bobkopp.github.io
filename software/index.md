@@ -20,4 +20,4 @@ image:
 
 * [Paleomag](http://sourceforge.net/projects/paleomag/): Caltech/RAPID magnetometer control software
 
-* [SeaLGaP](http://www.bobkopp.net/code/SeaLGaP-2.0.zip): Sea Level Gaussian Process analysis of Kopp et al. (2009)
+* [SeaLGaP](code/SeaLGaP-2.0.zip): Sea Level Gaussian Process analysis of Kopp et al. (2009)
