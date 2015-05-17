@@ -12,7 +12,7 @@ image:
 
 * [LocalizeSL](https://zenodo.org/record/15507/): MATLAB routines to localize the sea-level rise projections of Kopp et al. (2014) (updates at [GitHub](https://github.com/bobkopp/LocalizeSL))
 
-* [matDICE](code/matDICE_1.0.zip): MATLAB implementation of flexible DICE-like simple integrated assessment model, as used in Kopp et al., 2012
+* [matDICE](code/matDICE_1.0.zip): MATLAB implementation of flexible DICE-like simple integrated assessment model, as used in Kopp et al. (2012)
 
 * [SeaLGaP](code/SeaLGaP-2.0.zip): Sea Level Gaussian Process analysis of Kopp et al. (2009)
 

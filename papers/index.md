@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: Sat May 16 14:50:50 EDT 2015
+modified: May 17 14:50:50 EDT 2015
 comments: false
 share: false
 image:
@@ -55,11 +55,11 @@ image:
 
 * [O. van de Plassche, A. J. Wright, B. P. Horton, S. E. Engelhart, A. C. Kemp, D. Mallinson, and R. E. Kopp (2014). Estimating tectonic uplift of the Cape Fear Arch (southeast-Atlantic coast, USA) using reconstructions of Holocene relative sea level. _Journal of Quaternary Science_ 29(8), 749–759, doi:10.1002/jqs.2746.](http://dx.doi.org/10.1002/jqs.2746)
 
-* [C. C. Hay, E. Morrow, R. E. Kopp and J. X. Mitrovica (2013). Detecting the sea level fingerprint of polar ice mass changes: Testing a new method for estimating the sources of global sea level change using tide gauge records. _Proc. Natl. Acad. Sci._ 110 (S1): 3692-3699_, _doi:10.1073/pnas.1117683109.](http://dx.doi.org/10.1073/pnas.1117683109)
+* [C. C. Hay, E. Morrow, R. E. Kopp and J. X. Mitrovica (2013). Detecting the sea level fingerprint of polar ice mass changes: Testing a new method for estimating the sources of global sea level change using tide gauge records. _Proc. Natl. Acad. Sci._ 110 (S1): 3692-3699, doi:10.1073/pnas.1117683109.](http://dx.doi.org/10.1073/pnas.1117683109)
 
 * [K. P. Kodama, R. E. Moeller, D. A. Bazylinski, R. E. Kopp and A. P. Chen (2013). The mineral magnetic record of magnetofossils in the Recent lake sediments of Lake Ely, PA. _Global Planet. Change_ 110C: 350-363, doi:10.1016/j.gloplacha.2013.03.012.](http://dx.doi.org/10.1016/j.gloplacha.2013.03.012)
 
-* [R. E. Kopp (2013). Does the mid-Atlantic United States sea-level acceleration hot spot reflect ocean dynamic variability? _Geophys. Res. Lett. _40: 3981-3985, doi:10.1002/grl.50781.](pubs/Kopp2013-EasternUSSeaLevelGP.pdf) [Journal Link]](http://dx.doi.org/10.1002/grl.50781)
+* [R. E. Kopp (2013). Does the mid-Atlantic United States sea-level acceleration hot spot reflect ocean dynamic variability? _Geophys. Res. Lett._ 40: 3981-3985, doi:10.1002/grl.50781.](pubs/Kopp2013-EasternUSSeaLevelGP.pdf) [[Journal Link]](http://dx.doi.org/10.1002/grl.50781)
 
 * [R. E. Kopp and B. K. Mignone (2013). Circumspection, reciprocity, and optimal carbon prices. _Climatic Change_ 120: 831-843, doi:10.1007/s10584-013-0858-5.](pubs/KoppMignone2013-CircumspectionReciprocity.pdf) [[Journal Link]](http://dx.doi.org/10.1007/s10584-013-0858-5)
 
@@ -77,7 +77,7 @@ image:
 
 * [R. E. Kopp, A. Golub, N. O. Keohane and C. Onda (2012). The influence of the specification of climate change damages on the social cost of carbon. _Economics_ 6: 2012-13, doi:10.5018/economics-ejournal.ja.2012-13.](http://dx.doi.org/10.5018/economics-ejournal.ja.2012-13)
 
-* [R. E. Kopp and B. K. Mignone (2012). The U.S. government’s social cost of carbon estimates after their first two years: Pathways for improvement. _Economics _6: 2012-15, doi:10.5018/economics-ejournal.ja.2012-15.](http://dx.doi.org/10.5018/economics-ejournal.ja.2012-15)
+* [R. E. Kopp and B. K. Mignone (2012). The U.S. government’s social cost of carbon estimates after their first two years: Pathways for improvement. _Economics_ 6: 2012-15, doi:10.5018/economics-ejournal.ja.2012-15.](http://dx.doi.org/10.5018/economics-ejournal.ja.2012-15)
 
 * [C. A. Katsman, A. Sterl, J. J. Beersma, H. W. van den Brink, J. A. Church, W. Hazeleger, R. E. Kopp, D. Kroon, J. Kwadijk, R. Lammersen, J. Lowe, M. Oppenheimer, H.-P. Plag, J. Ridley, H. von Storch, D. G. Vaughan, P. Vellinga, L. L. A. Vermeersen, R. S. W. van de Wal, and R. Weisse (2011). Exploring high-end scenarios for local sea level rise to develop flood protection strategies for a low-lying delta – the Netherlands as an example. _Climatic Change _ 109:617-645, doi:10.1007/s10584-011-0037-5.](http://www.knmi.nl/publications/showAbstract.php?id=7235) [[Journal link]](http://dx.doi.org/10.1007/s10584-011-0037-5)
 
@@ -143,7 +143,7 @@ image:
 
 * D. R. Morrow, R. E. Kopp and M. Oppenheimer (2013). Political legitimacy in decisions about experiments in solar radiation management. In: _Climate Change Geoengineering: Philosophical Perspectives, Legal Issues, and Governance Frameworks_. (W. C. G. Burns and A. Strauss, eds.) Cambridge: Cambridge University Press, pp. 146-167.
 
-* Contributing author to: [Interagency Working Group on Social Cost of Carbon, United States Government (2010). Appendix 15a. Social cost of carbon for regulatory impact analysis under Executive Order 12866\. In: _Final Rule Technical Support Document (TSD): Energy Efficiency Program for Commercial and Industrial Equipment: Small Electric Motors_, U.S. Department of Energy_._](http://go.usa.gov/3fH)
+* Contributing author to: [Interagency Working Group on Social Cost of Carbon, United States Government (2010). Appendix 15a. Social cost of carbon for regulatory impact analysis under Executive Order 12866\. In: _Final Rule Technical Support Document (TSD): Energy Efficiency Program for Commercial and Industrial Equipment: Small Electric Motors_, U.S. Department of Energy.](http://go.usa.gov/3fH)
 
 * [K. L. Bice, A. G. Eil, B. Habib, P. L. Heijmans, R. E. Kopp, J. P. Nogues, F. L. Norcross, M. Sweitzer-Hamilton, A. Whitworth and D. L. Mauzerall (2009). _Black Carbon: A Review and Policy Recommendations_. Princeton, NJ: Woodrow Wilson School of Public and International Affairs.](pubs/Princeton2009-WWS-Black-Carbon-report.pdf)
 
