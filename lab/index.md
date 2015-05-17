@@ -1,6 +1,6 @@
 ---
 layout: page-noauthor
-title: Rutgers Earth System Science & Policy Research Group
+title: Rutgers Earth System Science & Policy Lab
 tags: [about]
 modified: May 16 2015
 comments: false

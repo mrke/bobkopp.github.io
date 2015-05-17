@@ -173,9 +173,11 @@ image:
 
 ### Selected presentations and media appearances
 
-* R. E. Kopp. _American Climate Prospectus: Economic Risks in the United States_. Energy Modeling Forum Workshop on Climate Change Impacts and Integrated Assessment, Snowmass, CO, July 2014.
+* [R. E. Kopp (2014). Panelist, conference on the Economic and Financial Risks of a Changing Climate. Resources for the Future, Washington, DC, November 2014.](http://www.rff.org/Publications/Pages/PublicationDetails.aspx?PublicationID=22537)
 
-* R. E. Kopp. Sea-level rise and extreme events: Insights from the American Climate Prospectus. Energy Modeling Forum Workshop on Climate Change Impacts and Integrated Assessment, Snowmass, CO, July 2014.
+* [R. E. Kopp. _American Climate Prospectus: Economic Risks in the United States_. Energy Modeling Forum Workshop on Climate Change Impacts and Integrated Assessment, Snowmass, CO, July 2014.](https://web.stanford.edu/group/emf-research/docs/CCIIA/2014/Kopp_7_22.pdf)
+
+* [R. E. Kopp. Sea-level rise and extreme events: Insights from the American Climate Prospectus. Energy Modeling Forum Workshop on Climate Change Impacts and Integrated Assessment, Snowmass, CO, July 2014.](https://www.stanford.edu/group/emf-research/docs/CCIIA/2014/Kopp_sea_level_talk.pdf)
 
 * ["The economic risks of climate change," _Radio Times with Marty Moss-Coane_, WHYY, 1 July 2014.](http://goo.gl/DfPnc9)
 
