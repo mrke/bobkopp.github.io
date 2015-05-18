@@ -29,7 +29,7 @@ image:
 </p>
 </div>
 
-### Working Papers
+### Working papers
 
 * [R. E. Kopp, B. P. Horton, A. C. Kemp and C. Tebaldi. Past and future sea-level rise along the coast of North Carolina, United States. arXiv:1410.8369.](http://arxiv.org/abs/1410.8369)
 
@@ -137,7 +137,7 @@ image:
 
 * [J. Eom, R. Moss, J. Edmonds, K. Calvin, B. Bond-Lamberty, L. Clarke, J. Dooley, S. H. Kim, R. E. Kopp, P. Kyle, P. Luckow, P. Patel, A. Thomson, M. Wise and Y. Zhou (2013). Scenarios of future socio-economics, energy, land use and radiative forcing. In: _Engineering Response to Global Climate Change: Planning a Research and Development Agenda_, Second Edition. (R. G. Watts, ed.) Boca Raton: CRC Press, pp. 81–138.](http://books.google.com/books?id=DvSV1oQD2JsC&pg=PA81&hl=en&sa=X&ei=mPHIUabDFrX64AP-iYGwAg&ved=0CDcQ6AEwAA#v=onepage&q&f=false)
 
-* [R. E. Kopp, S. M. Hsiang, and M. Oppenheimer (2013). Empirically calibrating damage functions and considering stochasticity when integrated assessment models are used as decision tools. In: _Impacts World 2013 Conference Proceedings_. Potsdam: Potsdam Institute for Climate Impact Research, pp. 834–843,. doi:10.2312/pik.2013.001.](http://www.climate-impacts-2013.org/files/ial_kopp.pdf)
+* [R. E. Kopp, S. M. Hsiang, and M. Oppenheimer (2013). Empirically calibrating damage functions and considering stochasticity when integrated assessment models are used as decision tools. In: _Impacts World 2013 Conference Proceedings_. Potsdam: Potsdam Institute for Climate Impact Research, pp. 834–843, doi:10.2312/pik.2013.001.](http://www.climate-impacts-2013.org/files/ial_kopp.pdf)
 
 * [Contributing author to: Masson-Delmotte, V., M. Schulz, A. Abe-Ouchi, J. Beer, A. Ganopolski, J. G. Rouco, E. Jansen, K. Lambeck, J. Luterbacher, T. Naish, T. Osborn, B. Otto-Bliesner, T. Quinn, R. Ramesh, M. Rojas, X. Shao, and A. Timmermann (2013). Information from Paleoclimate Archives. In: _Climate Change 2013: the Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change_. Ed. by T. F. Stocker, D. Qin, G.-K. Plattner, M. Tignor, S. K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex, and P. Midgley. Cambridge, UK: Cambridge University Press, pp.383–464.](http://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_Chapter05_FINAL.pdf)
 
