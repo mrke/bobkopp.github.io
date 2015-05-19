@@ -1,11 +1,8 @@
 ---
 layout: page
-excerpt: "Bob Kopp, Associate Professor of Earth & Planetary Sciences, Rutgers University"
-# tags: []
+excerpt: "Bob Kopp (Robert E. Kopp) is a climate scientist, Earth historian, geobiologist, and energy policy wonk at Rutgers University."
 image:
   feature: near-ilulissat.jpg
-  # credit: Bob Kopp
-  # creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 
 share: false
 ---
