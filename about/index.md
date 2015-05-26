@@ -40,6 +40,6 @@ Prior to joining the Rutgers faculty, he served as an [AAAS Science & Technology
 
 Prior to this fellowship, he was a [Science, Technology, and Environmental Policy](http://www.princeton.edu/step/) postdoctoral research fellow at Princeton University. He received his Ph.D. in geobiology from Caltech, where his research focused on fossil magnetic bacteria and on the long-term co-evolution of life and climate on planet Earth. He received his S.B. in geophysical sciences from the University of Chicago.
 
-He is a Leopold Leadership Fellow and a recipient of the International Union for Quaternary Research (INQUA)'s Sir Nicholas Shackleton Medal and the American Geophysical Union's William Gilbert Medal.
+He is a Leopold Leadership Fellow and a recipient of the International Union for Quaternary Science (INQUA)'s Sir Nicholas Shackleton Medal and the American Geophysical Union's William Gilbert Medal.
 
 
