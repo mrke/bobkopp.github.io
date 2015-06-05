@@ -2,7 +2,7 @@
 layout: page-noauthor
 title: Rutgers Earth System Science & Policy Lab
 tags: [about]
-modified: May 16 2015
+modified: June 5 2015
 comments: false
 share: false
 image:
@@ -17,7 +17,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-#### [Bob Kopp](/), Group Director
+#### [Bob Kopp, Group Director](/)
 {:.no_toc}
 
 <div>
@@ -29,7 +29,7 @@ change and on the interactions between physical climate change and the economy.
 
 ### Postdocs
 
-#### [Carling Hay](http://eps.harvard.edu/people/carling-hay) (Joint Rutgers/Harvard Postdoc)
+#### [Carling Hay (Joint Rutgers/Harvard Postdoc)](https://www.linkedin.com/profile/view?id=285982903)
 {:.no_toc} 
 
 <div>
@@ -37,14 +37,17 @@ change and on the interactions between physical climate change and the economy.
 One of the main goals of my work is to answer the fundamentally important climatological question:  what are the various contributors to the observed changes in sea level?  My research focuses on using statistical techniques to better understand global mean sea level during current and past warm periods, and to develop the tools necessary to extract source information from historical sea-level records.  Understanding how past sea level has changed in response to rising surface temperatures is a critical step in being able to predict sea-level rise into the next century and beyond.
 </div>
 
-#### Eric Morrow
+#### [Eric Morrow](https://www.linkedin.com/profile/view?id=88942342)
 {:.no_toc}
 
-<div style="margin: 20px; max-width: 150px"><img src="portraits/ericmorrow.jpg"></div>
+<div>
+<div style="float:right; margin: 20px; max-width: 150px"><img src="portraits/ericmorrow.jpg"></div>
+I am a scientist and professional engineer who loves helping people derive novel insight from complex data. I began my career in the aerospace industry developing the systems that orient spacecraft in orbit and was on the operations support teams for several satellite missions, notably NASA’s ChipSat, Australia’s FedSat and Canada’s MOST programs. From there I moved to a more client-facing role supporting robotic operations to assemble the International Space Station. I then began my journey Earth-ward and worked on the development of an instrumentation platform for an airborne gravity gradiometer designed geophysical exploration. The latest accomplishment in my career path has been the completion of a PhD in geophysics from Harvard University that focused on using statistics, machine learning and physics with large data sets to estimate how our oceans have changed over the past century in the face of on-going climate change.
+</div>
 
 ### Graduate students
 
-#### Erica Ashe (Statistics)
+#### [Erica Ashe  (Statistics)](https://www.linkedin.com/profile/view?id=10136757)
 {:.no_toc}
 
 <div>
@@ -57,7 +60,7 @@ commonly accepted ice sheet histories and earth parameter profiles, including di
 sea-level equation.
 </div>
 
-#### Maya Buchanan (Woodrow Wilson School)
+#### [Maya Buchanan (Woodrow Wilson School)](https://www.linkedin.com/profile/view?id=22120048) 
 {: .no_toc}
 
 <div>
