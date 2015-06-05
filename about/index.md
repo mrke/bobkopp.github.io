@@ -2,7 +2,7 @@
 layout: page
 title: Biography
 tags: [about]
-modified: May 16 2015
+modified: June 5 2015
 comments: false
 share: false
 image:
@@ -32,7 +32,7 @@ His scientific research focuses on employing statistical and process models to i
 
 His policy-related research focuses on quantifying human impacts on the global climate, assessing the potential of different policies and technologies to mitigate these impacts, and incorporating climate change impacts into benefit-cost and risk management analyses.
 
-He served as the lead scientist for the  [ _American Climate Prospectus: Economic Risks in the United States_](http://www.climateprospectus.org/), the technical analysis underlying the [Risky Business Project](http://www.riskybusiness.org/). He also served on the
+He is a lead author of [ _Economic Risks of Climate Change: An American Prospectus_](http://www.climateprospectus.org/), and served as the lead scientist for the  the technical analysis underlying the [Risky Business Project](http://www.riskybusiness.org/). He also served on the
 [Maryland Climate Change Commission’s sea-level rise expert group](http://www.umces.edu/project/sea-level-along-maryland%E2%80%99s-shorelines-could-rise-2-feet-2050-according-new-report) and was a contributing author to Working Groups 1 and 2 of the [Intergovernmental Panel on Climate Change](http://www.ipcc.ch)’s Fifth Assessment Report.
 
 Prior to joining the Rutgers faculty, he served as an [AAAS Science & Technology Policy Fellow](http://fellowships.aaas.org/) in the

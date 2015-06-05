@@ -29,6 +29,12 @@ image:
 </p>
 </div>
 
+### Books
+
+<div style="float: right; margin: 5px; max-width: 75px; box-shadow: 5px 5px 2px #888888; border:  1px solid gray;"><a href="http://www.climateprospectus.org" target="_blank"><img src="/images/EconomicRisksOfCC.jpg"></a></div>
+
+* [T. Houser, S. Hsiang, R. Kopp, K. Larsen and others (2015). _Economic Risks of Climate Change: An American Prospectus_. New York: Columbia University Press, 384 pp. ISBN 9780231174565.](http://www.climateprospectus.org)
+
 ### Working papers
 
 * [R. E. Kopp, B. P. Horton, A. C. Kemp and C. Tebaldi. Past and future sea-level rise along the coast of North Carolina, United States. arXiv:1410.8369.](http://arxiv.org/abs/1410.8369)
