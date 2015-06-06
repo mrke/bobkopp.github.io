@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: May 17 14:50:50 EDT 2015
+modified: June 5 2015 9:30 PM
 comments: false
 share: false
 image:
@@ -167,11 +167,11 @@ image:
 
 ### Popular publications
 
-* [B. Strauss and R. Kopp. Rising seas, vanishing coast lines. New York Times Sunday Review, 25 November 2012.](http://nyti.ms/TcArGg)
+* [R. Kopp, J. Buzan and M. Huber. It's not just the heat. _New York Times_ Sunday Review, 7 June 2015.]()
 
-* [R. Kopp and B. Strauss. Rising seas a real threat to New Jersey. Newark Star Ledger, 10 July 2012.](http://tinyurl.com/ckmmjl9) 
+* [B. Strauss and R. Kopp. Rising seas, vanishing coast lines. _New York Times_ Sunday Review, 25 November 2012.](http://nyti.ms/TcArGg)
 
-* Geology reader for [S. Darksyde and M. Sumner (2006). _Kosmos: You are Here_ . YearlyKos.org. Electronic book.](http://www.dailykos.com/storyonly/2006/5/1/63150/18071)
+* [R. Kopp and B. Strauss. Rising seas a real threat to New Jersey. _Newark Star Ledger_, 10 July 2012.](http://tinyurl.com/ckmmjl9) 
 
 * Ghostwriter for [J. L. Kirschvink (2006). Red Earth, White Earth, Green Earth, Black Earth. _Engineering & Science_ No. 4: 10-20.](http://calteches.library.caltech.edu/4147/)
 

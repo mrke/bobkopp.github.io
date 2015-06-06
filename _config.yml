@@ -2,14 +2,15 @@
 
 title:            Bob Kopp
 locale:           en_US
-url:              
+#url:             http://www.bobkopp.net
+sharing_url:	  http://www.bobkopp.net
 
 
 # Jekyll configuration
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighteurlr: pygments
 sass:
   sass_dir: _sass
   style: compressed
