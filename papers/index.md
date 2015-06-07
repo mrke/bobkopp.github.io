@@ -167,7 +167,7 @@ image:
 
 ### Popular publications
 
-* [R. Kopp, J. Buzan and M. Huber. It's not just the heat. _New York Times_ Sunday Review, 7 June 2015.](http://nyti.ms/1JyXkk7 )
+* [R. Kopp, J. Buzan and M. Huber. The deadly combination of heat and humidity. _New York Times_ Sunday Review, 7 June 2015.](http://nyti.ms/1JyXkk7 )
 
 * [B. Strauss and R. Kopp. Rising seas, vanishing coast lines. _New York Times_ Sunday Review, 25 November 2012.](http://nyti.ms/TcArGg)
 
