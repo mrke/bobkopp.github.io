@@ -37,7 +37,7 @@ Prior to joining the Rutgers faculty, I served as a [AAAS Science & Technology P
 
 #### [In the media](http://www.google.com/search?hl=en&gl=us&tbm=nws&q="Robert+Kopp"+OR+"Bob+Kopp"+Rutgers)
 
-* [_New York Times_ Sunday Review (June 2015)]()
+* [_New York Times_ Sunday Review (June 2015)](http://nyti.ms/1JyXkk7)
 * [_Rutgers Today_ (Dec. 2014)](http://news.rutgers.edu/feature/earth-scientists-urgent-mission-takes-shape-rutgers/20141217)
 * [Radio Times with Marty Moss-Coane [WHYY] (July 2014)](http://goo.gl/DfPnc9)
 * [_New York Times_ Sunday Review (Nov. 2012)](http://nyti.ms/TcArGg)
