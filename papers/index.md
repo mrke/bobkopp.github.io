@@ -177,6 +177,8 @@ image:
 
 ### Selected presentations and media appearances
 
+* ["Sudden heat," _Radio Ecoshock_, 24 June 2015.](https://goo.gl/e3TWX8)
+
 * [R. E. Kopp (2014). Panelist, conference on the Economic and Financial Risks of a Changing Climate. Resources for the Future, Washington, DC, November 2014.](http://www.rff.org/Publications/Pages/PublicationDetails.aspx?PublicationID=22537)
 
 * [R. E. Kopp. _American Climate Prospectus: Economic Risks in the United States_. Energy Modeling Forum Workshop on Climate Change Impacts and Integrated Assessment, Snowmass, CO, July 2014.](https://web.stanford.edu/group/emf-research/docs/CCIIA/2014/Kopp_7_22.pdf)
