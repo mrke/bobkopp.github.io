@@ -37,15 +37,17 @@ image:
 
 ### Journal articles
 
-* [R. E. Kopp, B. P. Horton, A. C. Kemp and C. Tebaldi (in press). Past and future sea-level rise along the coast of North Carolina, United States. _Climatic Change_, doi:10.1007/s10584-015-1451-x.](http://arxiv.org/abs/1410.8369)  [[Journal link]](http://dx.doi.org/10.1007/s10584-015-1451-x)
+* [R. E. Kopp, C. C. Hay, C. M. Little, and J. X. Mitrovica (in press). Geographic variability of sea-level change. _Current Climate Change Reports_. doi: 10.1007/s40641-015-0015-5.](http://dx.doi.org/10.1007/s40641-015-0015-5)
 
-* [Creveling, J. R., J. X. Mitrovica, C. C. Hay, J. Austermann, and R. E. Kopp (2015). Revisiting tectonic corrections applied to Pleistocene sea-level highstands. _Quaternary Science Reviews_ 111, 72–80\. doi:10.1016/j.quascirev.2015.01.003.](http://dx.doi.org/10.1016/j.quascirev.2015.01.003)
+* [R. E. Kopp, B. P. Horton, A. C. Kemp and C. Tebaldi (in press). Past and future sea-level rise along the coast of North Carolina, United States. _Climatic Change_. doi:10.1007/s10584-015-1451-x.](http://arxiv.org/abs/1410.8369)  [[Journal link]](http://dx.doi.org/10.1007/s10584-015-1451-x)
 
-* [Engelhart, S. E., M. Vacchi, B. P. Horton, A. R. Nelson, and R. E. Kopp (2015). Sea-level history of the Pacific coast of North America since the Last Glacial Maximum. _Quaternary Science Reviews_ 113, 78–92\. doi:10.1016/j.quascirev.2014.12.001.](http://dx.doi.org/10.1016/j.quascirev.2014.12.001)
+* [J. R. Creveling, J. X. Mitrovica, C. C. Hay, J. Austermann, and R. E. Kopp (2015). Revisiting tectonic corrections applied to Pleistocene sea-level highstands. _Quaternary Science Reviews_ 111, 72–80\. doi:10.1016/j.quascirev.2015.01.003.](http://dx.doi.org/10.1016/j.quascirev.2015.01.003)
 
-* [Hay, C. C., E. D. Morrow, R. E. Kopp, and J. X. Mitrovica (2015). Probabilistic reanalysis of 20th century sea-level rise. _Nature_ 517, 481–484\. doi:10.1038/nature14093.](http://dx.doi.org/10.1038/nature14093)
+* [S. E. Engelhart, M. Vacchi, B. P. Horton, A. R. Nelson, and R. E. Kopp (2015). Sea-level history of the Pacific coast of North America since the Last Glacial Maximum. _Quaternary Science Reviews_ 113, 78–92\. doi:10.1016/j.quascirev.2014.12.001.](http://dx.doi.org/10.1016/j.quascirev.2014.12.001)
 
-* [Little, C. M., R. M. Horton, R. E. Kopp, M. Oppenheimer, and S. Yip (2015). Uncertainty in 21st century CMIP5 sea-level projections. _Journal of Climate_ 28, 838–852\. doi: 10.1175/JCLI-D-14-00453.1.](http://dx.doi.org/10.1175/JCLI-D-14-00453.1)
+* [C. C. Hay, E. D. Morrow, R. E. Kopp, and J. X. Mitrovica (2015). Probabilistic reanalysis of 20th century sea-level rise. _Nature_ 517, 481–484\. doi:10.1038/nature14093.](http://dx.doi.org/10.1038/nature14093)
+
+* [C. M. Little, R. M. Horton, R. E. Kopp, M. Oppenheimer, and S. Yip (2015). Uncertainty in 21st century CMIP5 sea-level projections. _Journal of Climate_ 28, 838–852\. doi: 10.1175/JCLI-D-14-00453.1.](http://dx.doi.org/10.1175/JCLI-D-14-00453.1)
 
 * [A. Chen, V. Berounsky, M. Chan, M. Blackford, C. Cady, B. Moskowitz, P. Kraal, E. Lima, R. Kopp, G. Lumpkin, B. Weiss, and P. Hesse (2014). Magnetic properties of uncultivated magnetotactic bacteria and their contribution to a stratified estuary iron cycle. _Nature Communications_ 5, 4797, doi:10.1038/ncomms5797.](http://dx.doi.org/10.1038/ncomms5797)
 
