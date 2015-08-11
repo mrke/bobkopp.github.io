@@ -55,7 +55,7 @@ image:
 
 * [A.C. Kemp, C. E. Bernhardt, B. P. Horton, R. E. Kopp, C. H. Vane, W. R. Peltier, A. D. Hawkes, J. P. Donnelly, A. C. Parnell, and N. Cahill (2014). Late Holocene sea- and land-level change on the U.S. southeastern Atlantic coast. _Marine Geology_ 357: 90–100, doi:10.1016/j.margeo.2014.07.010.](http://dx.doi.org/10.1016/j.margeo.2014.07.010)
 
-* [R. E. Kopp, R. M. Horton, C. M. Little, J. X. Mitrovica, M. Oppenheimer, D. J. Rasmussen, B. H. Strauss, and C. Tebaldi (2014). Probabilistic 21st and 22nd century sea-level projections at a global network of tide gauge sites. _Earth's Future_ 2: 287–306, doi:10.1002/2014EF000239.](pubs/Kopp2014_SLRProjections_preprint.pdf) [[Journal link]](http://dx.doi.org/10.1002/2014EF000239) [[LocalizeSL: Offline localization code]](http://dx.doi.org/10.5281/zenodo.15507)
+* [R. E. Kopp, R. M. Horton, C. M. Little, J. X. Mitrovica, M. Oppenheimer, D. J. Rasmussen, B. H. Strauss, and C. Tebaldi (2014). Probabilistic 21st and 22nd century sea-level projections at a global network of tide gauge sites. _Earth's Future_ 2: 287–306, doi:10.1002/2014EF000239.](pubs/Kopp2014_SLRProjections_preprint.pdf) [[Journal link]](http://dx.doi.org/10.1002/2014EF000239) [[LocalizeSL: Offline localization code]](https://github.com/bobkopp/LocalizeSL/releases)
 
 * [R. L. Revesz,, P. H. Howard, K. Arrow, L. H. Goulder, R. E. Kopp, M. A. Livermore, M. Oppenheimer, and T. Sterner (2014). Global warming: Improve economic models of climate change. _Nature_ 508: 173–175, doi:10.1038/508173a.](http://dx.doi.org/10.1038/508173a)
 
