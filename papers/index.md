@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: June 5 2015 9:30 PM
+modified: August 29 2015 6:15 PM
 comments: false
 share: false
 image:
