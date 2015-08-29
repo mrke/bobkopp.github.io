@@ -41,6 +41,8 @@ image:
 
 * [R. E. Kopp, B. P. Horton, A. C. Kemp and C. Tebaldi (in press). Past and future sea-level rise along the coast of North Carolina, United States. _Climatic Change_. doi:10.1007/s10584-015-1451-x.](http://arxiv.org/abs/1410.8369)  [[Journal link]](http://dx.doi.org/10.1007/s10584-015-1451-x)
 
+* [D. Nikitina, A. C. Kemp, S. E. Engelhart, B. P. Horton, D. F. Hill, and R. E. Kopp (in press). Sea-level change and subsidence in the Delaware estuary in the last ∼ 2200 years. Estuarine, Coastal and Shelf Science. doi: 10.1016/j.ecss.2015.08.012.](http://dx.doi.org/10.1016/j.ecss.2015.08.012)
+
 * [J. R. Creveling, J. X. Mitrovica, C. C. Hay, J. Austermann, and R. E. Kopp (2015). Revisiting tectonic corrections applied to Pleistocene sea-level highstands. _Quaternary Science Reviews_ 111, 72–80\. doi:10.1016/j.quascirev.2015.01.003.](http://dx.doi.org/10.1016/j.quascirev.2015.01.003)
 
 * [S. E. Engelhart, M. Vacchi, B. P. Horton, A. R. Nelson, and R. E. Kopp (2015). Sea-level history of the Pacific coast of North America since the Last Glacial Maximum. _Quaternary Science Reviews_ 113, 78–92\. doi:10.1016/j.quascirev.2014.12.001.](http://dx.doi.org/10.1016/j.quascirev.2014.12.001)
