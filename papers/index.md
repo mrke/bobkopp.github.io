@@ -37,8 +37,6 @@ image:
 
 ### Journal articles
 
-* [R. E. Kopp, C. C. Hay, C. M. Little, and J. X. Mitrovica (in press). Geographic variability of sea-level change. _Current Climate Change Reports_. doi: 10.1007/s40641-015-0015-5.](http://dx.doi.org/10.1007/s40641-015-0015-5)
-
 * [R. E. Kopp, B. P. Horton, A. C. Kemp and C. Tebaldi (in press). Past and future sea-level rise along the coast of North Carolina, United States. _Climatic Change_. doi:10.1007/s10584-015-1451-x.](http://arxiv.org/abs/1410.8369)  [[Journal link]](http://dx.doi.org/10.1007/s10584-015-1451-x)
 
 * [D. Nikitina, A. C. Kemp, S. E. Engelhart, B. P. Horton, D. F. Hill, and R. E. Kopp (in press). Sea-level change and subsidence in the Delaware estuary in the last ∼ 2200 years. Estuarine, Coastal and Shelf Science. doi: 10.1016/j.ecss.2015.08.012.](http://dx.doi.org/10.1016/j.ecss.2015.08.012)
@@ -48,6 +46,8 @@ image:
 * [S. E. Engelhart, M. Vacchi, B. P. Horton, A. R. Nelson, and R. E. Kopp (2015). Sea-level history of the Pacific coast of North America since the Last Glacial Maximum. _Quaternary Science Reviews_ 113, 78–92\. doi:10.1016/j.quascirev.2014.12.001.](http://dx.doi.org/10.1016/j.quascirev.2014.12.001)
 
 * [C. C. Hay, E. D. Morrow, R. E. Kopp, and J. X. Mitrovica (2015). Probabilistic reanalysis of 20th century sea-level rise. _Nature_ 517, 481–484\. doi:10.1038/nature14093.](http://dx.doi.org/10.1038/nature14093)
+
+* [R. E. Kopp, C. C. Hay, C. M. Little, and J. X. Mitrovica (2015). Geographic variability of sea-level change. _Current Climate Change Reports_ 1: 192-204, doi: 10.1007/s40641-015-0015-5.](http://dx.doi.org/10.1007/s40641-015-0015-5)
 
 * [C. M. Little, R. M. Horton, R. E. Kopp, M. Oppenheimer, and S. Yip (2015). Uncertainty in 21st century CMIP5 sea-level projections. _Journal of Climate_ 28, 838–852\. doi: 10.1175/JCLI-D-14-00453.1.](http://dx.doi.org/10.1175/JCLI-D-14-00453.1)
 
