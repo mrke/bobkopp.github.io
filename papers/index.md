@@ -39,8 +39,6 @@ image:
 
 * [R. E. Kopp, B. P. Horton, A. C. Kemp and C. Tebaldi (in press). Past and future sea-level rise along the coast of North Carolina, United States. _Climatic Change_. doi:10.1007/s10584-015-1451-x.](http://arxiv.org/abs/1410.8369)  [[Journal link]](http://dx.doi.org/10.1007/s10584-015-1451-x)
 
-* [D. Nikitina, A. C. Kemp, S. E. Engelhart, B. P. Horton, D. F. Hill, and R. E. Kopp (in press). Sea-level change and subsidence in the Delaware estuary in the last ∼ 2200 years. _Estuarine, Coastal and Shelf Science_ 164, 506-519. doi: 10.1016/j.ecss.2015.08.012.](http://dx.doi.org/10.1016/j.ecss.2015.08.012)
-
 * [J. R. Creveling, J. X. Mitrovica, C. C. Hay, J. Austermann, and R. E. Kopp (2015). Revisiting tectonic corrections applied to Pleistocene sea-level highstands. _Quaternary Science Reviews_ 111, 72–80\. doi:10.1016/j.quascirev.2015.01.003.](http://dx.doi.org/10.1016/j.quascirev.2015.01.003)
 
 * [S. E. Engelhart, M. Vacchi, B. P. Horton, A. R. Nelson, and R. E. Kopp (2015). Sea-level history of the Pacific coast of North America since the Last Glacial Maximum. _Quaternary Science Reviews_ 113, 78–92\. doi:10.1016/j.quascirev.2014.12.001.](http://dx.doi.org/10.1016/j.quascirev.2014.12.001)
@@ -50,6 +48,8 @@ image:
 * [R. E. Kopp, C. C. Hay, C. M. Little, and J. X. Mitrovica (2015). Geographic variability of sea-level change. _Current Climate Change Reports_ 1: 192-204, doi: 10.1007/s40641-015-0015-5.](http://dx.doi.org/10.1007/s40641-015-0015-5)
 
 * [C. M. Little, R. M. Horton, R. E. Kopp, M. Oppenheimer, and S. Yip (2015). Uncertainty in 21st century CMIP5 sea-level projections. _Journal of Climate_ 28, 838–852\. doi: 10.1175/JCLI-D-14-00453.1.](http://dx.doi.org/10.1175/JCLI-D-14-00453.1)
+
+* [D. Nikitina, A. C. Kemp, S. E. Engelhart, B. P. Horton, D. F. Hill, and R. E. Kopp (2015). Sea-level change and subsidence in the Delaware estuary in the last ∼ 2200 years. _Estuarine, Coastal and Shelf Science_ 164, 506-519. doi: 10.1016/j.ecss.2015.08.012.](http://dx.doi.org/10.1016/j.ecss.2015.08.012)
 
 * [A. Chen, V. Berounsky, M. Chan, M. Blackford, C. Cady, B. Moskowitz, P. Kraal, E. Lima, R. Kopp, G. Lumpkin, B. Weiss, and P. Hesse (2014). Magnetic properties of uncultivated magnetotactic bacteria and their contribution to a stratified estuary iron cycle. _Nature Communications_ 5, 4797, doi:10.1038/ncomms5797.](http://dx.doi.org/10.1038/ncomms5797)
 
