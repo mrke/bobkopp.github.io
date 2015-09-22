@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: August 29 2015 6:15 PM
+modified: September 22 2015 11:15 AM
 comments: false
 share: false
 image:
@@ -38,6 +38,8 @@ image:
 ### Journal articles
 
 * [R. E. Kopp, B. P. Horton, A. C. Kemp and C. Tebaldi (in press). Past and future sea-level rise along the coast of North Carolina, United States. _Climatic Change_. doi:10.1007/s10584-015-1451-x.](http://arxiv.org/abs/1410.8369)  [[Journal link]](http://dx.doi.org/10.1007/s10584-015-1451-x)
+
+* [C. M. Little, R. M. Horton, R. E. Kopp, M. Oppenheimer, G. A. Vecchi, and G. Villarini (in press). Joint projections of US East Coast sea level and storm surge. _Nature Climate Change_. doi:10.1038/nclimate2801.](http://dx.doi.org/10.1038/nclimate2801)
 
 * [J. R. Creveling, J. X. Mitrovica, C. C. Hay, J. Austermann, and R. E. Kopp (2015). Revisiting tectonic corrections applied to Pleistocene sea-level highstands. _Quaternary Science Reviews_ 111, 72–80\. doi:10.1016/j.quascirev.2015.01.003.](http://dx.doi.org/10.1016/j.quascirev.2015.01.003)
 
