@@ -81,7 +81,7 @@ economic and social stressors.
 {:.no_toc}
 
 <div>
-<a href=""><div style="margin: 20px; max-width: 200px"><img src="portraits/racheldisciullo.jpg"></div></a></div>
+<a href=""><div style="margin: 20px; max-width: 100px"><img src="portraits/racheldisciullo.jpg"></div></a></div>
 
 ### Alumni
 
