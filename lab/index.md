@@ -2,7 +2,7 @@
 layout: page-noauthor
 title: Rutgers Earth System Science & Policy Lab
 tags: [about]
-modified: June 5 2015
+modified: September 24 2015
 comments: false
 share: false
 image:
@@ -79,6 +79,9 @@ economic and social stressors.
 
 #### Rachel DiSciullo (Philosophy/Political Science)
 {:.no_toc}
+
+<div>
+<a href=""><div style="margin: 20px; max-width: 200px"><img src="portraits/racheldisciullo.jpg"></div></a></div>
 
 ### Alumni
 
