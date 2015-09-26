@@ -37,8 +37,6 @@ image:
 
 ### Journal articles
 
-* [R. E. Kopp, B. P. Horton, A. C. Kemp and C. Tebaldi (in press). Past and future sea-level rise along the coast of North Carolina, United States. _Climatic Change_. doi:10.1007/s10584-015-1451-x.](http://arxiv.org/abs/1410.8369)  [[Journal link]](http://dx.doi.org/10.1007/s10584-015-1451-x)
-
 * [C. M. Little, R. M. Horton, R. E. Kopp, M. Oppenheimer, G. A. Vecchi, and G. Villarini (in press). Joint projections of US East Coast sea level and storm surge. _Nature Climate Change_. doi:10.1038/nclimate2801.](http://dx.doi.org/10.1038/nclimate2801)
 
 * [J. R. Creveling, J. X. Mitrovica, C. C. Hay, J. Austermann, and R. E. Kopp (2015). Revisiting tectonic corrections applied to Pleistocene sea-level highstands. _Quaternary Science Reviews_ 111, 72–80\. doi:10.1016/j.quascirev.2015.01.003.](http://dx.doi.org/10.1016/j.quascirev.2015.01.003)
@@ -48,6 +46,8 @@ image:
 * [C. C. Hay, E. D. Morrow, R. E. Kopp, and J. X. Mitrovica (2015). Probabilistic reanalysis of 20th century sea-level rise. _Nature_ 517, 481–484\. doi:10.1038/nature14093.](http://dx.doi.org/10.1038/nature14093)
 
 * [R. E. Kopp, C. C. Hay, C. M. Little, and J. X. Mitrovica (2015). Geographic variability of sea-level change. _Current Climate Change Reports_ 1: 192-204, doi: 10.1007/s40641-015-0015-5.](http://dx.doi.org/10.1007/s40641-015-0015-5)
+
+* [R. E. Kopp, B. P. Horton, A. C. Kemp and C. Tebaldi (2015). Past and future sea-level rise along the coast of North Carolina, United States. _Climatic Change_ 132, 693-707. doi:10.1007/s10584-015-1451-x.](http://arxiv.org/abs/1410.8369)  [[Journal link]](http://dx.doi.org/10.1007/s10584-015-1451-x)
 
 * [C. M. Little, R. M. Horton, R. E. Kopp, M. Oppenheimer, and S. Yip (2015). Uncertainty in 21st century CMIP5 sea-level projections. _Journal of Climate_ 28, 838–852\. doi: 10.1175/JCLI-D-14-00453.1.](http://dx.doi.org/10.1175/JCLI-D-14-00453.1)
 
