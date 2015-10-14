@@ -72,16 +72,13 @@ advancing climate science and informing decision makers. Maya’s research inter
 economic and social stressors.
 </div>
 
-#### Kendra McKoy (Geological Sciences)
-{:.no_toc}
-
 ### Undergraduate students
 
 #### Rachel DiSciullo (Philosophy/Political Science)
 {:.no_toc}
 
 <div>
-<a href=""><div style="margin: 20px; max-width: 100px"><img src="portraits/racheldisciullo.jpg"></div></a></div>
+<a href="https://www.linkedin.com/pub/rachel-k-disciullo/8a/931/431"><div style="margin: 20px; max-width: 100px"><img src="portraits/racheldisciullo.jpg"></div></a></div>
 
 ### Alumni
 

@@ -45,7 +45,7 @@ image:
 
 * [C. C. Hay, E. D. Morrow, R. E. Kopp, and J. X. Mitrovica (2015). Probabilistic reanalysis of 20th century sea-level rise. _Nature_ 517, 481–484\. doi:10.1038/nature14093.](http://dx.doi.org/10.1038/nature14093)
 
-* [R. E. Kopp, C. C. Hay, C. M. Little, and J. X. Mitrovica (2015). Geographic variability of sea-level change. _Current Climate Change Reports_ 1: 192-204, doi: 10.1007/s40641-015-0015-5.](http://dx.doi.org/10.1007/s40641-015-0015-5)
+* [R. E. Kopp, C. C. Hay, C. M. Little, and J. X. Mitrovica (2015). Geographic variability of sea-level change. _Current Climate Change Reports_ 1: 192-204. doi: 10.1007/s40641-015-0015-5.](http://dx.doi.org/10.1007/s40641-015-0015-5)
 
 * [R. E. Kopp, B. P. Horton, A. C. Kemp and C. Tebaldi (2015). Past and future sea-level rise along the coast of North Carolina, United States. _Climatic Change_ 132, 693-707. doi:10.1007/s10584-015-1451-x.](http://arxiv.org/abs/1410.8369)  [[Journal link]](http://dx.doi.org/10.1007/s10584-015-1451-x)
 
