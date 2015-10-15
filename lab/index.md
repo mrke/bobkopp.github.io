@@ -79,12 +79,16 @@ sea-level equation.
 
 <div>
 <a href="https://www.linkedin.com/profile/view?id=22120048"><div style="float: right; margin: 20px; max-width: 200px"><img src="portraits/mayabuchanan.jpg"></div></a>
-Maya grew up in Salt Lake City, Utah. Fascinated with water availability in the Middle East, she started her career developing integrated water resources projects for the World Conservation Union, the
-United Nations and CDM engineering in Jordan. As a Fulbright Fellow, she modeled water scarcity amidst climate change. Maya later worked on federal sustainability and Earth science projects for the
-Architect of the Capitol, Department of Energy, and NASA. Most recently, she worked for the White House Subcommittee on Global Change Research on developing the U.S. Government's priorities in
-advancing climate science and informing decision makers. Maya’s research interests lie in optimizing resilience to climate change impacts, particularly to sea level rise in the face of multiple
-economic and social stressors.
+Maya is an interdisciplinary environmental scientist who applies climate science to policy applications and decision-making problems under uncertainty. Her interests lie in assessing dynamics between climate impacts and social and natural systems. Maya’s research involves optimizing resilience to climate change impacts, particularly to sea level rise in the face of multiple economic and social stressors. Before starting her PhD, she worked for the White House Subcommittee on Global Change Research on developing the U.S. Government's priorities in advancing climate science and informing decision makers. Previously, she worked as an environmental engineer and policy analyst for NASA, the Department of Energy, the Architect of the Capital, and the United Nations (Iraq and Jordan field offices).
 </div>
+
+#### [D.J. Rasmussen (Woodrow Wilson School)](http://www.djrasmussen.co ) 
+{: .no_toc}
+
+<div>
+<a href="https://www.linkedin.com/profile/view?id=22120048"><div style="float: right; margin: 20px; max-width: 150px"><img src="portraits/djrasmussen.png"></div></a>
+DJ’s interests lie at the intersection of climate, policy, and the economy. He uses computational models and large data sets to assess risks posed by weather and climate. DJ was a research fellow at the National Oceanic and Atmospheric Administration’s (NOAA) Geophysical Fluid Dynamics Laboratory (GFDL). He later contributed to the physical climate projection work for the technical analysis underlying the Risky Business Project — an initiative to quantify and publicize the economic risks from the impacts of a changing climate — and was more recently a senior associate engineer at Ramboll Environ, located in the San Francisco Bay Area. DJ has a BS in atmospheric science and an MS in civil and environmental engineering.</div>
+
 
 ### Undergraduate students
 
