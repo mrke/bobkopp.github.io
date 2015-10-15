@@ -2,7 +2,7 @@
 layout: page-noauthor
 title: Rutgers Earth System Science & Policy Lab
 tags: [about]
-modified: September 24 2015
+modified: October 15 2015
 comments: false
 share: false
 image:
@@ -17,7 +17,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-The Rutgers Earth System Science & Policy Lab takes a transdisciplinary, computationally intensive approach to investigating the evolution of the Earth system, human influences on the Earth system, and policy approaches for managing those human influences. We heavily employ the techniques of Bayesian statistics, geophysical and geochemical modeling, and quantitative risk analysis. 
+The Rutgers Earth System Science & Policy Lab takes a transdisciplinary, computationally intensive approach to investigating the evolution of the Earth system, human influences on the Earth system, and policy approaches for managing those human influences. We heavily employ the techniques of Bayesian statistics, geophysical and geochemical modeling, integrated assessment modeling, and quantitative risk analysis. 
 
 Major projects within our Lab at the moment include:
 
