@@ -17,6 +17,20 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
+The Rutgers Earth System Science & Policy Lab takes a transdisciplinary, computationally intensive approach to investigating the evolution of the Earth system, human influences on the Earth system, and policy approaches for managing those human influences. We heavily employ the techniques of Bayesian statistics, geophysical and geochemical modeling, and quantitative risk analysis. 
+
+Major projects within our Lab at the moment include:
+
+* reconstructing sea-level and ice-sheet changes on timescales ranging from the 20th century, to the late Holocene, to the last 150 thousand years, through statistical and geophysical modeling of geological and observational records;
+* probabilistically projecting future changes in sea levels and their implications for changing coastal flood risk, and translating those projected changes into actionable information for coastal adaptation; and
+* linking probabilistic simple climate models, complex Earth system models, and econometric analyses of historical weathering and climate impacts to project future risks associated with climate change and improve estimates of the social cost of carbon.
+
+We have close collaborations with colleagues at the [Rutgers Sea Level Lab](http://sealevel.marine.rutgers.edu), the [Princeton Science, Technology & Environmental Policy program](https://www.princeton.edu/step/), the [Harvard Sea Level Dynamics group](http://isites.harvard.edu/icb/icb.do?keyword=k92805),  and the [Berkeley Global Policy Lab](http://www.solomonhsiang.com/lab).
+
+We welcome applications from potential graduate students and postdocs with strong computational skills who want to join our group's eclectic mix of statisticians, geophysicists, climate modelers, and policy scholars. Contact [Bob Kopp](../contact/) for more information.
+
+## People
+
 #### [Bob Kopp, Group Director](/)
 {:.no_toc}
 
