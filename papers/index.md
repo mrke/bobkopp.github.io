@@ -181,31 +181,3 @@ image:
 
 * [R. E. Kopp and J. L. Kirschvink (2004). The world's worst climate disaster. In: _Miracle Planet II: The Evolution of Our World_ . Tokyo: NHK (Japan Broadcasting Corporation).](http://resolver.caltech.edu/CaltechAUTHORS:KOPnhk04) [published in Japanese]
 
-### Selected presentations and media appearances
-
-* ["Sudden heat," _Radio Ecoshock_, 24 June 2015.](https://goo.gl/e3TWX8)
-
-* [R. E. Kopp (2014). Panelist, conference on the Economic and Financial Risks of a Changing Climate. Resources for the Future, Washington, DC, November 2014.](http://www.rff.org/Publications/Pages/PublicationDetails.aspx?PublicationID=22537)
-
-* [R. E. Kopp. _American Climate Prospectus: Economic Risks in the United States_. Energy Modeling Forum Workshop on Climate Change Impacts and Integrated Assessment, Snowmass, CO, July 2014.](https://web.stanford.edu/group/emf-research/docs/CCIIA/2014/Kopp_7_22.pdf)
-
-* [R. E. Kopp. Sea-level rise and extreme events: Insights from the American Climate Prospectus. Energy Modeling Forum Workshop on Climate Change Impacts and Integrated Assessment, Snowmass, CO, July 2014.](https://www.stanford.edu/group/emf-research/docs/CCIIA/2014/Kopp_sea_level_talk.pdf)
-
-* ["The economic risks of climate change," _Radio Times with Marty Moss-Coane_, WHYY, 1 July 2014.](http://goo.gl/DfPnc9)
-
-* [T. Houser, S. M. Hsiang, and R. E. Kopp. _American Climate Prospectus: Economic Risks in the United States_. Resources for the Future, Washington, DC, June 2014.](http://goo.gl/4lGbOl)
-
-* [R. E. Kopp. A pathway toward characterizing climate risks across space and time: An example of sea-level change and flood risk. Resources for the Future First Wednesday Seminar: Limits to Securitization – the Future of Insurance, Washington, DC, June 2014.](http://goo.gl/jQsqFw)
-
-* [R. E. Kopp. Uncertainties and risks of regional sea-level change: Past, present and future. Pardee Center for the Longer-Range Future, Boston University, Boston, MA, February 2014.](http://goo.gl/ZTyNFb)
-
-* [R. E. Kopp, Local and global impacts of climate change and extreme weather. Schwartz Center for Economic Policy Analysis, New School for Social Research, New York, NY, November 2013. ](http://youtu.be/R8NXVVP4SWQ)
-
-* [R. E. Kopp. Frontiers in the assessment of climate change damages for benefit-cost analysis. Institute for Policy Integrity Fifth Annual Cost-Benefit Analysis and Issue Advocacy Workshop, New York, NY, October 2013. ](https://www.youtube.com/watch?v=SA13Ug3tkvk)
-
-* [R. E. Kopp. Regionalizing sea-level rise projections for urban planning. DIMCS/CCIADA Workshop on Urban Planning for Climate Events, Piscataway, NJ, September 2013.](http://dimacs.rutgers.edu/Workshops/Urban/Slides/SeaLevelTalk.pdf)
-
-* [R. E. Kopp. Uncertainties and risks of regional sea-level change: Past, present and future. Energy Modeling Forum Workshop on Climate Change Impacts and Integrated Assessment, Snowmass, CO, July 2013.](http://web.stanford.edu/group/emf-research/docs/CCIIA/2013/7-30/Kopp%20Using%20the%20geological%20past%20to%20inform%20sea-level%20rise%20projections%20.pdf)
-
-* [R. E. Kopp. The role of geoengineering among climate solutions. US Kavli Frontiers of Science Symposium, Irvine, CA, November 2012.](http://vimeo.com/58042026)
-
