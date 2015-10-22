@@ -30,13 +30,13 @@ image:
 
 * ["The economic risks of climate change." Radio Times with Marty Moss-Coane, WHYY, 1 July 2014.](http://goo.gl/DfPnc9)
 
-* Featured in: [Maryland Sea Grant (2013), Forecasting sea level rise for Maryland, July 2013.](http://youtu.be/RCc3C89qxOM).
+* Featured in: [Maryland Sea Grant (2013), Forecasting sea level rise for Maryland, July 2013.](http://youtu.be/RCc3C89qxOM)
 
 ### Selected Academic Talks
   
 *  ["Sea-level rise: Assessing the risks, estimating the costs." Energy Policy Institute at Chicago (EPIC) seminar, University of Chicago, Chicago, IL, 30 September 2015.](http://youtu.be/bagRtnY_Xm8)
 
-* ["American Climate Prospectus: Economic Risks in the United State," Resources for the Future, Washington, DC, June 2014.](http://goo.gl/4lGbOl)
+* ["A Discussion of the Independent Risk Assessment for Risky Business: The Economic Risks of Climate Change in the United States." Resources for the Future, Washington, DC, June 2014.](http://goo.gl/4lGbOl)
 
 * ["A pathway toward characterizing climate risks across space and time: An example of sea-level change and flood risk." Resources for the Future First Wednesday Seminar: Limits to Securitization – the Future of Insurance, Washington, DC, June 2014.](http://goo.gl/jQsqFw)
 
