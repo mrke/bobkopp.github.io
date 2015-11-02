@@ -59,6 +59,14 @@ One of the main goals of my work is to answer the fundamentally important climat
 I am a scientist and professional engineer who loves helping people derive novel insight from complex data. I began my career in the aerospace industry developing the systems that orient spacecraft in orbit and was on the operations support teams for several satellite missions, notably NASA’s ChipSat, Australia’s FedSat and Canada’s MOST programs. From there I moved to a more client-facing role supporting robotic operations to assemble the International Space Station. I then began my journey Earth-ward and worked on the development of an instrumentation platform for an airborne gravity gradiometer designed geophysical exploration. The latest accomplishment in my career path has been the completion of a PhD in geophysics from Harvard University that focused on using statistics, machine learning and physics with large data sets to estimate how our oceans have changed over the past century in the face of on-going climate change.
 </div>
 
+#### [Jiacan Yuan](http://www.meteo.psu.edu/~juy17/)
+{:.no_toc}
+
+<div>
+<a href="http://www.meteo.psu.edu/~juy17/"><div style="float:right; margin: 20px; max-width: 150px"><img src="portraits/jiacanyuan.jpg"></div></a>
+I am a climatologist who is interested in understanding the fundamental dynamical processes in the atmosphere and improving climate models, which could give us better predictive power and risk assessment of the changing climate. My research apparatus is built with a fusion of advanced statistical methods, idealized general circulation models (GCM), and state of the art climate models. At present, my research is focused on assessing economic risks from the projection of future climate. I have worked on several projects on climate dynamics, including the response of large-scale circulations in the warming climate, its effects on regional weather patterns and extreme events, tropical influence on midlatitude weather, and dynamical mechanisms of subseasonal variability of midlatitude jet streams.  </div>
+
+
 ### Graduate students
 
 #### [Erica Ashe  (Statistics)](https://www.linkedin.com/profile/view?id=10136757)
