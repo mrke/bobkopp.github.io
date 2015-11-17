@@ -45,7 +45,7 @@ image:
 
 * [C. C. Hay, E. D. Morrow, R. E. Kopp, and J. X. Mitrovica (2015). Probabilistic reanalysis of 20th century sea-level rise. _Nature_ 517, 481–484\. doi:10.1038/nature14093.](http://dx.doi.org/10.1038/nature14093)
 
-* [Khan, N. S., E. Ashe, T. A. Shaw, M. Vacchi, J. Walker, W. Peltier, R. E. Kopp, and B. P. Horton (2015). Holocene relative sea-level changes from near-, intermediate-, and far-field locations. _Current Climate Change Reports_ 1, 247–262. doi: 10.1007/s40641-015-0029-z.](http://dx.doi.org/10.1007/s40641-015-0029-z)
+* [N. S. Khan, E. Ashe, T. A. Shaw, M. Vacchi, J. Walker, W. Peltier, R. E. Kopp, and B. P. Horton (2015). Holocene relative sea-level changes from near-, intermediate-, and far-field locations. _Current Climate Change Reports_ 1, 247–262. doi: 10.1007/s40641-015-0029-z.](http://dx.doi.org/10.1007/s40641-015-0029-z)
 
 * [R. E. Kopp, C. C. Hay, C. M. Little, and J. X. Mitrovica (2015). Geographic variability of sea-level change. _Current Climate Change Reports_ 1: 192-204. doi: 10.1007/s40641-015-0015-5.](http://dx.doi.org/10.1007/s40641-015-0015-5)
 
