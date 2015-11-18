@@ -105,6 +105,7 @@ DJ’s interests lie at the intersection of climate, policy, and the economy. He
 
 <div>
 <a href="https://www.linkedin.com/pub/rachel-k-disciullo/8a/931/431"><div style="margin: 20px; max-width: 100px"><img src="portraits/racheldisciullo.jpg"></div></a></div>
+I am a senior at Rutgers University, interested in climate policy, its formation, and its impacts. My research project focuses on unearthing how policy makers conceptualize and understand climate risk, by analyzing their climate adaptation plans. The project is focused on cities in the North Atlantic coast, and looks at climate policy on the local level. I am also the president of the Institute of Domestic and International Relations-Rutgers and one of the principal organizers of the Rutgers Fossil Fuel Divestment Campaign. 
 
 ### Alumni
 
