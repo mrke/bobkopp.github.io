@@ -16,6 +16,8 @@ image:
 
 * [SeaLGaP](code/SeaLGaP-2.0.zip): Sea Level Gaussian Process analysis of Kopp et al. (2009)
 
+* [WetBulb.m](code/WetBulb.m): MATLAB function to calculate wet-bulb temperatures from temperature, pressure, and humidity; ported from HumanIndexMod ([Buzan et al., 2015](http://dx.doi.org/10.5194/gmd-8-151-2015)) 
+
 * [matFMR](https://github.com/bobkopp/matFMR): MATLAB routines for analysis of ferromagnetic resonance data
 
 * [matRockmag](https://github.com/bobkopp/matRockmag): MATLAB routines for analysis of rock magnetic data produced by Caltech/RAPID magnetometer control software
