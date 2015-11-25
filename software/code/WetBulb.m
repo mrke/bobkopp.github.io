@@ -60,139 +60,139 @@ function [Twb,Teq,epott]=WetBulb(TemperatureC,Pressure,Humidity,HumidityMode)
 % Ported from HumanIndexMod 03-21-14 by Jonathan R Buzan
 % MATLAB port by Robert Kopp
 %
-% Last updated by Robert Kopp, robert-dot-kopp-at-rutgers-dot-edu, Wed Nov 25 15:59:01 EST 2015
+% Last updated by Robert Kopp, robert-dot-kopp-at-rutgers-dot-edu, Wed Nov 25 16:18:33 EST 2015
 
-SHR_CONST_TKFRZ = 273.15;
-TemperatureC = TemperatureC + SHR_CONST_TKFRZ;
+    SHR_CONST_TKFRZ = 273.15;
+    TemperatureK = TemperatureC + SHR_CONST_TKFRZ;
 
-constA = 2675; 	% Constant used for extreme cold temparatures (K)
-grms = 1000; 	% Gram per Kilogram (g/kg)
-p0 = 1000;   	% surface pressure (mb)
+    constA = 2675; 	% Constant used for extreme cold temparatures (K)
+    grms = 1000; 	% Gram per Kilogram (g/kg)
+    p0 = 1000;   	% surface pressure (mb)
 
-kappad = 0.2854;	% Heat Capacity
+    kappad = 0.2854;	% Heat Capacity
 
-if ~exist('HumidityMode','var'); HumidityMode=0; end
+    if ~exist('HumidityMode','var'); HumidityMode=0; end
 
-[es_mb,rs]=QSat_2(TemperatureC, Pressure);
+    [es_mb,rs]=QSat_2(TemperatureK, Pressure);
 
-if HumidityMode==0
-    qin=Humidity;
-    relhum = 100*qin./rs;
-    vape = (qin./rs).*es_mb;
-elseif HumidityMode==1
-    relhum=Humidity;
-    qin = (relhum.*rs)/100;
-    vape = (qin./rs).*es_mb;
-end
-
-
-%   real(r8) :: k1;		        % Quadratic Parameter (C)
-%    real(r8) :: k2;		 	% Quadratic Parameter scaled by X (C) 
-%    real(r8) :: pmb;		 	% Atmospheric Surface Pressure (mb)
-%    real(r8) :: D;		 	% Linear Interpolation of X
-
-%  real(r8) :: C			% Temperature of Freezing (K)
-
-%   real(r8) :: hot	% Dimensionless Quantity used for changing temperature regimes
-%    real(r8) :: cold	% Dimensionless Quantity used for changing temperature regimes    
-
-%   real(r8) :: T1     	 		% Temperature (K)
-%   real(r8) :: vapemb        		% Vapour Pressure (mb)
-%   real(r8) :: mixr        		% Mixing Ratio (g/kg)
-
-%   real(r8) :: es_mb_teq		% saturated vapour pressure for wrt TEQ (mb)
-%   real(r8) :: de_mbdTeq		% Derivative of Saturated Vapour pressure wrt TEQ (mb/K)
-%   real(r8) :: dlnes_mbdTeq		% Log derivative of the sat. vap pressure wrt TEQ (mb/K)
-%   real(r8) :: rs_teq			% Mixing Ratio wrt TEQ (kg/kg)
-%   real(r8) :: rsdTeq			% Derivative of Mixing Ratio wrt TEQ (kg/kg/K)
-%   real(r8) :: foftk_teq		% Function of EPT wrt TEQ 
-%   real(r8) :: fdTeq			% Derivative of Function of EPT wrt TEQ 
-
-%   real(r8) :: wb_temp			% Wet Bulb Temperature First Guess (C)
-%   real(r8) :: es_mb_wb_temp		% Vapour Pressure wrt Wet Bulb Temp (mb)
-%   real(r8) :: de_mbdwb_temp		% Derivative of Sat. Vapour Pressure wrt WB Temp (mb/K)
-%   real(r8) :: dlnes_mbdwb_temp	% Log Derivative of sat. vap. pressure wrt WB Temp (mb/K)
-%   real(r8) :: rs_wb_temp		% Mixing Ratio wrt WB Temp (kg/kg)
-%   real(r8) :: rsdwb_temp		% Derivative of Mixing Ratio wrt WB Temp (kg/kg/K)
-%   real(r8) :: foftk_wb_temp		% Function of EPT wrt WB Temp
-%   real(r8) :: fdwb_temp		% Derivative of function of EPT wrt WB Temp
-
-%   real(r8) :: tl		 	% Lifting Condensation Temperature (K)
-%   real(r8) :: theta_dl	 	% Moist Potential Temperature (K)
-%   real(r8) :: pnd		 	% Non dimensional Pressure
-%   real(r8) :: X		 	% Ratio of equivalent temperature to freezing scaled by Heat Capacity
-
-%    real(I8) :: j			% Iteration Step Number
-
-%
-%-----------------------------------------------------------------------
-C = SHR_CONST_TKFRZ;		% Freezing Temperature
-pmb = Pressure*0.01;		% pa to mb
-vapemb = vape*0.01;	% pa to mb
-T1 = TemperatureC;			% Use holder for T
-                                % JRB BEGIN
-                                % 03-21-14 Changing specific humidity to mixing ratio
-                                %   mixr = qin * grms;               % change mixing ratio to g/kg
-mixr = qin./(1 - qin) * grms; % change specific humidity to mixing ratio (g/kg)
-                              % JRB END
-
-% Calculate Equivalent Pot. Temp (pmb, T, mixing ratio (g/kg), pott, epott)	
-% Calculate Parameters for Wet Bulb Temp (epott, pmb)
-pnd = (pmb./p0).^(kappad);
-D = 1./(0.1859.*pmb./p0 + 0.6512);
-k1 = -38.5.*pnd.*pnd +137.81.*pnd -53.737;
-k2 = -4.392.*pnd.*pnd +56.831.*pnd -0.384;
-
-% Calculate lifting condensation level.  first eqn 
-% uses vapor pressure (mb)
-% 2nd eqn uses relative humidity.  
-% first equation: Bolton 1980 Eqn 21.
-%   tl = (2840/(3.5*log(T1) - log(vapemb) - 4.805)) + 55;
-% second equation: Bolton 1980 Eqn 22.  relhum = relative humidity
-tl = (1./((1./((T1 - 55))) - (log(relhum/100)/2840))) + 55;
-
-% Theta_DL: Bolton 1980 Eqn 24.
-theta_dl = T1.*((p0./(pmb-vapemb)).^kappad).*((T1./tl).^(mixr*0.00028));
-% EPT: Bolton 1980 Eqn 39.  
-epott = theta_dl.*exp(((3.036./tl)-0.00178).*mixr.*(1 + 0.000448*mixr));
-Teq = epott.*pnd;			% Equivalent Temperature at pressure
-X = (C./Teq).^3.504;
-
-% Calculates the regime requirements of wet bulb equations.
-invalid = (Teq > 600) + (Teq < 200);
-hot = (Teq > 355.15);
-cold = ((X>=1).*(X<=D));
-X(invalid==1)=NaN; Teq(invalid==1)=NaN;
+    if HumidityMode==0
+        qin=Humidity;
+        relhum = 100*qin./rs;
+        vape = (qin./rs).*es_mb;
+    elseif HumidityMode==1
+        relhum=Humidity;
+        qin = (relhum.*rs)/100;
+        vape = (qin./rs).*es_mb;
+    end
 
 
-% Calculate Wet Bulb Temperature, initial guess
-% Extremely cold regime if X.gt.D then need to 
-% calculate dlnesTeqdTeq 
+    %   real(r8) :: k1;		        % Quadratic Parameter (C)
+    %    real(r8) :: k2;		 	% Quadratic Parameter scaled by X (C) 
+    %    real(r8) :: pmb;		 	% Atmospheric Surface Pressure (mb)
+    %    real(r8) :: D;		 	% Linear Interpolation of X
 
-[es_mb_teq,rs_teq,de_mbdTeq, dlnes_mbdTeq, rsdTeq, foftk_teq, fdTeq]=QSat_2(Teq, Pressure);
-wb_temp = Teq - C - ((constA*rs_teq)./(1 + (constA.*rs_teq.*dlnes_mbdTeq)));
-sub=find(X<=D);
-wb_temp(sub) = (k1(sub) - 1.21 * cold(sub) - 1.45 * hot(sub) - (k2(sub) - 1.21 * cold(sub)) .* X(sub) + (0.58 ./ X(sub)) .* hot(sub));
-wb_temp=min(wb_temp,.999*TemperatureC-C); wb_temp=max(wb_temp,-C);
-wb_temp(invalid==1) = NaN;
+    %  real(r8) :: C			% Temperature of Freezing (K)
 
-% Newton-Raphson Method
+    %   real(r8) :: hot	% Dimensionless Quantity used for changing temperature regimes
+    %    real(r8) :: cold	% Dimensionless Quantity used for changing temperature regimes    
 
-maxiter=3;
-iter=0;
-delta=1e6;
-while (max(delta(:))>.01)&&(iter<=maxiter)
-    [es_mb_wb_temp,rs_wb_temp,de_mbdwb_temp, dlnes_mbdwb_temp, rsdwb_temp, foftk_wb_temp, fdwb_temp]=QSat_2(wb_temp+C, Pressure);
-    delta=real((foftk_wb_temp - X)./fdwb_temp);
-    subbad=find(abs(delta)>10);
-    delta(subbad)=NaN;
-    wb_temp = wb_temp - delta;
-    wb_temp=min(wb_temp,.999*TemperatureC-C); wb_temp=max(wb_temp,-C);
-    wb_temp(find(isnan(delta)))=NaN;
+    %   real(r8) :: T1     	 		% Temperature (K)
+    %   real(r8) :: vapemb        		% Vapour Pressure (mb)
+    %   real(r8) :: mixr        		% Mixing Ratio (g/kg)
+
+    %   real(r8) :: es_mb_teq		% saturated vapour pressure for wrt TEQ (mb)
+    %   real(r8) :: de_mbdTeq		% Derivative of Saturated Vapour pressure wrt TEQ (mb/K)
+    %   real(r8) :: dlnes_mbdTeq		% Log derivative of the sat. vap pressure wrt TEQ (mb/K)
+    %   real(r8) :: rs_teq			% Mixing Ratio wrt TEQ (kg/kg)
+    %   real(r8) :: rsdTeq			% Derivative of Mixing Ratio wrt TEQ (kg/kg/K)
+    %   real(r8) :: foftk_teq		% Function of EPT wrt TEQ 
+    %   real(r8) :: fdTeq			% Derivative of Function of EPT wrt TEQ 
+
+    %   real(r8) :: wb_temp			% Wet Bulb Temperature First Guess (C)
+    %   real(r8) :: es_mb_wb_temp		% Vapour Pressure wrt Wet Bulb Temp (mb)
+    %   real(r8) :: de_mbdwb_temp		% Derivative of Sat. Vapour Pressure wrt WB Temp (mb/K)
+    %   real(r8) :: dlnes_mbdwb_temp	% Log Derivative of sat. vap. pressure wrt WB Temp (mb/K)
+    %   real(r8) :: rs_wb_temp		% Mixing Ratio wrt WB Temp (kg/kg)
+    %   real(r8) :: rsdwb_temp		% Derivative of Mixing Ratio wrt WB Temp (kg/kg/K)
+    %   real(r8) :: foftk_wb_temp		% Function of EPT wrt WB Temp
+    %   real(r8) :: fdwb_temp		% Derivative of function of EPT wrt WB Temp
+
+    %   real(r8) :: tl		 	% Lifting Condensation Temperature (K)
+    %   real(r8) :: theta_dl	 	% Moist Potential Temperature (K)
+    %   real(r8) :: pnd		 	% Non dimensional Pressure
+    %   real(r8) :: X		 	% Ratio of equivalent temperature to freezing scaled by Heat Capacity
+
+    %    real(I8) :: j			% Iteration Step Number
+
+    %
+    %-----------------------------------------------------------------------
+    C = SHR_CONST_TKFRZ;		% Freezing Temperature
+    pmb = Pressure*0.01;		% pa to mb
+    vapemb = vape*0.01;	% pa to mb
+    T1 = TemperatureK;			% Use holder for T
+                                        % JRB BEGIN
+                                        % 03-21-14 Changing specific humidity to mixing ratio
+                                        %   mixr = qin * grms;               % change mixing ratio to g/kg
+    mixr = qin./(1 - qin) * grms; % change specific humidity to mixing ratio (g/kg)
+                                  % JRB END
+
+    % Calculate Equivalent Pot. Temp (pmb, T, mixing ratio (g/kg), pott, epott)	
+    % Calculate Parameters for Wet Bulb Temp (epott, pmb)
+    pnd = (pmb./p0).^(kappad);
+    D = 1./(0.1859.*pmb./p0 + 0.6512);
+    k1 = -38.5.*pnd.*pnd +137.81.*pnd -53.737;
+    k2 = -4.392.*pnd.*pnd +56.831.*pnd -0.384;
+
+    % Calculate lifting condensation level.  first eqn 
+    % uses vapor pressure (mb)
+    % 2nd eqn uses relative humidity.  
+    % first equation: Bolton 1980 Eqn 21.
+    %   tl = (2840/(3.5*log(T1) - log(vapemb) - 4.805)) + 55;
+    % second equation: Bolton 1980 Eqn 22.  relhum = relative humidity
+    tl = (1./((1./((T1 - 55))) - (log(relhum/100)/2840))) + 55;
+
+    % Theta_DL: Bolton 1980 Eqn 24.
+    theta_dl = T1.*((p0./(pmb-vapemb)).^kappad).*((T1./tl).^(mixr*0.00028));
+    % EPT: Bolton 1980 Eqn 39.  
+    epott = theta_dl.*exp(((3.036./tl)-0.00178).*mixr.*(1 + 0.000448*mixr));
+    Teq = epott.*pnd;			% Equivalent Temperature at pressure
+    X = (C./Teq).^3.504;
+
+    % Calculates the regime requirements of wet bulb equations.
+    invalid = (Teq > 600) + (Teq < 200);
+    hot = (Teq > 355.15);
+    cold = ((X>=1).*(X<=D));
+    X(invalid==1)=NaN; Teq(invalid==1)=NaN;
+
+
+    % Calculate Wet Bulb Temperature, initial guess
+    % Extremely cold regime if X.gt.D then need to 
+    % calculate dlnesTeqdTeq 
+
+    [es_mb_teq,rs_teq,de_mbdTeq, dlnes_mbdTeq, rsdTeq, foftk_teq, fdTeq]=QSat_2(Teq, Pressure);
+    wb_temp = Teq - C - ((constA*rs_teq)./(1 + (constA.*rs_teq.*dlnes_mbdTeq)));
+    sub=find(X<=D);
+    wb_temp(sub) = (k1(sub) - 1.21 * cold(sub) - 1.45 * hot(sub) - (k2(sub) - 1.21 * cold(sub)) .* X(sub) + (0.58 ./ X(sub)) .* hot(sub));
+    wb_temp=min(wb_temp,.999*TemperatureK-C); wb_temp=max(wb_temp,-C);
     wb_temp(invalid==1) = NaN;
-    Twb = wb_temp;
-    iter=iter+1;
-end
+
+    % Newton-Raphson Method
+
+    maxiter=3;
+    iter=0;
+    delta=1e6;
+    while (max(delta(:))>.01)&&(iter<=maxiter)
+        [es_mb_wb_temp,rs_wb_temp,de_mbdwb_temp, dlnes_mbdwb_temp, rsdwb_temp, foftk_wb_temp, fdwb_temp]=QSat_2(wb_temp+C, Pressure);
+        delta=real((foftk_wb_temp - X)./fdwb_temp);
+        subbad=find(abs(delta)>10);
+        delta(subbad)=NaN;
+        wb_temp = wb_temp - delta;
+        wb_temp=min(wb_temp,.999*TemperatureK-C); wb_temp=max(wb_temp,-C);
+        wb_temp(find(isnan(delta)))=NaN;
+        wb_temp(invalid==1) = NaN;
+        Twb = wb_temp;
+        iter=iter+1;
+    end
 
 end
 
@@ -233,19 +233,19 @@ function [es_mb,rs,de_mbdT,dlnes_mbdT,rsdT,foftk,fdT]=QSat_2(T_k, p_t)
 % Last updated by Robert Kopp, robert-dot-kopp-at-rutgers-dot-edu, Wed Sep 02 22:22:25 EDT 2015
 %
 
-SHR_CONST_TKFRZ = 273.15;
+    SHR_CONST_TKFRZ = 273.15;
 
-lambd_a = 3.504;	% Inverse of Heat Capacity
-alpha = 17.67;	% Constant to calculate vapour pressure
-beta = 243.5;		% Constant to calculate vapour pressure
-epsilon = 0.6220;	% Conversion between pressure/mixing ratio
-es_C = 6.112;		% Vapour Pressure at Freezing STD (mb)
-vkp = 0.2854;		% Heat Capacity
-y0 = 3036;		% constant
-y1 = 1.78;		% constant
-y2 = 0.448;		% constant
-Cf = SHR_CONST_TKFRZ;	% Freezing Temp (K)
-refpres = 1000;	% Reference Pressure (mb)
+    lambd_a = 3.504;	% Inverse of Heat Capacity
+    alpha = 17.67;	% Constant to calculate vapour pressure
+    beta = 243.5;		% Constant to calculate vapour pressure
+    epsilon = 0.6220;	% Conversion between pressure/mixing ratio
+    es_C = 6.112;		% Vapour Pressure at Freezing STD (mb)
+    vkp = 0.2854;		% Heat Capacity
+    y0 = 3036;		% constant
+    y1 = 1.78;		% constant
+    y2 = 0.448;		% constant
+    Cf = SHR_CONST_TKFRZ;	% Freezing Temp (K)
+    refpres = 1000;	% Reference Pressure (mb)
 
 % $$$  p_tmb			% Pressure (mb)
 % $$$  ndimpress		% Non-dimensional Pressure
@@ -269,40 +269,40 @@ refpres = 1000;	% Reference Pressure (mb)
 %-----------------------------------------------------------------------
 % Constants used to calculate es(T)
 % Clausius-Clapeyron
-p_tmb = p_t*0.01;
-tcfbdiff = T_k - Cf + beta;
-es_mb = es_C.*exp(alpha.*(T_k - Cf)./(tcfbdiff));
-dlnes_mbdT = alpha.*beta./((tcfbdiff).*(tcfbdiff));
-pminuse = p_tmb - es_mb;
-de_mbdT = es_mb.*dlnes_mbdT;
-d2e_mbdT2 = dlnes_mbdT.*(de_mbdT - 2.*es_mb./(tcfbdiff));
+    p_tmb = p_t*0.01;
+    tcfbdiff = T_k - Cf + beta;
+    es_mb = es_C.*exp(alpha.*(T_k - Cf)./(tcfbdiff));
+    dlnes_mbdT = alpha.*beta./((tcfbdiff).*(tcfbdiff));
+    pminuse = p_tmb - es_mb;
+    de_mbdT = es_mb.*dlnes_mbdT;
+    d2e_mbdT2 = dlnes_mbdT.*(de_mbdT - 2.*es_mb./(tcfbdiff));
 
-% Constants used to calculate rs(T)
-ndimpress = (p_tmb./refpres).^vkp;
-p0ndplam = refpres.*ndimpress.^lambd_a;
-rs = epsilon.*es_mb./(p0ndplam - es_mb + eps);
-prersdt = epsilon.*p_tmb./((pminuse).*(pminuse));
-rsdT = prersdt.*de_mbdT;
-d2rsdT2 = prersdt.*(d2e_mbdT2 -de_mbdT.*de_mbdT.*(2./(pminuse)));
+    % Constants used to calculate rs(T)
+    ndimpress = (p_tmb./refpres).^vkp;
+    p0ndplam = refpres.*ndimpress.^lambd_a;
+    rs = epsilon.*es_mb./(p0ndplam - es_mb + eps);
+    prersdt = epsilon.*p_tmb./((pminuse).*(pminuse));
+    rsdT = prersdt.*de_mbdT;
+    d2rsdT2 = prersdt.*(d2e_mbdT2 -de_mbdT.*de_mbdT.*(2./(pminuse)));
 
-% Constants used to calculate g(T)
-rsy2rs2 = rs + y2.*rs.*rs;
-oty2rs = 1 + 2.*y2.*rs;
-y0tky1 = y0./T_k - y1;
-goftk = y0tky1.*(rs + y2.*rs.*rs);
-gdT = - y0.*(rsy2rs2)./(T_k.*T_k) + (y0tky1).*(oty2rs).*rsdT;
-d2gdT2 = 2.*y0.*rsy2rs2./(T_k.*T_k.*T_k) - 2.*y0.*rsy2rs2.*(oty2rs).*rsdT + ...
-         y0tky1.*2.*y2.*rsdT.*rsdT + y0tky1.*oty2rs.*d2rsdT2;
+    % Constants used to calculate g(T)
+    rsy2rs2 = rs + y2.*rs.*rs;
+    oty2rs = 1 + 2.*y2.*rs;
+    y0tky1 = y0./T_k - y1;
+    goftk = y0tky1.*(rs + y2.*rs.*rs);
+    gdT = - y0.*(rsy2rs2)./(T_k.*T_k) + (y0tky1).*(oty2rs).*rsdT;
+    d2gdT2 = 2.*y0.*rsy2rs2./(T_k.*T_k.*T_k) - 2.*y0.*rsy2rs2.*(oty2rs).*rsdT + ...
+             y0tky1.*2.*y2.*rsdT.*rsdT + y0tky1.*oty2rs.*d2rsdT2;
 
-% Calculations for used to calculate f(T,ndimpress)
-foftk = ((Cf./T_k).^lambd_a).*(1 - es_mb./p0ndplam).^(vkp.*lambd_a).* ...
-        exp(-lambd_a.*goftk);
-fdT = -lambd_a.*(1./T_k + vkp.*de_mbdT./pminuse + gdT);
-d2fdT2 = lambd_a.*(1./(T_k.*T_k) - vkp.*de_mbdT.*de_mbdT./(pminuse.*pminuse) - ...
-                   vkp.*d2e_mbdT2./pminuse - d2gdT2);
+    % Calculations for used to calculate f(T,ndimpress)
+    foftk = ((Cf./T_k).^lambd_a).*(1 - es_mb./p0ndplam).^(vkp.*lambd_a).* ...
+            exp(-lambd_a.*goftk);
+    fdT = -lambd_a.*(1./T_k + vkp.*de_mbdT./pminuse + gdT);
+    d2fdT2 = lambd_a.*(1./(T_k.*T_k) - vkp.*de_mbdT.*de_mbdT./(pminuse.*pminuse) - ...
+                       vkp.*d2e_mbdT2./pminuse - d2gdT2);
 
-% avoid bad numbers
-rs(rs>1)=NaN;
-rs(rs<0)=NaN;
+    % avoid bad numbers
+    rs(rs>1)=NaN;
+    rs(rs<0)=NaN;
 
 end
