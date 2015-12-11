@@ -53,6 +53,8 @@ image:
 
  * [C. M. Little, R. M. Horton, R. E. Kopp, M. Oppenheimer, G. A. Vecchi, and G. Villarini (2015). Joint projections of US East Coast sea level and storm surge. _Nature Climate Change_ 5, 1114-1120. doi:10.1038/nclimate2801.](http://dx.doi.org/10.1038/nclimate2801)
 
+* [J. X. Mitrovica, C. C. Hay, E. D. Morrow, R. E. Kopp, M. Dumberry, and S. Stanley (2015). Reconciling past and present changes in Earth rotation with 20th century global sea-level rise: Resolving Munk’s enigma. _Science Advances_ 1, e1500679. doi: 10.1126/sciadv.1500679.](http://dx.doi.org/10.1126/sciadv.1500679)
+
 * [D. Nikitina, A. C. Kemp, S. E. Engelhart, B. P. Horton, D. F. Hill, and R. E. Kopp (2015). Sea-level change and subsidence in the Delaware estuary in the last ∼ 2200 years. _Estuarine, Coastal and Shelf Science_ 164, 506-519. doi: 10.1016/j.ecss.2015.08.012.](http://dx.doi.org/10.1016/j.ecss.2015.08.012)
 
 * [A. Chen, V. Berounsky, M. Chan, M. Blackford, C. Cady, B. Moskowitz, P. Kraal, E. Lima, R. Kopp, G. Lumpkin, B. Weiss, and P. Hesse (2014). Magnetic properties of uncultivated magnetotactic bacteria and their contribution to a stratified estuary iron cycle. _Nature Communications_ 5, 4797, doi:10.1038/ncomms5797.](http://dx.doi.org/10.1038/ncomms5797)
