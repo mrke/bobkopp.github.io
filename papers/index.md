@@ -37,6 +37,8 @@ image:
 
 ### Journal articles
 
+* [J. Liu,, G. A. Milne, R. E. Kopp, P. U. Clark, and I. Shennan (2016). Sea-Level Constraints on the Amplitude and Source Distribution of Meltwater Pulse 1A. _Nature Geoscience_. doi:10.1038/NGEO2616.](http://dx.doi.org/10.1038/NGEO2616)
+
 * [J. R. Creveling, J. X. Mitrovica, C. C. Hay, J. Austermann, and R. E. Kopp (2015). Revisiting tectonic corrections applied to Pleistocene sea-level highstands. _Quaternary Science Reviews_ 111, 72–80\. doi:10.1016/j.quascirev.2015.01.003.](http://dx.doi.org/10.1016/j.quascirev.2015.01.003)
 
 * [S. E. Engelhart, M. Vacchi, B. P. Horton, A. R. Nelson, and R. E. Kopp (2015). Sea-level history of the Pacific coast of North America since the Last Glacial Maximum. _Quaternary Science Reviews_ 113, 78–92\. doi:10.1016/j.quascirev.2014.12.001.](http://dx.doi.org/10.1016/j.quascirev.2014.12.001)
