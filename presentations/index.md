@@ -2,7 +2,7 @@
 layout: page
 title: Presentations and Media Appearances
 tags: [presentations]
-modified: October 21 6:15 PM
+modified: January 13 2016 9:40 PM
 comments: false
 share: false
 image:
@@ -24,7 +24,7 @@ image:
   
 ### Selected Public Presentations and Media Appearances
   
-  * Featured in: [New Jersey Climate Adaptation Alliance (2015), Climate Change and the Jersey Shore. November 2015.](https://youtu.be/zZn5Xh5FD88)
+  * Featured in: [New Jersey Climate Adaptation Alliance (2015), Climate Change and the Jersey Shore, November 2015.](https://youtu.be/zZn5Xh5FD88)
   
 * ["Food for Tomorrow: Risks of a Changing Climate." _New York Times_ Food for Tomorrow Conference, Stone Barns, NY, 21 October 2015.](http://goo.gl/B5LaTz)
 
