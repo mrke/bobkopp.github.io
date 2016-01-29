@@ -143,11 +143,15 @@ image:
 
 * [D. R. Morrow, R. E. Kopp and M. Oppenheimer (forthcoming). Research ethics and geoengineering. In: _The Governance of Climate Geoengineering: Science, Ethics, Policy and Law_. (J. Blackstock ,C. Miller, and S. Rayner, eds.) Oxford: Earthscan.](http://tinyurl.com/morrow2013)
 
+* [National Academies of Sciences, Engineering, and Medicine (2016). Assessment of Approaches to Updating the Social Cost of Carbon: Phase 1 Report on a Near-Term Update. Washington, DC: The National Academies Press, 74 pp. doi:10.17226/21898.](http://dx.doi.org/10.17226/21898)
+
 * Contributing author to: [Arent, D., R. Tol, E. Faust, J. P. Hella, S. Kumar, K. M. Strzepek, F. L. Tóth, and D. Yan (2014). Key Economic Sectors and Services. In: Climate Change 2014: Impacts, Adaptation, and Vulnerability. _Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change._ Ed. by C. B. Field, V. R. Barros, D. Dokken, K. Mach, M. Mastrandrea, T. Bilir, M. Chatterjee, K. Ebi, Y. Estrada, R. Genova, B. Girma, E. Kissel, A. Levy, S. MacCracken, P. Mastrandrea, and L. White. Cambridge, UK: Cambridge University Press, pp.659–708.](http://www.ipcc.ch/pdf/assessment-report/ar5/wg2/WGIIAR5-Chap10_FINAL.pdf)
 
 * [T. Houser,  R. Kopp, S. Hsiang, R. Muir-Wood, K. Larsen, M. Delgado, A. Jina, P. Wilson, S. Mohan, D. J. Rasmussen, M. Mastrandrea, and J. Rising (2014). American Climate Prospectus: Economic Risks in the United States. New York: Rhodium Group.](http://www.climateprospectus.org/)
 
 * Contributing author to: [Oppenheimer, M., M. Campos, R. Warren, J. Birkmann, G. Luber, B. O’Neill, and K. Takahashi (2014). Emergent Risks and Key Vulnerabilities. In: _Climate Change 2014: Impacts, Adaptation, and Vulnerability. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change_. Ed. by C. B. Field, V. R. Barros, D. Dokken, K. Mach, M. Mastrandrea, T. Bilir, M. Chatterjee, K. Ebi, Y. Estrada, R. Genova, B. Girma, E. Kissel, A. Levy, S. MacCracken, P. Mastrandrea, and L. White. Cambridge, UK: Cambridge University Press, pp.1039–1099.](http://www.ipcc.ch/pdf/assessment-report/ar5/wg2/WGIIAR5-Chap19_FINAL.pdf)
+
+* [R. Warren, N. Arnell, S. Brown, T. Kjellstrom, R. Kopp, R. Nicholls, and J. Price (2014). Post-IPCC assessment of climate impacts using existing scenarios — advances in understanding. Report 1. AVOID 2 WPB.1a.](http://avoid-net-uk.cc.ic.ac.uk/downloads/avoid2/AVOID2 WP B.1a report v1 final.pdf)
 
 * [D.F. Boesch, L.P. Atkinson, W.C. Boicourt, J.D. Boon, D.R. Cahoon, R.A. Dalrymple, T. Ezer, B.P. Horton, Z.P. Johnson, R.E. Kopp, M. Li, R.H. Moss, A. Parris, C.K. Sommerfield (2013). Updating Maryland’s Sea-level Rise Projections. Special Report of the Scientific and Technical Working Group to the Maryland Climate Change Commission. Cambridge, MD: University of Maryland Center for Environmental Science.](http://www.umces.edu/sea-level) [[Video]](http://www.youtube.com/watch?v=RCc3C89qxOM)
 
