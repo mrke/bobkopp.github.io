@@ -2,13 +2,15 @@
 layout: page
 title: Software
 tags: [software]
-modified: Wed Nov 25 2015
+modified: Wed Jan 30 2016
 comments: false
 share: false
 image:
   feature: near-ilulissat.jpg
 
 ---
+
+* [CESL-STEHM-GP](https://github.com/bobkopp/CESL-STEHM-GP/releases): MATLAB code for Spatio-Temporal Empirical Hierarchical Modeling of sea-level data with Gaussian Processes; used in Kopp et al. (2016)
 
 * [LocalizeSL](https://github.com/bobkopp/LocalizeSL/releases): MATLAB routines to localize the sea-level rise projections of Kopp et al. (2014)
 
