@@ -2,7 +2,7 @@
 layout: page
 title: Presentations and Media Appearances
 tags: [presentations]
-modified: January 13 2016 9:40 PM
+modified: February 23 2016 6:50 PM
 comments: false
 share: false
 image:
@@ -23,6 +23,8 @@ image:
 
   
 ### Selected Public Presentations and Media Appearances
+  
+  * ["New report blames most rising seas on humans -- but this scientist remains hopeful." PRI’s The World, 23 February 2016.](http://goo.gl/RuhXl3)
   
   * Featured in: [New Jersey Climate Adaptation Alliance (2015), Climate Change and the Jersey Shore, November 2015.](https://youtu.be/zZn5Xh5FD88)
   
