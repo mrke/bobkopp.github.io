@@ -38,7 +38,7 @@ image:
 ### Working papers
 
 * [M. K. Buchanan, R. E. Kopp, M. Oppenheimer, and C. Tebaldi (2015). Allowances for evolving coastal flood risk under uncertain local sea-level rise. ArXiv e-prints. arXiv: 1510.08550.](http://arxiv.org/abs/1510.08550)
-* [A. Düsterhus, A. Rovere, A. E. Carlson, N. L. M. Barlow, T. Bradwell, A. Dutton, R. Gehrels, F. D. Hibbert, M. P. Hijma, B. P. Horton, V. Klemann, R. E. Kopp, D. Sivan, L. Tarasov, and T. E. To ̈rnqvist (2015). Palaeo sea-level and ice-sheet databases: problems, strategies and perspectives. _Climate of the Past Discussions_ 11(3), 2389–2404. doi: 10.5194/cpd-11-2389-2015.](http://dx.doi.org/10.5194/cpd-11-2389-2015)
+* [A. Düsterhus, A. Rovere, A. E. Carlson, N. L. M. Barlow, T. Bradwell, A. Dutton, R. Gehrels, F. D. Hibbert, M. P. Hijma, B. P. Horton, V. Klemann, R. E. Kopp, D. Sivan, L. Tarasov, and T. E. Törnqvist (2015). Palaeo sea-level and ice-sheet databases: problems, strategies and perspectives. _Climate of the Past Discussions_ 11(3), 2389–2404. doi: 10.5194/cpd-11-2389-2015.](http://dx.doi.org/10.5194/cpd-11-2389-2015)
 * [R. E. Kopp, R. Shwom, G. Wagner, and J. Yuan (2016). Tipping elements, tipping points, and economic catastrophes: Implications for the cost of climate change. ArXiv e-prints. arXiv: 1603.00850.](http://arxiv.org/abs/1603.00850)
 
 ### Journal articles
