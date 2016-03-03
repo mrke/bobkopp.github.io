@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: February 22 2016 15:15
+modified: March 3 2016 9:28
 comments: false
 share: false
 image:
@@ -34,6 +34,12 @@ image:
 <div style="float: right; margin: 5px; max-width: 75px; box-shadow: 5px 5px 2px #888888; border:  1px solid gray;"><a href="http://www.climateprospectus.org" target="_blank"><img src="/images/EconomicRisksOfCC.jpg"></a></div>
 
 * [T. Houser, S. Hsiang, R. Kopp, K. Larsen and others (2015). _Economic Risks of Climate Change: An American Prospectus_. New York: Columbia University Press, 384 pp. ISBN 9780231174565.](http://www.climateprospectus.org)
+
+### Working papers
+
+* [M. K. Buchanan, R. E. Kopp, M. Oppenheimer, and C. Tebaldi (2015). Allowances for evolving coastal flood risk under uncertain local sea-level rise. ArXiv e-prints. arXiv: 1510.08550.](http://arxiv.org/abs/1510.08550)
+* [A. Düsterhus, A. Rovere, A. E. Carlson, N. L. M. Barlow, T. Bradwell, A. Dutton, R. Gehrels, F. D. Hibbert, M. P. Hijma, B. P. Horton, V. Klemann, R. E. Kopp, D. Sivan, L. Tarasov, and T. E. To ̈rnqvist (2015). Palaeo sea-level and ice-sheet databases: problems, strategies and perspectives. _Climate of the Past Discussions_ 11(3), 2389–2404. doi: 10.5194/cpd-11-2389-2015.](http://dx.doi.org/10.5194/cpd-11-2389-2015)
+* [R. E. Kopp, R. Shwom, G. Wagner, and J. Yuan (2016). Tipping elements, tipping points, and economic catastrophes: Implications for the cost of climate change. ArXiv e-prints. arXiv: 1603.00850.](http://arxiv.org/abs/1603.00850)
 
 ### Journal articles
 
