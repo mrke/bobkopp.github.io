@@ -94,7 +94,7 @@ I am an interdisciplinary environmental scientist who applies climate science to
 {: .no_toc}
 
 <div>
-<a href="https://www.linkedin.com/profile/view?id=22120048"><div style="float: right; margin: 20px; max-width: 150px"><img src="portraits/djrasmussen.png"></div></a>
+<a href="http://www.djrasmussen.co"><div style="float: right; margin: 20px; max-width: 150px"><img src="portraits/djrasmussen.png"></div></a>
 DJ’s interests lie at the intersection of climate, policy, and the economy. He uses computational models and large data sets to assess risks posed by weather and climate. DJ was a research fellow at the National Oceanic and Atmospheric Administration’s (NOAA) Geophysical Fluid Dynamics Laboratory (GFDL). He later contributed to the physical climate projection work for the technical analysis underlying the Risky Business Project — an initiative to quantify and publicize the economic risks from the impacts of a changing climate — and was more recently a senior associate engineer at Ramboll Environ, located in the San Francisco Bay Area. DJ has a BS in atmospheric science and an MS in civil and environmental engineering.</div>
 
 
