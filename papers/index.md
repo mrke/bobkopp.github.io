@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: March 3 2016 17:22
+modified: March 29 2016 14:50
 comments: false
 share: false
 image:
@@ -45,7 +45,7 @@ image:
 
 ### Journal articles
 
-* [R. E. Kopp, A. C. Kemp, K. Bittermann, B. P. Horton, J. P. Donnelly, W. R. Gehrels, C. C. Hay, J. X. Mitrovica, E. D. Morrow, and S. Rahmstorf (2016). Temperature-driven global sea-level variability in the Common Era. _Proceedings of the National Academy of Sciences_. doi: 10.1073/pnas.1517056113.](http://dx.doi.org/10.1073/pnas.1517056113) [[Code]](https://github.com/bobkopp/CESL-STEHM-GP/releases)
+* [R. E. Kopp, A. C. Kemp, K. Bittermann, B. P. Horton, J. P. Donnelly, W. R. Gehrels, C. C. Hay, J. X. Mitrovica, E. D. Morrow, and S. Rahmstorf (2016). Temperature-driven global sea-level variability in the Common Era. _Proceedings of the National Academy of Sciences_ 113: E1434-E1441. doi: 10.1073/pnas.1517056113.](http://dx.doi.org/10.1073/pnas.1517056113) [[Code]](https://github.com/bobkopp/CESL-STEHM-GP/releases)
 
 * [J. Liu, G. A. Milne, R. E. Kopp, P. U. Clark, and I. Shennan (2016). Sea-Level Constraints on the Amplitude and Source Distribution of Meltwater Pulse 1A. _Nature Geoscience_. doi:10.1038/NGEO2616.](http://dx.doi.org/10.1038/NGEO2616)
 
