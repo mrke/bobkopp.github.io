@@ -37,14 +37,15 @@ image:
 
 ### Working papers
 
-* [M. K. Buchanan, R. E. Kopp, M. Oppenheimer, and C. Tebaldi (2015). Allowances for evolving coastal flood risk under uncertain local sea-level rise. ArXiv e-prints. arXiv: 1510.08550.](http://arxiv.org/abs/1510.08550)
+* [M. K. Buchanan, R. E. Kopp, M. Oppenheimer, and C. Tebaldi (in press). Allowances for evolving coastal flood risk under uncertain local sea-level rise. _Climatic Change_. arXiv: 1510.08550.](http://arxiv.org/abs/1510.08550)
 
 * [D. J. Rasmussen, M. Meinshausen, and R. E. Kopp (2015). Probability-weighted ensembles of U.S. county-level climate projections for climate risk analysis. ArXiv e-prints. arXiv: 1510.00313.](http://arxiv.org/abs/1510.00313)
-* [R. E. Kopp, R. Shwom, G. Wagner, and J. Yuan (2016). Tipping elements, tipping points, and economic catastrophes: Implications for the cost of climate change. ArXiv e-prints. arXiv: 1603.00850.](http://arxiv.org/abs/1603.00850)
+
+* [R. E. Kopp, R. Shwom, G. Wagner, and J. Yuan (2016). Tipping elements, tipping points, and economic catastrophes: Implications for the cost of climate change. ArXiv e-prints. arXiv: 1603.00850.](http://arxiv.org/abs/1603.00850)
 
 ### Journal articles
 
-* [A. Düsterhus, A. Rovere, A. E. Carlson, N. L. M. Barlow, T. Bradwell, A. Dutton, R. Gehrels, F. D. Hibbert, M. P. Hijma, B. P. Horton, V. Klemann, R. E. Kopp, D. Sivan, L. Tarasov, and T. E. Törnqvist (2015). Palaeo sea-level and ice-sheet databases: problems, strategies and perspectives. _Climate of the Past_ 12, 911–921, doi:10.5194/cp-12-911-2016.](http://dx.doi.org/10.5194/cp-12-911-2016)
+* [A. Düsterhus, A. Rovere, A. E. Carlson, N. L. M. Barlow, T. Bradwell, A. Dutton, R. Gehrels, F. D. Hibbert, M. P. Hijma, B. P. Horton, V. Klemann, R. E. Kopp, D. Sivan, L. Tarasov, and T. E. Törnqvist (2016). Palaeo sea-level and ice-sheet databases: problems, strategies and perspectives. _Climate of the Past_ 12, 911–921. doi:10.5194/cp-12-911-2016.](http://dx.doi.org/10.5194/cp-12-911-2016)
 
 * [R. E. Kopp, A. C. Kemp, K. Bittermann, B. P. Horton, J. P. Donnelly, W. R. Gehrels, C. C. Hay, J. X. Mitrovica, E. D. Morrow, and S. Rahmstorf (2016). Temperature-driven global sea-level variability in the Common Era. _Proceedings of the National Academy of Sciences_ 113, E1434-E1441. doi:10.1073/pnas.1517056113.](http://dx.doi.org/10.1073/pnas.1517056113) [[Code]](https://github.com/bobkopp/CESL-STEHM-GP/releases)
 
