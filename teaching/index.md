@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 tags: [teaching]
-modified: Sat May 16 14:50:50 EDT 2015
+modified: May 1 2016
 comments: false
 share: false
 image:
