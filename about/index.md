@@ -2,7 +2,7 @@
 layout: page
 title: Biography
 tags: [about]
-modified: June 5 2015
+modified: May 1 2016
 comments: false
 share: false
 image:
@@ -24,7 +24,7 @@ image:
 </div>
 
 Robert Kopp serves at [Rutgers University](http://www.rutgers.edu/) as an associate professor in the [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and as Associate Director of
-the [Rutgers Energy Institute](http://rei.rutgers.edu/). He is also a member of the [Institute of Earth, Ocean, and Atmospheric Sciences](http://eoas.rutgers.edu) and the [Rutgers Climate Institute](http://climatechange.rutgers.edu), and is affiliated with graduate programs in [Atmospheric Sciences](http://atmos.rutgers.edu), [Geological Sciences](http://eps.rutgers.edu), [Oceanography](http://marine.rutgers.edu), [Statistics](http://statistics.rutgers.edu), and [Planning and Public Policy](http://policy.rutgers.edu/).
+the [Rutgers Energy Institute](http://rei.rutgers.edu/).
 
 His scientific and policy [research](/research) interests are guided by the recognition that, over the last two centuries, human civilization has become a geological force, inducing planetary environmental conditions like those that Earth has not experienced for millions of years.
 
@@ -32,12 +32,16 @@ His scientific research focuses on employing statistical and process models to i
 
 His policy-related research focuses on quantifying human impacts on the global climate, assessing the potential of different policies and technologies to mitigate these impacts, and incorporating climate change impacts into benefit-cost and risk management analyses.
 
-He is a lead author of [ _Economic Risks of Climate Change: An American Prospectus_](http://www.climateprospectus.org/), and served as the lead scientist for the  the technical analysis underlying the [Risky Business Project](http://www.riskybusiness.org/). He also served on the
-[Maryland Climate Change Commission’s sea-level rise expert group](http://www.umces.edu/project/sea-level-along-maryland%E2%80%99s-shorelines-could-rise-2-feet-2050-according-new-report) and was a contributing author to Working Groups 1 and 2 of the [Intergovernmental Panel on Climate Change](http://www.ipcc.ch)’s Fifth Assessment Report.
+He is a lead author of [ _Economic Risks of Climate Change: An American Prospectus_](http://www.climateprospectus.org/), and served as the lead scientist for the  the technical analysis underlying the [Risky Business Project](http://www.riskybusiness.org/). He was a contributing author to Working Groups 1 (Physical Science) and 2 (Impacts, Adaptation, and Vulnerability) of the [Intergovernmental Panel on Climate Change](http://www.ipcc.ch)’s Fifth Assessment Report.
+
+He has served on sea-level rise expert groups for the states of [Maryland](http://www.umces.edu/sea-level) and California, the city of Boston, and the [New Jersey Climate Adaptation Alliance](http://njadapt.rutgers.edu). He is a committee member for the [National Academies Project on Assessing Approaches to Updating the Social Cost of Carbon](http://sites.nationalacademies.org/DBASSE/BECS/CurrentProjects/DBASSE_167526) and a lead author for the [U.S. Global Change Research Program](http://www.globalchange.gov)'s Climate Science Summary Report.
+
+In addition to the  Rutgers  [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and
+the [Rutgers Energy Institute](http://rei.rutgers.edu/), he is a member of the [Institute of Earth, Ocean, and Atmospheric Sciences](http://eoas.rutgers.edu) and the [Rutgers Climate Institute](http://climatechange.rutgers.edu). He is affiliated with Rutgers graduate programs in [Atmospheric Sciences](http://atmos.rutgers.edu), [Geological Sciences](http://eps.rutgers.edu), [Oceanography](http://marine.rutgers.edu), [Statistics](http://statistics.rutgers.edu), and [Planning and Public Policy](http://policy.rutgers.edu/).
 
 Prior to joining the Rutgers faculty, he served as an [AAAS Science & Technology Policy Fellow](http://fellowships.aaas.org/) in the
 [U.S. Department of Energy](http://www.energy.gov)'s Office of Policy and International Affairs. At the Energy Department, he provided key technical support to the White House-led process on incorporating the social cost of carbon into regulatory analysis and played a leading role in the development and launch of the [Clean Energy Ministerial](http://www.cleanenergyministerial.org)'s appliance and equipment efficiency effort, the [Super-efficient Equipment and Appliance Deployment initiative](http://www.superefficient.org).
 
 Prior to this fellowship, he was a [Science, Technology, and Environmental Policy](http://www.princeton.edu/step/) postdoctoral research fellow at Princeton University. He received his Ph.D. in geobiology from Caltech, where his research focused on fossil magnetic bacteria and on the long-term co-evolution of life and climate on planet Earth. He received his S.B. in geophysical sciences from the University of Chicago.
 
-He is a Leopold Leadership Fellow and a recipient of the International Union for Quaternary Research (INQUA)'s Sir Nicholas Shackleton Medal and the American Geophysical Union's William Gilbert Medal.
+He is a Leopold Leadership Fellow and a Rutgers-New Brunswick Chancellor's Scholar. He is a recipient of the International Union for Quaternary Research (INQUA)'s Sir Nicholas Shackleton Medal and the American Geophysical Union's William Gilbert Medal.

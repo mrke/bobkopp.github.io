@@ -8,13 +8,16 @@ share: false
 ---
 
 I am a climate scientist, Earth historian, geobiologist, and energy policy wonk. I serve at [Rutgers University](http://www.rutgers.edu/) as an associate professor in
-the [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and as Associate Director of the [Rutgers Energy Institute](http://rei.rutgers.edu/). I am also a member of the
-[Institute of Earth, Ocean, and Atmospheric Sciences](http://eoas.rutgers.edu/) and of the [Rutgers Climate Institute](http://climatechange.rutgers.edu), and I am affiliated with graduate programs in [Atmospheric Sciences](http://atmos.rutgers.edu), [Geological Sciences](http://eps.rutgers.edu), [Oceanography](http://marine.rutgers.edu), [Statistics](http://statistics.rutgers.edu), and [Planning and Public Policy](http://policy.rutgers.edu/).
+the [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and as Associate Director of the [Rutgers Energy Institute](http://rei.rutgers.edu/). 
 
 <div style="float: right; margin: 20px; max-width: 150px; box-shadow: 10px 10px 5px #888888; border:  1px solid gray;"><a href="http://www.climateprospectus.org" target="_blank"><img src="images/EconomicRisksOfCC.jpg"></a></div>
 
-My [research](research/) focuses on understanding uncertainty in past and future climate change, with major emphases on sea-level change and on the interactions between physical climate change and the economy. I am a lead author of [_Economic Risks of Climate Change: An American Prospectus_](http://www.climateprospectus.org/) and served as lead scientist for the technical analysis underlying the [Risky Business Project](http://www.riskybusiness.org/). I also served on the
-[Maryland Climate Change Commission’s sea-level rise expert group](http://www.umces.edu/project/sea-level-along-maryland%E2%80%99s-shorelines-could-rise-2-feet-2050-according-new-report) and was a contributing author to the [Intergovernmental Panel on Climate Change](http://www.ipcc.ch)’s Fifth Assessment Report.
+My [research](research/) focuses on understanding uncertainty in past and future climate change, with major emphases on sea-level change and on the interactions between physical climate change and the economy. I am a lead author of [_Economic Risks of Climate Change: An American Prospectus_](http://www.climateprospectus.org/) and served as lead scientist for the technical analysis underlying the [Risky Business Project](http://www.riskybusiness.org/). I was a contributing author to the [Intergovernmental Panel on Climate Change](http://www.ipcc.ch)’s Fifth Assessment Report, and have served on sea-level rise expert groups for several states and and the city of Boston. 
+
+In addition to the  Rutgers  [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and
+the [Rutgers Energy Institute](http://rei.rutgers.edu/), I am also a member of the
+[Institute of Earth, Ocean, and Atmospheric Sciences](http://eoas.rutgers.edu/) and of the [Rutgers Climate Institute](http://climatechange.rutgers.edu). I am affiliated with Rutgers graduate programs in [Atmospheric Sciences](http://atmos.rutgers.edu), [Geological Sciences](http://eps.rutgers.edu), [Oceanography](http://marine.rutgers.edu), [Statistics](http://statistics.rutgers.edu), and [Planning and Public Policy](http://policy.rutgers.edu/).
+
 
 Prior to joining the Rutgers faculty, I served as a [AAAS Science & Technology Policy Fellow](http://fellowships.aaas.org/) in the [U.S. ](http://www.energy.gov)[Department of Energy](http://www.energy.gov)'s Office of Policy and International Affairs and as a [Science, Technology, and Environmental Policy](http://www.princeton.edu/step/) postdoctoral research fellow at Princeton University. I received my Ph.D. in geobiology from Caltech and my undergraduate degree in geophysical sciences from the University of Chicago. 
 
