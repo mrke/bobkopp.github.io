@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: April 11 2016 8:10
+modified: May 8 2016
 comments: false
 share: false
 image:
@@ -41,7 +41,7 @@ image:
 
 * [D. J. Rasmussen, M. Meinshausen, and R. E. Kopp (2015). Probability-weighted ensembles of U.S. county-level climate projections for climate risk analysis. ArXiv e-prints. arXiv: 1510.00313.](http://arxiv.org/abs/1510.00313)
 
-* [R. E. Kopp, R. Shwom, G. Wagner, and J. Yuan (2016). Tipping elements, tipping points, and economic catastrophes: Implications for the cost of climate change. ArXiv e-prints. arXiv: 1603.00850.](http://arxiv.org/abs/1603.00850)
+* [R. E. Kopp, R. Shwom, G. Wagner, and J. Yuan (2016). Tipping elements and climate-economic shocks: Pathways toward integrated assessment. ArXiv e-prints. arXiv: 1603.00850.](http://arxiv.org/abs/1603.00850)
 
 ### Journal articles
 
