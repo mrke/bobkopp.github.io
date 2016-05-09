@@ -39,7 +39,7 @@ image:
 
 * [M. K. Buchanan, R. E. Kopp, M. Oppenheimer, and C. Tebaldi (in press). Allowances for evolving coastal flood risk under uncertain local sea-level rise. _Climatic Change_. arXiv: 1510.08550.](http://arxiv.org/abs/1510.08550)
 
-* [D. J. Rasmussen, M. Meinshausen, and R. E. Kopp (2015). Probability-weighted ensembles of U.S. county-level climate projections for climate risk analysis. ArXiv e-prints. arXiv: 1510.00313.](http://arxiv.org/abs/1510.00313)
+* [D. J. Rasmussen, M. Meinshausen, and R. E. Kopp (in press). Probability-weighted ensembles of U.S. county-level climate projections for climate risk analysis. _Journal of Applied Meteorology and Climatology_. arXiv: 1510.00313.](http://arxiv.org/abs/1510.00313)
 
 * [R. E. Kopp, R. Shwom, G. Wagner, and J. Yuan (2016). Tipping elements and climate-economic shocks: Pathways toward integrated assessment. ArXiv e-prints. arXiv: 1603.00850.](http://arxiv.org/abs/1603.00850)
 
