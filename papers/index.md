@@ -47,7 +47,7 @@ image:
 
 * [A. Düsterhus, A. Rovere, A. E. Carlson, N. L. M. Barlow, T. Bradwell, A. Dutton, R. Gehrels, F. D. Hibbert, M. P. Hijma, B. P. Horton, V. Klemann, R. E. Kopp, D. Sivan, L. Tarasov, and T. E. Törnqvist (2016). Palaeo sea-level and ice-sheet databases: problems, strategies and perspectives. _Climate of the Past_ 12, 911–921. doi:10.5194/cp-12-911-2016.](http://dx.doi.org/10.5194/cp-12-911-2016)
 
-* [C. C. Hay, J. X. Mitrovica, E. Morrow, R. E. Kopp, P. Huybers, and R. B. Alley (2016). Earth rotation changes since -500 CE driven by ice mass variations. Earth and Planetary Science Letters 448, 115–121. doi: 10.1016/j.epsl.2016.05.020.](http://dx.doi.org/10.1016/j.epsl.2016.05.020)
+* [C. C. Hay, J. X. Mitrovica, E. Morrow, R. E. Kopp, P. Huybers, and R. B. Alley (2016). Earth rotation changes since -500 CE driven by ice mass variations. _Earth and Planetary Science Letters_ 448, 115–121. doi: 10.1016/j.epsl.2016.05.020.](http://dx.doi.org/10.1016/j.epsl.2016.05.020)
 
 * [R. E. Kopp, A. C. Kemp, K. Bittermann, B. P. Horton, J. P. Donnelly, W. R. Gehrels, C. C. Hay, J. X. Mitrovica, E. D. Morrow, and S. Rahmstorf (2016). Temperature-driven global sea-level variability in the Common Era. _Proceedings of the National Academy of Sciences_ 113, E1434-E1441. doi:10.1073/pnas.1517056113.](http://dx.doi.org/10.1073/pnas.1517056113) [[Code]](https://github.com/bobkopp/CESL-STEHM-GP/releases)
 
