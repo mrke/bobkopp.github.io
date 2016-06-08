@@ -37,13 +37,13 @@ image:
 
 ### Working papers
 
-* [M. K. Buchanan, R. E. Kopp, M. Oppenheimer, and C. Tebaldi (2016). Allowances for evolving coastal flood risk under uncertain local sea-level rise. _Climatic Change_. doi:10.1007/s10584-016-1664-7.](http://dx.doi.org/10.1007/s10584-016-1664-7)
-
 * [D. J. Rasmussen, M. Meinshausen, and R. E. Kopp (in press). Probability-weighted ensembles of U.S. county-level climate projections for climate risk analysis. _Journal of Applied Meteorology and Climatology_. arXiv: 1510.00313.](http://arxiv.org/abs/1510.00313)
 
 * [R. E. Kopp, R. Shwom, G. Wagner, and J. Yuan (2016). Tipping elements and climate-economic shocks: Pathways toward integrated assessment. ArXiv e-prints. arXiv: 1603.00850.](http://arxiv.org/abs/1603.00850)
 
 ### Journal articles
+
+* [M. K. Buchanan, R. E. Kopp, M. Oppenheimer, and C. Tebaldi (2016). Allowances for evolving coastal flood risk under uncertain local sea-level rise. _Climatic Change_. doi:10.1007/s10584-016-1664-7.](http://dx.doi.org/10.1007/s10584-016-1664-7)
 
 * [A. Düsterhus, A. Rovere, A. E. Carlson, N. L. M. Barlow, T. Bradwell, A. Dutton, R. Gehrels, F. D. Hibbert, M. P. Hijma, B. P. Horton, V. Klemann, R. E. Kopp, D. Sivan, L. Tarasov, and T. E. Törnqvist (2016). Palaeo sea-level and ice-sheet databases: problems, strategies and perspectives. _Climate of the Past_ 12, 911–921. doi:10.5194/cp-12-911-2016.](http://dx.doi.org/10.5194/cp-12-911-2016)
 
