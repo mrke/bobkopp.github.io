@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: May 31 2016
+modified: June 10 2016
 comments: false
 share: false
 image:
@@ -37,7 +37,7 @@ image:
 
 ### Working papers
 
-* [M. K. Buchanan, R. E. Kopp, M. Oppenheimer, and C. Tebaldi (in press). Allowances for evolving coastal flood risk under uncertain local sea-level rise. _Climatic Change_. arXiv: 1510.08550.](http://arxiv.org/abs/1510.08550)
+* [M. K. Buchanan, R. E. Kopp, M. Oppenheimer, and C. Tebaldi (2016). Allowances for evolving coastal flood risk under uncertain local sea-level rise. _Climatic Change_. doi:10.1007/s10584-016-1664-7.](http://dx.doi.org/10.1007/s10584-016-1664-7)
 
 * [D. J. Rasmussen, M. Meinshausen, and R. E. Kopp (in press). Probability-weighted ensembles of U.S. county-level climate projections for climate risk analysis. _Journal of Applied Meteorology and Climatology_. arXiv: 1510.00313.](http://arxiv.org/abs/1510.00313)
 
