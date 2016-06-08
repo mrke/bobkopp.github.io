@@ -59,8 +59,9 @@ function [Twb,Teq,epott]=WetBulb(TemperatureC,Pressure,Humidity,HumidityMode)
 %
 % Ported from HumanIndexMod 03-21-14 by Jonathan R Buzan
 % MATLAB port by Robert Kopp
+% Iteration constraint added by JRC 04-06-16
 %
-% Last updated by Robert Kopp, robert-dot-kopp-at-rutgers-dot-edu, Wed Nov 25 16:18:33 EST 2015
+% Last updated by Robert Kopp, robert-dot-kopp-at-rutgers-dot-edu, Wed Jun 08 11:31:50 EDT 2016
 
     SHR_CONST_TKFRZ = 273.15;
     TemperatureK = TemperatureC + SHR_CONST_TKFRZ;
@@ -192,6 +193,40 @@ function [Twb,Teq,epott]=WetBulb(TemperatureC,Pressure,Humidity,HumidityMode)
         wb_temp(invalid==1) = NaN;
         Twb = wb_temp;
         iter=iter+1;
+    end
+    
+    
+    % ! JRB BEGIN
+    % ! 04-06-16: Adding iteration constraint.  Commenting out original code.
+    % but in the MATLAB code, for sake of speed, we only do this for the values
+    % that didn't converge
+
+    convergence = 0.00001; maxiter=10000;
+
+    [es_mb_wb_temp,rs_wb_temp,de_mbdwb_temp, dlnes_mbdwb_temp, rsdwb_temp, foftk_wb_temp, fdwb_temp]=QSat_2(wb_temp+C, Pressure);
+    delta=real((foftk_wb_temp - X)./fdwb_temp);
+    subdo=find(delta>convergence);
+
+    iter = 0;
+    while (length(subdo)>0)&&(iter<=maxiter)
+        iter = iter + 1;
+        
+        wb_temp(subdo) = wb_temp(subdo) - 0.1*delta(subdo);
+        wb_temp(subdo)=min(wb_temp(subdo),.999*TemperatureK(subdo)-C); wb_temp(subdo)=max(wb_temp(subdo),-C);
+
+        [es_mb_wb_temp,rs_wb_temp,de_mbdwb_temp, dlnes_mbdwb_temp, rsdwb_temp, foftk_wb_temp, fdwb_temp]=QSat_2(wb_temp(subdo)+C, Pressure(subdo));
+        delta=0*wb_temp;
+        delta(subdo)=real((foftk_wb_temp - X(subdo))./fdwb_temp);
+        subdo=find(delta>convergence);
+    end
+
+    wb_it=wb_temp;
+    if length(subdo)>0
+        wb_it(subdo) = TemperatureK(subdo)-C;
+        for www=subdo(:)'
+            disp(sprintf('WARNING-Wet_Bulb failed to converge. Setting to T: WB, P, T, RH, Q, Delta: %0.2f, %0.0f, %0.2f, %0.1f, %0.2g, %0.1f, %0.2g', [wb_it(www), Pressure(www), TemperatureK(www), relhum(www), ...
+                                qin(www), vape(www), delta(www)]));
+        end
     end
 
 end
