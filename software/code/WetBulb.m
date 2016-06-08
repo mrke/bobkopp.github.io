@@ -1,4 +1,4 @@
-function [Twb,Teq,epott]=WetBulb(TemperatureC,Pressure,Humidity,HumidityMode)
+function [Twb,Teq,epott]=WetBulb(TemperatureC,Pressure,Humidity,HumidityMode,ConvergenceMode)
 
 % [Twb,Teq,epott]=WetBulb(TemperatureC,Pressure,Humidity,[HumidityMode])
 %
@@ -57,11 +57,10 @@ function [Twb,Teq,epott]=WetBulb(TemperatureC,Pressure,Humidity,HumidityMode)
 % Note: Pressure needs to be in mb, mixing ratio needs to be in 
 % 	kg/kg in some equations. 
 %
-% Ported from HumanIndexMod 03-21-14 by Jonathan R Buzan
+% Ported from HumanIndexMod 04-08-16 by Jonathan R Buzan
 % MATLAB port by Robert Kopp
-% Iteration constraint added by JRC 04-06-16
 %
-% Last updated by Robert Kopp, robert-dot-kopp-at-rutgers-dot-edu, Wed Jun 08 11:31:50 EDT 2016
+% Last updated by Robert Kopp, robert-dot-kopp-at-rutgers-dot-edu, Wed Jun 08 18:03:02 EDT 2016
 
     SHR_CONST_TKFRZ = 273.15;
     TemperatureK = TemperatureC + SHR_CONST_TKFRZ;
@@ -72,27 +71,31 @@ function [Twb,Teq,epott]=WetBulb(TemperatureC,Pressure,Humidity,HumidityMode)
 
     kappad = 0.2854;	% Heat Capacity
 
+    C = SHR_CONST_TKFRZ;		% Freezing Temperature
+    pmb = Pressure*0.01;		% pa to mb
+    T1 = TemperatureK;			% Use holder for T
+
+    if ~exist('ConvergenceMode','var'); ConvergenceMode=1; end
     if ~exist('HumidityMode','var'); HumidityMode=0; end
 
     [es_mb,rs]=QSat_2(TemperatureK, Pressure);
-
+   
     if HumidityMode==0
-        qin=Humidity;
-        relhum = 100*qin./rs;
-        vape = (qin./rs).*es_mb;
+        qin=Humidity; % specific humidity
+        relhum = 100*qin./rs; % relative humidity (%)
+        vapemb = es_mb .* relhum * 0.01; % vapor pressure (mb) 
     elseif HumidityMode==1
-        relhum=Humidity;
-        qin = (relhum.*rs)/100;
-        vape = (qin./rs).*es_mb;
+        relhum=Humidity;  % relative humidity (%)
+        qin = rs .* relhum * 0.01; % specific humidity
+        vapemb = es_mb .* relhum * 0.01; % vapor pressure (mb) 
     end
 
+    mixr = qin * grms; % change specific humidity to mixing ratio (g/kg)
 
-    %   real(r8) :: k1;		        % Quadratic Parameter (C)
+    %    real(r8) :: k1;		        % Quadratic Parameter (C)
     %    real(r8) :: k2;		 	% Quadratic Parameter scaled by X (C) 
     %    real(r8) :: pmb;		 	% Atmospheric Surface Pressure (mb)
     %    real(r8) :: D;		 	% Linear Interpolation of X
-
-    %  real(r8) :: C			% Temperature of Freezing (K)
 
     %   real(r8) :: hot	% Dimensionless Quantity used for changing temperature regimes
     %    real(r8) :: cold	% Dimensionless Quantity used for changing temperature regimes    
@@ -123,19 +126,8 @@ function [Twb,Teq,epott]=WetBulb(TemperatureC,Pressure,Humidity,HumidityMode)
     %   real(r8) :: pnd		 	% Non dimensional Pressure
     %   real(r8) :: X		 	% Ratio of equivalent temperature to freezing scaled by Heat Capacity
 
-    %    real(I8) :: j			% Iteration Step Number
-
     %
     %-----------------------------------------------------------------------
-    C = SHR_CONST_TKFRZ;		% Freezing Temperature
-    pmb = Pressure*0.01;		% pa to mb
-    vapemb = vape*0.01;	% pa to mb
-    T1 = TemperatureK;			% Use holder for T
-                                        % JRB BEGIN
-                                        % 03-21-14 Changing specific humidity to mixing ratio
-                                        %   mixr = qin * grms;               % change mixing ratio to g/kg
-    mixr = qin./(1 - qin) * grms; % change specific humidity to mixing ratio (g/kg)
-                                  % JRB END
 
     % Calculate Equivalent Pot. Temp (pmb, T, mixing ratio (g/kg), pott, epott)	
     % Calculate Parameters for Wet Bulb Temp (epott, pmb)
@@ -174,7 +166,6 @@ function [Twb,Teq,epott]=WetBulb(TemperatureC,Pressure,Humidity,HumidityMode)
     wb_temp = Teq - C - ((constA*rs_teq)./(1 + (constA.*rs_teq.*dlnes_mbdTeq)));
     sub=find(X<=D);
     wb_temp(sub) = (k1(sub) - 1.21 * cold(sub) - 1.45 * hot(sub) - (k2(sub) - 1.21 * cold(sub)) .* X(sub) + (0.58 ./ X(sub)) .* hot(sub));
-    wb_temp=min(wb_temp,.999*TemperatureK-C); wb_temp=max(wb_temp,-C);
     wb_temp(invalid==1) = NaN;
 
     % Newton-Raphson Method
@@ -185,50 +176,50 @@ function [Twb,Teq,epott]=WetBulb(TemperatureC,Pressure,Humidity,HumidityMode)
     while (max(delta(:))>.01)&&(iter<=maxiter)
         [es_mb_wb_temp,rs_wb_temp,de_mbdwb_temp, dlnes_mbdwb_temp, rsdwb_temp, foftk_wb_temp, fdwb_temp]=QSat_2(wb_temp+C, Pressure);
         delta=real((foftk_wb_temp - X)./fdwb_temp);
-        subbad=find(abs(delta)>10);
-        delta(subbad)=NaN;
+        delta=min(10,delta); delta=max(-10,delta);
         wb_temp = wb_temp - delta;
-        wb_temp=min(wb_temp,.999*TemperatureK-C); wb_temp=max(wb_temp,-C);
-        wb_temp(find(isnan(delta)))=NaN;
         wb_temp(invalid==1) = NaN;
         Twb = wb_temp;
         iter=iter+1;
     end
     
-    
-    % ! JRB BEGIN
     % ! 04-06-16: Adding iteration constraint.  Commenting out original code.
     % but in the MATLAB code, for sake of speed, we only do this for the values
     % that didn't converge
 
-    convergence = 0.00001; maxiter=10000;
-
-    [es_mb_wb_temp,rs_wb_temp,de_mbdwb_temp, dlnes_mbdwb_temp, rsdwb_temp, foftk_wb_temp, fdwb_temp]=QSat_2(wb_temp+C, Pressure);
-    delta=real((foftk_wb_temp - X)./fdwb_temp);
-    subdo=find(delta>convergence);
-
-    iter = 0;
-    while (length(subdo)>0)&&(iter<=maxiter)
-        iter = iter + 1;
+    if ConvergenceMode
         
-        wb_temp(subdo) = wb_temp(subdo) - 0.1*delta(subdo);
-        wb_temp(subdo)=min(wb_temp(subdo),.999*TemperatureK(subdo)-C); wb_temp(subdo)=max(wb_temp(subdo),-C);
+        convergence = 0.00001; maxiter=20000;
 
-        [es_mb_wb_temp,rs_wb_temp,de_mbdwb_temp, dlnes_mbdwb_temp, rsdwb_temp, foftk_wb_temp, fdwb_temp]=QSat_2(wb_temp(subdo)+C, Pressure(subdo));
-        delta=0*wb_temp;
-        delta(subdo)=real((foftk_wb_temp - X(subdo))./fdwb_temp);
-        subdo=find(delta>convergence);
-    end
+        [es_mb_wb_temp,rs_wb_temp,de_mbdwb_temp, dlnes_mbdwb_temp, rsdwb_temp, foftk_wb_temp, fdwb_temp]=QSat_2(wb_temp+C, Pressure);
+        delta=real((foftk_wb_temp - X)./fdwb_temp);
+        subdo=find(abs(delta)>convergence);
 
-    wb_it=wb_temp;
-    if length(subdo)>0
-        wb_it(subdo) = TemperatureK(subdo)-C;
-        for www=subdo(:)'
-            disp(sprintf('WARNING-Wet_Bulb failed to converge. Setting to T: WB, P, T, RH, Q, Delta: %0.2f, %0.0f, %0.2f, %0.1f, %0.2g, %0.1f, %0.2g', [wb_it(www), Pressure(www), TemperatureK(www), relhum(www), ...
-                                qin(www), vape(www), delta(www)]));
+        iter = 0;
+        while (length(subdo)>0)&&(iter<=maxiter)
+            iter = iter + 1;
+            
+            wb_temp(subdo) = wb_temp(subdo) - 0.1*delta(subdo);
+
+            [es_mb_wb_temp,rs_wb_temp,de_mbdwb_temp, dlnes_mbdwb_temp, rsdwb_temp, foftk_wb_temp, fdwb_temp]=QSat_2(wb_temp(subdo)+C, Pressure(subdo));
+            delta=0*wb_temp;
+            delta(subdo)=real((foftk_wb_temp - X(subdo))./fdwb_temp);
+            subdo=find(abs(delta)>convergence);
         end
-    end
 
+        Twb=wb_temp;
+        if length(subdo)>0
+            Twb(subdo) = TemperatureK(subdo)-C;
+            for www=subdo(:)'
+                disp(sprintf('WARNING-Wet_Bulb failed to converge. Setting to T: WB, P, T, RH, Delta: %0.2f, %0.0f, %0.2f, %0.1f, %0.2g, %0.1f, %0.2g', [Twb(www), Pressure(www), TemperatureK(www), relhum(www), ...
+                                    delta(www)]));
+            end
+        end
+
+    end
+    
+    Twb=real(Twb);
+    
 end
 
 function [es_mb,rs,de_mbdT,dlnes_mbdT,rsdT,foftk,fdT]=QSat_2(T_k, p_t)
