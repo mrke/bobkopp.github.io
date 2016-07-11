@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: June 10 2016
+modified: July 11 2016
 comments: false
 share: false
 image:
@@ -39,8 +39,6 @@ image:
 
 * [D. J. Rasmussen, M. Meinshausen, and R. E. Kopp (in press). Probability-weighted ensembles of U.S. county-level climate projections for climate risk analysis. _Journal of Applied Meteorology and Climatology_. arXiv: 1510.00313.](http://arxiv.org/abs/1510.00313)
 
-* [R. E. Kopp, R. Shwom, G. Wagner, and J. Yuan (2016). Tipping elements and climate-economic shocks: Pathways toward integrated assessment. ArXiv e-prints. arXiv: 1603.00850.](http://arxiv.org/abs/1603.00850)
-
 ### Journal articles
 
 * [M. K. Buchanan, R. E. Kopp, M. Oppenheimer, and C. Tebaldi (2016). Allowances for evolving coastal flood risk under uncertain local sea-level rise. _Climatic Change_. doi:10.1007/s10584-016-1664-7.](http://dx.doi.org/10.1007/s10584-016-1664-7)
@@ -50,6 +48,8 @@ image:
 * [C. C. Hay, J. X. Mitrovica, E. Morrow, R. E. Kopp, P. Huybers, and R. B. Alley (2016). Earth rotation changes since -500 CE driven by ice mass variations. _Earth and Planetary Science Letters_ 448, 115–121. doi: 10.1016/j.epsl.2016.05.020.](http://dx.doi.org/10.1016/j.epsl.2016.05.020)
 
 * [R. E. Kopp, A. C. Kemp, K. Bittermann, B. P. Horton, J. P. Donnelly, W. R. Gehrels, C. C. Hay, J. X. Mitrovica, E. D. Morrow, and S. Rahmstorf (2016). Temperature-driven global sea-level variability in the Common Era. _Proceedings of the National Academy of Sciences_ 113, E1434-E1441. doi:10.1073/pnas.1517056113.](http://dx.doi.org/10.1073/pnas.1517056113) [[Code]](https://github.com/bobkopp/CESL-STEHM-GP/releases)
+
+* [R. E. Kopp, R. Shwom, G. Wagner, and J. Yuan (2016). Tipping elements and climate-economic shocks: Pathways toward integrated assessment. _Earth's Future_.  doi:eft2/2016EF000362.](http://dx.doi.org/eft2/2016EF000362)
 
 * [J. Liu, G. A. Milne, R. E. Kopp, P. U. Clark, and I. Shennan (2016). Sea-Level Constraints on the Amplitude and Source Distribution of Meltwater Pulse 1A. _Nature Geoscience_ 9, 130-134. doi:10.1038/NGEO2616.](http://dx.doi.org/10.1038/NGEO2616)
 
