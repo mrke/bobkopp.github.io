@@ -157,9 +157,13 @@ image:
 
 ### Reports, book chapters, and theses
 
-* [D. R. Morrow, R. E. Kopp and M. Oppenheimer (forthcoming). Research ethics and geoengineering. In: _The Governance of Climate Geoengineering: Science, Ethics, Policy and Law_. (J. Blackstock ,C. Miller, and S. Rayner, eds.) Oxford: Earthscan.](http://tinyurl.com/morrow2013)
+* [D. R. Morrow, R. E. Kopp and M. Oppenheimer (forthcoming). Research ethics and geoengineering. In: _Geoengineering our Climate?: Ethics, Politics and Governance_. (J. Blackstock, C. Miller, and S. Rayner, eds.) Oxford: Earthscan.](http://tinyurl.com/morrow2013)
+
+* [E. Douglas et al. (2016). _Climate Change and Sea Level Rise Projections for Boston: the Boston Research Advisory Group Report_. Boston, MA: Climate Ready Boston, 54 pp.](http://climateready.boston.gov/findings)
 
 * [National Academies of Sciences, Engineering, and Medicine (2016). _Assessment of Approaches to Updating the Social Cost of Carbon: Phase 1 Report on a Near-Term Update_. Washington, DC: The National Academies Press, 74 pp. doi:10.17226/21898.](http://dx.doi.org/10.17226/21898)
+
+* [B. H. Strauss, R. E. Kopp, W. V. Sweet, and K. Bittermann (2016). _Unnatural Coastal Floods: Sea Level Rise and the Human Fingerprint on U.S. Floods Since 1950._ Climate Central Research Report, 16 pp.](http://goo. gl/n0oqjn)
 
 * Contributing author to: [Arent, D., R. Tol, E. Faust, J. P. Hella, S. Kumar, K. M. Strzepek, F. L. Tóth, and D. Yan (2014). Key Economic Sectors and Services. In: Climate Change 2014: Impacts, Adaptation, and Vulnerability. _Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change._ Ed. by C. B. Field, V. R. Barros, D. Dokken, K. Mach, M. Mastrandrea, T. Bilir, M. Chatterjee, K. Ebi, Y. Estrada, R. Genova, B. Girma, E. Kissel, A. Levy, S. MacCracken, P. Mastrandrea, and L. White. Cambridge, UK: Cambridge University Press, pp.659–708.](http://www.ipcc.ch/pdf/assessment-report/ar5/wg2/WGIIAR5-Chap10_FINAL.pdf)
 
