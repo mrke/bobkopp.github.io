@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: July 11 2016
+modified: July 14 2016
 comments: false
 share: false
 image:
@@ -196,6 +196,8 @@ image:
 * [Guest co-editor (with R. Tol and S. Waldhoff), _Economics_ special issue (2012). _The Social Cost of Carbon_.](http://www.economics-ejournal.org/special-areas/special-issues/the-social-cost-of-carbon)
 
 ### Popular publications
+
+* [R. Kopp. Trump’s energy plan poses climate threat to U.S. economy. _The Conversation_, 23 June 2016.](https://goo.gl/nOadXV )
 
 * [R. Kopp, J. Buzan and M. Huber. The deadly combination of heat and humidity. _New York Times_ Sunday Review, 7 June 2015.](http://nyti.ms/1JyXkk7 )
 
