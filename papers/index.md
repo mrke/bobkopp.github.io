@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: July 14 2016
+modified: July 27 2016
 comments: false
 share: false
 image:
@@ -41,9 +41,9 @@ image:
 
 ### Journal articles
 
-* [M. K. Buchanan, R. E. Kopp, M. Oppenheimer, and C. Tebaldi (2016). Allowances for evolving coastal flood risk under uncertain local sea-level rise. _Climatic Change_. doi:10.1007/s10584-016-1664-7.](http://dx.doi.org/10.1007/s10584-016-1664-7)
+* [M. K. Buchanan, R. E. Kopp, M. Oppenheimer, and C. Tebaldi (2016). Allowances for evolving coastal flood risk under uncertain local sea-level rise. _Climatic Change_ 137, 347-362. doi:10.1007/s10584-016-1664-7.](http://dx.doi.org/10.1007/s10584-016-1664-7)
 
-* [T. Dura, S. Engelhart, M. Vacchi, B. P. Horton, R. E. Kopp, R. W. Peltier, and S. Bradley (2016). The role of Holocene relative sea-level change in preserving records of subduction zone earthquakes. _Current Climate Change Reports_. doi: 10.1007/s40641-016-0041-y.](http://dx.doi.org/10.1007/s40641-016-0041-y)
+* [T. Dura, S. Engelhart, M. Vacchi, B. P. Horton, R. E. Kopp, R. W. Peltier, and S. Bradley (2016). The role of Holocene relative sea-level change in preserving records of subduction zone earthquakes. _Current Climate Change Reports_ 2, 86-100. doi: 10.1007/s40641-016-0041-y.](http://dx.doi.org/10.1007/s40641-016-0041-y)
 
 * [A. Düsterhus, A. Rovere, A. E. Carlson, N. L. M. Barlow, T. Bradwell, A. Dutton, R. Gehrels, F. D. Hibbert, M. P. Hijma, B. P. Horton, V. Klemann, R. E. Kopp, D. Sivan, L. Tarasov, and T. E. Törnqvist (2016). Palaeo sea-level and ice-sheet databases: problems, strategies and perspectives. _Climate of the Past_ 12, 911–921. doi:10.5194/cp-12-911-2016.](http://dx.doi.org/10.5194/cp-12-911-2016)
 
