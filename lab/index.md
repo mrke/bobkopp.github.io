@@ -125,4 +125,5 @@ I am a senior at Rutgers University, interested in climate policy, its formation
 * Andrew Wang (undergraduate research assistant, 2012-2013; BS '15 in Mechanical Engineering)
 * [Zeal Shah](https://www.linkedin.com/pub/zeal-shah/a3/902/353) (undergraduate research assistant, 2013-2014; BS '15 in Mechanical Engineering)
 * [Emily Zee](https://www.linkedin.com/pub/emily-zee/89/19a/56) (undergraduate research assistant, 2013-2014; BS '16 in Mechanical Engineering)
+* [Christina Williamson](http://reu.dimacs.rutgers.edu/~chrisw/) (summer research experience, 2016; Pomona College)
 
