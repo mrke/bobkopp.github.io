@@ -2,7 +2,7 @@
 layout: page-noauthor
 title: Rutgers Earth System Science & Policy Lab
 tags: [about]
-modified: October 15 2015
+modified: August 11 2015
 comments: false
 share: false
 image:
