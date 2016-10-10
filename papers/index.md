@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: September 20 2016
+modified: October 10 2016
 comments: false
 share: false
 image:
@@ -160,6 +160,8 @@ image:
 * [D. R. Morrow, R. E. Kopp and M. Oppenheimer (forthcoming). Research ethics and geoengineering. In: _Geoengineering our Climate?: Ethics, Politics and Governance_. (J. Blackstock, C. Miller, and S. Rayner, eds.) Oxford: Earthscan.](http://tinyurl.com/morrow2013)
 
 * [E. Douglas et al. (2016). _Climate Change and Sea Level Rise Projections for Boston: the Boston Research Advisory Group Report_. Boston, MA: Climate Ready Boston, 54 pp.](http://climateready.boston.gov/findings)
+
+* [Kopp, R., A. Broccoli, B. Horton, D. Kreeger, R. Leichenko, J. A. Miller, P. Orton, A. Parris, D. Robinson, C. Weaver, M. Campo, M. Kaplan, M. Buchanan, J. Herb, L. Auermuller, and C. Andrews (2016). _Assessing New Jersey’s Exposure to Sea-Level Rise and Coastal Storms: Report of the New Jersey Climate Adaptation Alliance Science and Technical Advisory Panel._ New Brunswick, NJ: Rutgers University. doi:10.7282/T3ZP48CF.](http://dx.doi.org/10.7282/T3ZP48CF)
 
 * [National Academies of Sciences, Engineering, and Medicine (2016). _Assessment of Approaches to Updating the Social Cost of Carbon: Phase 1 Report on a Near-Term Update_. Washington, DC: The National Academies Press, 74 pp. doi:10.17226/21898.](http://dx.doi.org/10.17226/21898)
 
