@@ -39,6 +39,8 @@ image:
 
 ### Journal articles
 
+* [N. Lin, B. P. Horton, R. E. Kopp, and J. P. Donnelly (in press). How Does Hurricane Sandy’s Flood Change from Year 1800 to 2100? _Proceedings of the National Academy of Sciences_. doi:10.1073/pnas.1604386113.](http://dx.doi.org/10.1073/pnas.1604386113)
+
 * [D. J. Rasmussen, M. Meinshausen, and R. E. Kopp (in press). Probability-weighted ensembles of U.S. county-level climate projections for climate risk analysis. _Journal of Applied Meteorology and Climatology_. doi:10.1175/JAMC-D-15-0302.1.](http://dx.doi.org/10.1175/JAMC-D-15-0302.1)
 
 * [M. K. Buchanan, R. E. Kopp, M. Oppenheimer, and C. Tebaldi (2016). Allowances for evolving coastal flood risk under uncertain local sea-level rise. _Climatic Change_ 137, 347-362. doi:10.1007/s10584-016-1664-7.](http://dx.doi.org/10.1007/s10584-016-1664-7)
@@ -161,7 +163,7 @@ image:
 
 * [E. Douglas et al. (2016). _Climate Change and Sea Level Rise Projections for Boston: the Boston Research Advisory Group Report_. Boston, MA: Climate Ready Boston, 54 pp.](http://climateready.boston.gov/findings)
 
-* [Kopp, R., A. Broccoli, B. Horton, D. Kreeger, R. Leichenko, J. A. Miller, P. Orton, A. Parris, D. Robinson, C. Weaver, M. Campo, M. Kaplan, M. Buchanan, J. Herb, L. Auermuller, and C. Andrews (2016). _Assessing New Jersey’s Exposure to Sea-Level Rise and Coastal Storms: Report of the New Jersey Climate Adaptation Alliance Science and Technical Advisory Panel._ New Brunswick, NJ: Rutgers University. doi:10.7282/T3ZP48CF.](http://dx.doi.org/10.7282/T3ZP48CF)
+* [R. Kopp, A. Broccoli, B. Horton, D. Kreeger, R. Leichenko, J. A. Miller, P. Orton, A. Parris, D. Robinson, C. Weaver, M. Campo, M. Kaplan, M. Buchanan, J. Herb, L. Auermuller, and C. Andrews (2016). _Assessing New Jersey’s Exposure to Sea-Level Rise and Coastal Storms: Report of the New Jersey Climate Adaptation Alliance Science and Technical Advisory Panel._ New Brunswick, NJ: Rutgers University. doi:10.7282/T3ZP48CF.](http://dx.doi.org/10.7282/T3ZP48CF)
 
 * [National Academies of Sciences, Engineering, and Medicine (2016). _Assessment of Approaches to Updating the Social Cost of Carbon: Phase 1 Report on a Near-Term Update_. Washington, DC: The National Academies Press, 74 pp. doi:10.17226/21898.](http://dx.doi.org/10.17226/21898)
 
