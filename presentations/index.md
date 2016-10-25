@@ -2,7 +2,7 @@
 layout: page
 title: Presentations and Media Appearances
 tags: [presentations]
-modified: February 23 2016 6:50 PM
+modified: October 25 2016 5:15 PM
 comments: false
 share: false
 image:
@@ -30,7 +30,7 @@ image:
   
   * Featured in: [New Jersey Climate Adaptation Alliance (2015), Climate Change and the Jersey Shore, November 2015.](https://youtu.be/zZn5Xh5FD88)
   
-* ["Food for Tomorrow: Risks of a Changing Climate." _New York Times_ Food for Tomorrow Conference, Stone Barns, NY, 21 October 2015.](http://goo.gl/B5LaTz)
+* ["Food for Tomorrow: Risks of a Changing Climate." _New York Times_ Food for Tomorrow Conference, Stone Barns, NY, 21 October 2015.](https://youtu.be/8n6eYsQ4e08)
 
 * ["Sudden heat." Radio Ecoshock, 24 June 2015.](https://goo.gl/e3TWX8)
 
