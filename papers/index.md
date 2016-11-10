@@ -206,6 +206,8 @@ image:
 
 ### Popular publications
 
+* [R. Kopp. Managing climate risk in Trump’s America. _The Conversation_, 9 November 2016.](https://goo.gl/OWovmZ)
+
 * [R. Kopp. Trump’s energy plan poses climate threat to U.S. economy. _The Conversation_, 23 June 2016.](https://goo.gl/nOadXV )
 
 * [R. Kopp, J. Buzan and M. Huber. The deadly combination of heat and humidity. _New York Times_ Sunday Review, 7 June 2015.](http://nyti.ms/1JyXkk7 )
