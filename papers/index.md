@@ -56,7 +56,7 @@ image:
 * [J. Liu, G. A. Milne, R. E. Kopp, P. U. Clark, and I. Shennan (2016). Sea-Level Constraints on the Amplitude and Source Distribution of Meltwater Pulse 1A. _Nature Geoscience_ 9, 130-134. doi:10.1038/NGEO2616.](http://dx.doi.org/10.1038/NGEO2616)
 
 
-* [D. J. Rasmussen, M. Meinshausen, and R. E. Kopp (in press). Probability-weighted ensembles of U.S. county-level climate projections for climate risk analysis. _Journal of Applied Meteorology and Climatology_ 55, 2301-2322. doi:10.1175/JAMC-D-15-0302.1.](http://dx.doi.org/10.1175/JAMC-D-15-0302.1)
+* [D. J. Rasmussen, M. Meinshausen, and R. E. Kopp (2016). Probability-weighted ensembles of U.S. county-level climate projections for climate risk analysis. _Journal of Applied Meteorology and Climatology_ 55, 2301-2322. doi:10.1175/JAMC-D-15-0302.1.](http://dx.doi.org/10.1175/JAMC-D-15-0302.1)
 
 * [J. R. Creveling, J. X. Mitrovica, C. C. Hay, J. Austermann, and R. E. Kopp (2015). Revisiting tectonic corrections applied to Pleistocene sea-level highstands. _Quaternary Science Reviews_ 111, 72–80\. doi:10.1016/j.quascirev.2015.01.003.](http://dx.doi.org/10.1016/j.quascirev.2015.01.003)
 
