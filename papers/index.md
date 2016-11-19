@@ -39,6 +39,8 @@ image:
 
 ### Journal articles
 
+* [N. S. Khan, E. Ashe, B. P. Horton, A. L. Dutton, R. E. Kopp, G. Brocard, S. E. Engelhart, D. F. Hill, W. Peltier, C. H. Vane, and F. N. Scatena (2017). Drivers of Holocene sea-level change in the Caribbean. Quaternary Science Reviews 155, 13–36. doi: 10.1016/j.quascirev.2016.08.032.](http://dx.doi.org/10.1016/j.quascirev.2016.08.032)
+
 * [M. K. Buchanan, R. E. Kopp, M. Oppenheimer, and C. Tebaldi (2016). Allowances for evolving coastal flood risk under uncertain local sea-level rise. _Climatic Change_ 137, 347-362. doi:10.1007/s10584-016-1664-7.](http://dx.doi.org/10.1007/s10584-016-1664-7)
 
 * [T. Dura, S. Engelhart, M. Vacchi, B. P. Horton, R. E. Kopp, R. W. Peltier, and S. Bradley (2016). The role of Holocene relative sea-level change in preserving records of subduction zone earthquakes. _Current Climate Change Reports_ 2, 86-100. doi: 10.1007/s40641-016-0041-y.](http://dx.doi.org/10.1007/s40641-016-0041-y)
