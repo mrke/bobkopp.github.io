@@ -2,7 +2,7 @@
 layout: page
 title: Presentations and Media Appearances
 tags: [presentations]
-modified: October 25 2016 5:15 PM
+modified: November 21 2016 7:45 PM
 comments: false
 share: false
 image:
@@ -23,6 +23,8 @@ image:
 
   
 ### Selected Public Presentations and Media Appearances
+  
+  * ["Coasts in Times of Sea-Level Rise." Rutgers University Institute of Earth, Ocean & Atmospheric Sciences public lecture, New Brunswick, NJ, Nov. 2016.](https://youtu.be/QuIvUhvwaW8)
   
   * ["Rising sea levels." Radio Times with Marty Moss-Coane, WHYY, 29 February 2016.](http://goo.gl/zWLUsW)
   
