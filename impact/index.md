@@ -14,6 +14,14 @@ image:
 {% if page.author %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
   {% endif %}
+
+<section id="table-of-contents" class="toc">
+<div id="drawer" markdown="1">
+<!--<header> <h3>Overview</h3></header>-->
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
   
   Our lab's work has impact beyond the walls of academia. For example:
   
