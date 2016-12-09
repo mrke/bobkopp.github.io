@@ -40,6 +40,7 @@ Prior to joining the Rutgers faculty, I served as a [AAAS Science & Technology P
 
 #### [In the media](http://www.google.com/search?hl=en&gl=us&tbm=nws&q="Robert+Kopp"+OR+"Bob+Kopp"+Rutgers)
 
+* [_The Conversation_ (November 2016)](https://goo.gl/OWovmZ)
 * [_The Conversation_ (June 2016)](https://goo.gl/nOadXV)
 * [Radio Times with Marty Moss-Coane [WHYY] (February 2016)](http://goo.gl/zWLUsW)
 *  [PRI's The World (February 2016)](http://goo.gl/RuhXl3)
