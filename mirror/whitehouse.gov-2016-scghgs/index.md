@@ -10,10 +10,6 @@ showtitle: false
 showfooter: false
 
 ---
-
-{% if page.author %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
-  {% endif %}
   
 [Office of Management and Budget. Social Cost of Greenhouse Gases. https://www.whitehouse.gov/omb/oira/social-cost-of-carbon. Accessed: January 8, 2017.](./www.whitehouse.gov/omb/oira/social-cost-of-carbon.html)
 
