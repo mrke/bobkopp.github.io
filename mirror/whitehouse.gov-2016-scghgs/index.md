@@ -15,4 +15,4 @@ showfooter: false
 
 This web site links to a completely unofficial mirror of the Whitehouse.gov Social Cost of Greenhouse Gases page and linked blog entries and technical support documents, as last updated on August 26, 2016 and downloaded for preservation on January 8, 2017. 
 
-Due to changes in style sheets at Whitehouse.gov, it may not display exactly the way it originally appeared, but its content is identical to the original, with the exception that the link to "Federal Register Notice: Request for Comment on the Social Cost of Carbon for Regulatory Impact Analysis" goes directly to a PDF of the Federal Register instead of to FederalRegister.gov.
+Due to changes in style sheets at Whitehouse.gov, it may not display exactly the way it originally appeared, but its content is identical to the original, with the exception that the link to "Federal Register Notice: Request for Comment on the Social Cost of Carbon for Regulatory Impact Analysis" goes directly to a PDF of the Federal Register notice instead of to FederalRegister.gov.
