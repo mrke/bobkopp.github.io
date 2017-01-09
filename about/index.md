@@ -2,7 +2,7 @@
 layout: page
 title: Biography
 tags: [about]
-modified: May 1 2016
+modified: January 8 2017
 comments: false
 share: false
 image:
@@ -35,6 +35,8 @@ His policy-related research focuses on quantifying human impacts on the global c
 He is a lead author of [ _Economic Risks of Climate Change: An American Prospectus_](http://www.climateprospectus.org/), and served as the lead scientist for the  the technical analysis underlying the [Risky Business Project](http://www.riskybusiness.org/). He was a contributing author to Working Groups 1 (Physical Science) and 2 (Impacts, Adaptation, and Vulnerability) of the [Intergovernmental Panel on Climate Change](http://www.ipcc.ch)’s Fifth Assessment Report.
 
 He has served on sea-level rise expert groups for the states of [Maryland](http://www.umces.edu/sea-level) and California, the city of Boston, and the [New Jersey Climate Adaptation Alliance](http://njadapt.rutgers.edu). He is a committee member for the [National Academies Project on Assessing Approaches to Updating the Social Cost of Carbon](http://sites.nationalacademies.org/DBASSE/BECS/CurrentProjects/DBASSE_167526) and a lead author for the [U.S. Global Change Research Program](http://www.globalchange.gov)'s Climate Science Special Report.
+
+He serves as the director of Rutgers' transdisciplinary [Coastal Climate Risk & Resilience (C2R2) initiative](http://c2r2.rutgers.edu), a training program which brings graduate students in the natural sciences, social sciences, engineering, and urban planning together with coastal stakeholders to tackle the challenges that climate change poses to the world's coastlines.
 
 In addition to the  Rutgers  [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and
 the [Rutgers Energy Institute](http://rei.rutgers.edu/), he is a member of the [Institute of Earth, Ocean, and Atmospheric Sciences](http://eoas.rutgers.edu) and the [Rutgers Climate Institute](http://climatechange.rutgers.edu). He is affiliated with Rutgers graduate programs in [Atmospheric Sciences](http://atmos.rutgers.edu), [Geological Sciences](http://eps.rutgers.edu), [Oceanography](http://marine.rutgers.edu), [Statistics](http://statistics.rutgers.edu), and [Planning and Public Policy](http://policy.rutgers.edu/).

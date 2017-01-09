@@ -14,6 +14,8 @@ the [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) an
 
 My [research](research/) focuses on understanding uncertainty in past and future climate change, with major emphases on sea-level change and on the interactions between physical climate change and the economy. I am a lead author of [_Economic Risks of Climate Change: An American Prospectus_](http://www.climateprospectus.org/) and served as lead scientist for the technical analysis underlying the [Risky Business Project](http://www.riskybusiness.org/). I was a contributing author to the [Intergovernmental Panel on Climate Change](http://www.ipcc.ch)’s Fifth Assessment Report, and have served on sea-level rise expert groups for several states and and the city of Boston. 
 
+I serve as the director of Rutgers' transdisciplinary [Coastal Climate Risk & Resilience (C2R2) initiative](http://c2r2.rutgers.edu), a training program which brings graduate students in the natural sciences, social sciences, engineering, and urban planning together with coastal stakeholders to tackle the challenges that climate change poses to the world's coastlines.
+
 In addition to the  Rutgers  [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and
 the [Rutgers Energy Institute](http://rei.rutgers.edu/), I am also a member of the
 [Institute of Earth, Ocean, and Atmospheric Sciences](http://eoas.rutgers.edu/) and of the [Rutgers Climate Institute](http://climatechange.rutgers.edu). I am affiliated with Rutgers graduate programs in [Atmospheric Sciences](http://atmos.rutgers.edu), [Geological Sciences](http://eps.rutgers.edu), [Oceanography](http://marine.rutgers.edu), [Statistics](http://statistics.rutgers.edu), and [Planning and Public Policy](http://policy.rutgers.edu/).
