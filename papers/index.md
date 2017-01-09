@@ -193,7 +193,7 @@ image:
 
 * D. R. Morrow, R. E. Kopp and M. Oppenheimer (2013). Political legitimacy in decisions about experiments in solar radiation management. In: _Climate Change Geoengineering: Philosophical Perspectives, Legal Issues, and Governance Frameworks_. (W. C. G. Burns and A. Strauss, eds.) Cambridge: Cambridge University Press, pp. 146-167.
 
-* Contributing author to: [Interagency Working Group on Social Cost of Carbon, United States Government (2010). Appendix 15a. Social cost of carbon for regulatory impact analysis under Executive Order 12866\. In: _Final Rule Technical Support Document (TSD): Energy Efficiency Program for Commercial and Industrial Equipment: Small Electric Motors_, U.S. Department of Energy.](http://go.usa.gov/3fH)
+* Contributing author to: [Interagency Working Group on Social Cost of Carbon, United States Government (2010). Appendix 15a. Social cost of carbon for regulatory impact analysis under Executive Order 12866\. In: _Final Rule Technical Support Document (TSD): Energy Efficiency Program for Commercial and Industrial Equipment: Small Electric Motors_, U.S. Department of Energy.](pubs/Social-Cost-of-Carbon-for-RIA-2010.pdf)
 
 * [K. L. Bice, A. G. Eil, B. Habib, P. L. Heijmans, R. E. Kopp, J. P. Nogues, F. L. Norcross, M. Sweitzer-Hamilton, A. Whitworth and D. L. Mauzerall (2009). _Black Carbon: A Review and Policy Recommendations_. Princeton, NJ: Woodrow Wilson School of Public and International Affairs.](pubs/Princeton2009-WWS-Black-Carbon-report.pdf)
 
