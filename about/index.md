@@ -24,9 +24,7 @@ image:
 </div>
 
 Robert Kopp serves at [Rutgers University](http://www.rutgers.edu/) as an associate professor in the [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and as Associate Director of
-the [Rutgers Energy Institute](http://rei.rutgers.edu/).
-
-His research focuses on understanding uncertainty in past and future climate change, with major emphases on sea-level change and on the interactions between physical climate change and the economy. 
+the [Rutgers Energy Institute](http://rei.rutgers.edu/). His research focuses on understanding uncertainty in past and future climate change, with major emphases on sea-level change and on the interactions between physical climate change and the economy. 
 
 He is a lead author of [ _Economic Risks of Climate Change: An American Prospectus_](http://www.climateprospectus.org/), and served as the lead scientist for the  the technical analysis underlying the [Risky Business Project](http://www.riskybusiness.org/). He was a contributing author to Working Groups 1 (Physical Science) and 2 (Impacts, Adaptation, and Vulnerability) of the [Intergovernmental Panel on Climate Change](http://www.ipcc.ch)’s Fifth Assessment Report.
 

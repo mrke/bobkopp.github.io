@@ -40,7 +40,7 @@ The framework for probabilistic projections of sea-level rise we developed in [K
 If you would like to access our sea-level projections for your region at a greater level of detail than is provided by Surging Seas, you may access them in the following ways:
 
 1. For a subset of U.S. sites, [Kopp et al. (2014)](http://dx.doi.org/10.1002/2014EF000239)  projections are summarized in the [American Climate Prospectus's](http://www.climateprospectus.org/) [Physical Climate Data Tables](resources/ACP_Science-Data-Tables.xlsx) (XLSX format).  
-2. For all the sites considered in [Kopp et al. (2014)](http://dx.doi.org/10.1002/2014EF000239) , local sea-level rise projections are summarized in [Supplementary Table  7](resources/KoppEtAl2014-Sup-Table7.tsv).
+2. For all the sites considered in [Kopp et al. (2014)](http://dx.doi.org/10.1002/2014EF000239), local sea-level rise projections are summarized in [Supplementary Table  7](resources/KoppEtAl2014-Sup-Table7.tsv).
 3. A greater range of projections (more years, more quantiles, and disaggregated by source) are available through the [LocalizeSL](https://github.com/bobkopp/LocalizeSL) MATLAB package.
 
 Please feel free to contact me if you need assistance.

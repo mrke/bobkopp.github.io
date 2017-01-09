@@ -19,6 +19,8 @@ image:
 
 ### Coastal Climate Risk & Resilience Traineeship
 
+<div style="float: right; margin: 20px; max-width: 150px;  border:  0px;"><a href="http://c2r2.rutgers.edu/" target="_blank"><img src="../images/c2r2.png"></a></div>
+
 I am the director of Rutgers' NSF-funded [Coastal Climate Risk & Resilience Traineeship](http://c2r2.rutgers.edu/) (C2R2), an innovative, new, transdisciplinary initiative that is preparing graduate students to meet the challenge of coastal climate change. C2R2 integrates expertise from many fields, ranging from urban planning to climate science and oceanography, from engineering to sociology and economics. It offers research-based Masters’ and Ph.D. students in Rutgers graduate programs the opportunity to conduct research that integrates natural, socio-economic, and engineered elements of coastal systems and to  practice effective communication techniques with coastal stakeholders. For more information, see the [C2R2 web site](http://c2r2.rutgers.edu/).
 
 ### Current Courses
