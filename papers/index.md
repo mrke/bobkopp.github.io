@@ -39,9 +39,9 @@ image:
 
 ### Journal articles
 
-* [O’Neill, B. C., M. Oppenheimer, R. Warren, S. Hallegatte, R. E. Kopp, H. O. Po ̈rtner, R. Scholes, J. Birkmann, W. Foden, R. Licker, K. J. Mach, P. Marbaix, M. Mastrandrea, J. Price, K. Takahashi, J.-P. van Ypersele, and G. Yohe (2017). IPCC Reasons for Concern regarding climate change risks. Nature Climate Change 7, 28–37. doi: 10.1038/nclimate3179.](http://rdcu.be/ohnY)   [[Journal link]](http://dx.doi.org/10.1038/nclimate3179)
-
 * [N. S. Khan, E. Ashe, B. P. Horton, A. L. Dutton, R. E. Kopp, G. Brocard, S. E. Engelhart, D. F. Hill, W. Peltier, C. H. Vane, and F. N. Scatena (2017). Drivers of Holocene sea-level change in the Caribbean. Quaternary Science Reviews 155, 13–36. doi: 10.1016/j.quascirev.2016.08.032.](http://dx.doi.org/10.1016/j.quascirev.2016.08.032)
+
+* [B. C. O’Neill, M. Oppenheimer, R. Warren, S. Hallegatte, R. E. Kopp, H. O. Po ̈rtner, R. Scholes, J. Birkmann, W. Foden, R. Licker, K. J. Mach, P. Marbaix, M. Mastrandrea, J. Price, K. Takahashi, J.-P. van Ypersele, and G. Yohe (2017). IPCC Reasons for Concern regarding climate change risks. Nature Climate Change 7, 28–37. doi: 10.1038/nclimate3179.](http://rdcu.be/ohnY)   [[Journal link]](http://dx.doi.org/10.1038/nclimate3179)
 
 * [M. K. Buchanan, R. E. Kopp, M. Oppenheimer, and C. Tebaldi (2016). Allowances for evolving coastal flood risk under uncertain local sea-level rise. _Climatic Change_ 137, 347-362. doi:10.1007/s10584-016-1664-7.](http://dx.doi.org/10.1007/s10584-016-1664-7)
 
