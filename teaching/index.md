@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 tags: [teaching]
-modified: May 1 2016
+modified: January 8 2017
 comments: false
 share: false
 image:
@@ -17,12 +17,16 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
+### Coastal Climate Risk & Resilience Traineeship
+
+I am the director of Rutgers' NSF-funded [Coastal Climate Risk & Resilience Traineeship](http://c2r2.rutgers.edu/) (C2R2), an innovative, new, transdisciplinary initiative that is preparing graduate students to meet the challenge of coastal climate change. C2R2 integrates expertise from many fields, ranging from urban planning to climate science and oceanography, from engineering to sociology and economics. It offers research-based Masters’ and Ph.D. students in Rutgers graduate programs the opportunity to conduct research that integrates natural, socio-economic, and engineered elements of coastal systems and to  practice effective communication techniques with coastal stakeholders. For more information, see the [C2R2 web site](http://c2r2.rutgers.edu/).
+
 ### Current Courses
 
 #### _01:460:203 Building and Maintaining a Habitable Planet_ (premiered Fall 2013)
 {:.no_toc}
 
-[[Syllabus]](syllabi/Syllabus-HabitablePlanet.pdf)
+[[Syllabus]](syllabi/161116 Habitable Planet Fall 2016 syllabus.pdf)
 
 Humanity has become a geological force, reshaping Earth’s land, atmosphere, oceans and climate through our activities. Some geologists have proposed that this era of human influence be recognized as a new geological epoch, the Anthropocene. “We are as gods and we HAVE to get good at it,” the writer Stewart Brand says, yet “civilization’s shortening attention span is mismatched with the pace of environmental problems.” How do we reconcile the time scale of news cycles, quarterly reports, and elections with the timescale of our impacts, which will last for tens of thousands if not millions of years?
 

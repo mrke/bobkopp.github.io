@@ -2,7 +2,7 @@
 layout: page
 title: Software
 tags: [software]
-modified: Wed Jan 30 2016
+modified: January 8 2017
 comments: false
 share: false
 image:
@@ -12,7 +12,9 @@ image:
 
 * [CESL-STEHM-GP](https://github.com/bobkopp/CESL-STEHM-GP/releases): MATLAB code for Spatio-Temporal Empirical Hierarchical Modeling of sea-level data with Gaussian Processes; used in Kopp et al. (2016)
 
-* [LocalizeSL](https://github.com/bobkopp/LocalizeSL/releases): MATLAB routines to localize the sea-level rise projections of Kopp et al. (2014)
+* [LocalizeSL](https://github.com/bobkopp/LocalizeSL/releases): MATLAB routines to localize the sea-level rise projections of Kopp et al. (2014) and ProjectSL
+
+* [ProjectSL](https://github.com/bobkopp/ProjectSL/releases): MATLAB routines to project global and local sea level, originally developed for Kopp et al. (2014)
 
 * [matDICE](https://github.com/bobkopp/matDICE): MATLAB implementation of flexible DICE-like simple integrated assessment model, as used in Kopp et al. (2012)
 
