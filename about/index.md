@@ -26,11 +26,7 @@ image:
 Robert Kopp serves at [Rutgers University](http://www.rutgers.edu/) as an associate professor in the [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and as Associate Director of
 the [Rutgers Energy Institute](http://rei.rutgers.edu/).
 
-His scientific and policy [research](/research) interests are guided by the recognition that, over the last two centuries, human civilization has become a geological force, inducing planetary environmental conditions like those that Earth has not experienced for millions of years.
-
-His scientific research focuses on employing statistical and process models to integrate diverse geological data sets, with the proximal goal of improving understanding of past Earth system states and the ultimate goals of testing and strengthening models of future global change. One area of particular emphasis is using records of past sea-level changes to improve estimates of ice sheet stability and future sea-level change
-
-His policy-related research focuses on quantifying human impacts on the global climate, assessing the potential of different policies and technologies to mitigate these impacts, and incorporating climate change impacts into benefit-cost and risk management analyses.
+His research focuses on understanding uncertainty in past and future climate change.with major emphases on sea-level change and on the interactions between physical climate change and the economy. 
 
 He is a lead author of [ _Economic Risks of Climate Change: An American Prospectus_](http://www.climateprospectus.org/), and served as the lead scientist for the  the technical analysis underlying the [Risky Business Project](http://www.riskybusiness.org/). He was a contributing author to Working Groups 1 (Physical Science) and 2 (Impacts, Adaptation, and Vulnerability) of the [Intergovernmental Panel on Climate Change](http://www.ipcc.ch)’s Fifth Assessment Report.
 
