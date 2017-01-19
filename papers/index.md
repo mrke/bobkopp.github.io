@@ -169,7 +169,7 @@ image:
 
 * [National Academies of Sciences, Engineering, and Medicine (2017). _Valuing Climate Damages: Updating Estimation of the Social Cost of Carbon Dioxide._ The National Academies Press, 394 pp. doi:10.17226/24651.](http://dx.doi.org/10.17226/24651)
 
-* [W.V. Sweet, R. E. Kopp, C. P. Weaver, J. Obeysekera, R. Horton, E. R. Thieler, and C. Zervas (2017). _Global and Regional Sea Level Rise Scenarios for the United States._ Technical Report NOS CO-OPS 083. National Oceanic and Atmospheric Administration.](https://tidesandcurrents.noaa.gov/publications/ techrpt83 Global and Regional SLR Scenarios for the US final.pdf.)
+* [W.V. Sweet, R. E. Kopp, C. P. Weaver, J. Obeysekera, R. Horton, E. R. Thieler, and C. Zervas (2017). _Global and Regional Sea Level Rise Scenarios for the United States._ Technical Report NOS CO-OPS 083. National Oceanic and Atmospheric Administration.](https://tidesandcurrents.noaa.gov/publications/ techrpt83 Global and Regional SLR Scenarios for the US final.pdf)
 
 * [E. Douglas et al. (2016). _Climate Change and Sea Level Rise Projections for Boston: the Boston Research Advisory Group Report_. Boston, MA: Climate Ready Boston, 54 pp.](http://climateready.boston.gov/findings)
 
