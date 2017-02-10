@@ -7,7 +7,7 @@ image:
 share: false
 ---
 
-I am a climate scientist, Earth historian, geobiologist, and energy policy wonk. I serve at [Rutgers University](http://www.rutgers.edu/) as an associate professor in
+I am a climate scientist, Earth historian, geobiologist, and energy policy wonk. I serve at [Rutgers University](http://www.rutgers.edu/) as a professor in
 the [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and as Associate Director of the [Rutgers Energy Institute](http://rei.rutgers.edu/). 
 
 <div style="float: right; margin: 20px; max-width: 150px; box-shadow: 10px 10px 5px #888888; border:  1px solid gray;"><a href="http://www.climateprospectus.org" target="_blank"><img src="images/EconomicRisksOfCC.jpg"></a></div>
