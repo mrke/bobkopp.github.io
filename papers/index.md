@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: January 18 2017
+modified: February 20 2017
 comments: false
 share: false
 image:
@@ -38,6 +38,8 @@ image:
 <!-- ### Working papers -->
 
 ### Journal articles
+
+* [C. C. Hay, E. D. Morrow, R. E. Kopp, and J. X. Mitrovica (in press). On the robustness of Bayesian fingerprinting estimates of global sea-level change. Journal of Climate. doi: 10.1175/JCLI-D-16-0271.1.](http://dx.doi.org/10.1175/JCLI-D-16-0271.1)
 
 * [N. S. Khan, E. Ashe, B. P. Horton, A. L. Dutton, R. E. Kopp, G. Brocard, S. E. Engelhart, D. F. Hill, W. Peltier, C. H. Vane, and F. N. Scatena (2017). Drivers of Holocene sea-level change in the Caribbean. Quaternary Science Reviews 155, 13–36. doi: 10.1016/j.quascirev.2016.08.032.](http://dx.doi.org/10.1016/j.quascirev.2016.08.032)
 
