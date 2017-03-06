@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: February 20 2017
+modified: March 5 2017
 comments: false
 share: false
 image:
@@ -218,6 +218,8 @@ image:
 * [Guest co-editor (with R. Tol and S. Waldhoff), _Economics_ special issue (2012). _The Social Cost of Carbon_.](http://www.economics-ejournal.org/special-areas/special-issues/the-social-cost-of-carbon)
 
 ### Popular publications
+
+* [R. Kopp. New York 2140: A novelist’s vision of a drowned city that still never sleeps. _The Conversation_, 5 March 2017.](https://goo.gl/PxVWYK)
 
 * [R. Kopp. Managing climate risk in Trump’s America. _The Conversation_, 9 November 2016.](https://goo.gl/OWovmZ)
 
