@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: March 5 2017
+modified: April 4 2017
 comments: false
 share: false
 image:
@@ -39,9 +39,9 @@ image:
 
 ### Journal articles
 
-* [C. C. Hay, E. D. Morrow, R. E. Kopp, and J. X. Mitrovica (in press). On the robustness of Bayesian fingerprinting estimates of global sea-level change. Journal of Climate. doi: 10.1175/JCLI-D-16-0271.1.](http://dx.doi.org/10.1175/JCLI-D-16-0271.1)
+* [C. C. Hay, E. D. Morrow, R. E. Kopp, and J. X. Mitrovica (2017). On the robustness of Bayesian fingerprinting estimates of global sea-level change. _Journal of Climate_ 155, 13-36. doi: 10.1175/JCLI-D-16-0271.1.](http://dx.doi.org/10.1175/JCLI-D-16-0271.1)
 
-* [N. S. Khan, E. Ashe, B. P. Horton, A. L. Dutton, R. E. Kopp, G. Brocard, S. E. Engelhart, D. F. Hill, W. Peltier, C. H. Vane, and F. N. Scatena (2017). Drivers of Holocene sea-level change in the Caribbean. Quaternary Science Reviews 155, 13–36. doi: 10.1016/j.quascirev.2016.08.032.](http://dx.doi.org/10.1016/j.quascirev.2016.08.032)
+* [N. S. Khan, E. Ashe, B. P. Horton, A. L. Dutton, R. E. Kopp, G. Brocard, S. E. Engelhart, D. F. Hill, W. Peltier, C. H. Vane, and F. N. Scatena (2017). Drivers of Holocene sea-level change in the Caribbean. _Quaternary Science Reviews_ 155, 13–36. doi: 10.1016/j.quascirev.2016.08.032.](http://dx.doi.org/10.1016/j.quascirev.2016.08.032)
 
 * [A. J. Meltzner, A. D. Switzer, B. P. Horton, E. Ashe, Q. Qiu, D. F. Hill, S. L. Bradley, R. E. Kopp, E. M. Hill, J. M. Majeski, D. H. Natawidjaja, and B. W. Suwargadi (2017). Half-metre sea-level fluctuations on centennial timescales from mid-Holocene corals of Southeast Asia. _Nature Communications_ 8, 14387. doi: 10.1038/ncomms14387.](http://dx.doi.org/10.1038/ncomms14387)
 
@@ -65,7 +65,7 @@ image:
 
 * [J. Liu, G. A. Milne, R. E. Kopp, P. U. Clark, and I. Shennan (2016). Sea-Level Constraints on the Amplitude and Source Distribution of Meltwater Pulse 1A. _Nature Geoscience_ 9, 130-134. doi:10.1038/NGEO2616.](http://dx.doi.org/10.1038/NGEO2616)
 
-* [D. J. Rasmussen, M. Meinshausen, and R. E. Kopp (2016). Probability-weighted ensembles of U.S. county-level climate projections for climate risk analysis. _Journal of Applied Meteorology and Climatology_ 55, 2301-2322. doi:10.1175/JAMC-D-15-0302.1.](http://dx.doi.org/10.1175/JAMC-D-15-0302.1)
+* [D. J. Rasmussen, M. Meinshausen, and R. E. Kopp (2016). Probability-weighted ensembles of U.S. county-level climate projections for climate risk analysis. _Journal of Applied Meteorology and Climatology_ 55, 2301-2322. doi:10.1175/JAMC-D-15-0302.1.](http://dx.doi.org/10.1175/JAMC-D-15-0302.1) [[Data sets]](http://dx.doi.org/doi:10.7282/T3SF2Z93)
 
 * [J. R. Creveling, J. X. Mitrovica, C. C. Hay, J. Austermann, and R. E. Kopp (2015). Revisiting tectonic corrections applied to Pleistocene sea-level highstands. _Quaternary Science Reviews_ 111, 72–80\. doi:10.1016/j.quascirev.2015.01.003.](http://dx.doi.org/10.1016/j.quascirev.2015.01.003)
 
