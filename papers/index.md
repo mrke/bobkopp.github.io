@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: April 4 2017
+modified: April 12 2017
 comments: false
 share: false
 image:
@@ -170,6 +170,8 @@ image:
 ### Reports, book chapters, and theses
 
 * [D. R. Morrow, R. E. Kopp and M. Oppenheimer (forthcoming). Research ethics and geoengineering. In: _Geoengineering our Climate?: Ethics, Politics and Governance_. (J. Blackstock, C. Miller, and S. Rayner, eds.) Oxford: Earthscan.](http://tinyurl.com/morrow2013)
+
+* [G. Griggs, J. Árvai, D. Cayan, R. DeConto, J. Fox, H. A. Fricker, R. E. Kopp, C. Tebaldi, and E. A. Whiteman (2017). _Rising seas in California: An update on sea-level rise science._ California Ocean Science Trust, 71 pp.](http://www.opc.ca.gov/webmaster/ftp/pdf/docs/rising-seas-in-california-an-update-on-sea-level-rise-science.pdf)
 
 * [National Academies of Sciences, Engineering, and Medicine (2017). _Valuing Climate Damages: Updating Estimation of the Social Cost of Carbon Dioxide._ The National Academies Press, 394 pp. doi:10.17226/24651.](http://dx.doi.org/10.17226/24651)
 
