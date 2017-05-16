@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: April 12 2017
+modified: May 15 2017
 comments: false
 share: false
 image:
@@ -35,7 +35,9 @@ image:
 
 * [T. Houser, S. Hsiang, R. Kopp, K. Larsen and others (2015). _Economic Risks of Climate Change: An American Prospectus_. New York: Columbia University Press, 384 pp. ISBN 9780231174565.](http://www.climateprospectus.org)
 
-<!-- ### Working papers -->
+### Working papers
+
+* [R. E. Kopp, R. M. DeConto, D. A. Bader, R. M. Horton, C. C. Hay, S. Kulp, M. Oppenheimer, D. Pollard, and B. H. Strauss (2017). Implications of Antarctic ice-cliff collapse and ice-shelf hydrofracturing mechanisms for sea-level projections. _ArXiv e-prints_. eprint: 1704.05597.](https://arxiv.org/abs/1704.05597)
 
 ### Journal articles
 
