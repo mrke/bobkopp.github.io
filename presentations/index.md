@@ -2,7 +2,7 @@
 layout: page
 title: Presentations and Media Appearances
 tags: [presentations]
-modified: December 9 2016 12:45 PM
+modified: 13 June 2017
 comments: false
 share: false
 image:
@@ -23,6 +23,8 @@ image:
 
   
 ### Selected Public Presentations and Media Appearances
+  
+  * [Panelist, "Kim Stanley Robinson's _New York 2140_ -- Science and fiction: Envisioning our region's future under extreme sea-level rise." Rutgers University, New Brunswick, NJ, April 2017.](https://youtu.be/MxpzGg022do)
   
   * ["Coasts in Times of Sea-Level Rise." Rutgers University Institute of Earth, Ocean & Atmospheric Sciences public lecture, New Brunswick, NJ, Oct. 2016.](https://youtu.be/4pcnkokIXpQ)
   

@@ -8,8 +8,8 @@ share: false
 ---
 <div style="float: right; margin: 20px; max-width: 150px;  border:  0px;"><a href="http://c2r2.rutgers.edu/" target="_blank"><img src="images/c2r2.png"></a></div>
 
-I am a climate scientist, Earth historian, geobiologist, and energy policy wonk. I serve at [Rutgers University](http://www.rutgers.edu/) as a professor in
-the [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/) and as Associate Director of the [Rutgers Energy Institute](http://rei.rutgers.edu/).  I also direct Rutgers' transdisciplinary [Coastal Climate Risk & Resilience (C2R2) initiative](http://c2r2.rutgers.edu), a training program which brings graduate students in the natural sciences, social sciences, engineering, and urban planning together with coastal stakeholders to tackle the challenges that climate change poses to the world's coastlines.
+I am a climate scientist, Earth historian, geobiologist, and energy policy wonk. I serve at [Rutgers University](http://www.rutgers.edu/) as Director of the [Institute of Earth, Ocean & Atmospheric Sciences](http://eoas.rutgers.edu/) and as a professor in
+the [Department of Earth & Planetary Sciences](http://geology.rutgers.edu/).  I also co-direct Rutgers' transdisciplinary [Coastal Climate Risk & Resilience (C2R2) initiative](http://c2r2.rutgers.edu), a training program which brings graduate students in the natural sciences, social sciences, engineering, and urban planning together with coastal stakeholders to tackle the challenges that climate change poses to the world's coastlines.
 
 <div style="float: left; margin: 20px; max-width: 150px; box-shadow: 10px 10px 5px #888888; border:  1px solid gray;"><a href="http://www.climateprospectus.org" target="_blank"><img src="images/EconomicRisksOfCC.jpg"></a></div>
 
