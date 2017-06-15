@@ -2,7 +2,7 @@
 layout: page
 title: Presentations and Media Appearances
 tags: [presentations]
-modified: 13 June 2017
+modified: 14 June 2017
 comments: false
 share: false
 image:
@@ -23,6 +23,8 @@ image:
 
   
 ### Selected Public Presentations and Media Appearances
+  
+  * ["Episode #45 – Climate Science Part 3 – Paleoclimate." The Energy Transition Show, 14 June 2017.](http://xenetwork.org/ets/episodes/episode-45-paleoclimate/)
   
   * [Panelist, "Kim Stanley Robinson's _New York 2140_ -- Science and fiction: Envisioning our region's future under extreme sea-level rise." Rutgers University, New Brunswick, NJ, April 2017.](https://youtu.be/MxpzGg022do)
   
