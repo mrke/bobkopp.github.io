@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: June 6 2017
+modified: June 18 2017
 comments: false
 share: false
 image:
@@ -41,7 +41,7 @@ image:
 
 ### Journal articles
 
-* [Miller, K. G., R. Baluyot, J. D. Wright, R. E. Kopp, and J. V. Browning (in press). Closing an early Miocene astronomical gap with Southern Ocean δ18O and 13C records: Implications for sea-level change. _Paleoceanography_. doi: 10.1002/2016PA003074.](http://dx.doi.org/10.1002/2016PA003074)
+* [Miller, K. G., R. Baluyot, J. D. Wright, R. E. Kopp, and J. V. Browning (in press). Closing an early Miocene astronomical gap with Southern Ocean δ<sup>18</sup>O and δ<sup>13</sup>C records: Implications for sea-level change. _Paleoceanography_. doi: 10.1002/2016PA003074.](http://dx.doi.org/10.1002/2016PA003074)
 
 * [M. K. Buchanan, M. Oppenheimer, and R. E. Kopp (2017). Amplification of flood frequencies with local sea level rise and emerging flood regimes. _Environmental Research Letters_ 12, 064009. doi: 10.1088/1748-9326/aa6cb3.](http://dx.doi.org/10.1088/1748-9326/aa6cb3)
 
