@@ -43,9 +43,6 @@ change and on the interactions between physical climate change and the economy.
 
 ### Postdocs
 
-#### [Carling Hay (Joint Rutgers/Harvard Postdoc)](https://www.linkedin.com/in/carling-hay-4479377b/)
-{:.no_toc} 
-
 #### [Jiacan Yuan](http://www.meteo.psu.edu/~juy17/)
 {:.no_toc}
 
