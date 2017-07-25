@@ -2,7 +2,7 @@
 layout: page
 title: Biography
 tags: [about]
-modified: July 1 2017
+modified: July 20 2017
 comments: false
 share: false
 image:
@@ -37,4 +37,4 @@ Prior to joining the Rutgers faculty, Dr. Kopp served as an [AAAS Science & Tech
 
 Prior to this fellowship, Dr. Kopp was a [Science, Technology, and Environmental Policy](http://www.princeton.edu/step/) postdoctoral research fellow at Princeton University. He received his Ph.D. in geobiology from Caltech, where his research focused on fossil magnetotactic bacteria and on the long-term co-evolution of life and climate on planet Earth. He received his undergraduate degree in geophysical sciences from the University of Chicago, where his senior thesis research examined putative signs of Martian life in the meteorite ALH84001.
 
-Professor Kopp is a Rutgers-New Brunswick Chancellor's Scholar and a past Leopold Leadership Fellow. He is a recipient of the International Union for Quaternary Research (INQUA)'s Sir Nicholas Shackleton Medal and the American Geophysical Union's William Gilbert Medal.
+Professor Kopp is a Rutgers-New Brunswick Chancellor's Scholar and a past Leopold Leadership Fellow. He is a recipient of the American Geophysical Union’s James B. Macelwane and William Gilbert Medals and the International Union for Quaternary Research (INQUA)’s Sir Nicholas Shackleton Medal.

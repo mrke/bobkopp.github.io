@@ -47,7 +47,7 @@ image:
 
 * [C. C. Hay, E. D. Morrow, R. E. Kopp, and J. X. Mitrovica (2017). On the robustness of Bayesian fingerprinting estimates of global sea-level change. _Journal of Climate_ 155, 13-36. doi: 10.1175/JCLI-D-16-0271.1.](http://dx.doi.org/10.1175/JCLI-D-16-0271.1)
 
-* [S. Hsiang, S., R. Kopp, A. Jina, J. Rising, M. Delgado, S. Mohan, D. J. Rasmussen, R. Muir-Wood, P. Wilson, M. Oppenheimer, K. Larsen, and T. Houser (2017). Estimating economic damage from climate change in the United States. Science 356(6345), 1362–1369. doi: 10.1126/science.aal4369.](http://dx.doi.org/10.1126/science.aal4369) [[Zenodo Data Archive]](https://zenodo.org/communities/economic-damage-from-climate-change-usa/) [[Interactive maps]](http://www.impactlab.org/map)
+* [S. Hsiang, S., R. Kopp, A. Jina, J. Rising, M. Delgado, S. Mohan, D. J. Rasmussen, R. Muir-Wood, P. Wilson, M. Oppenheimer, K. Larsen, and T. Houser (2017). Estimating economic damage from climate change in the United States. Science 356(6345), 1362–1369. doi: 10.1126/science.aal4369.](http://dx.doi.org/10.1126/science.aal4369) [[Zenodo Data Archive]](https://zenodo.org/communities/economic-damage-from-climate-change-usa/) [[Interactive maps]](http://www.impactlab.org/map) [[Summary tables]](http://globalpolicy.science/econ-damage-climate-change-usa)
 
 * [N. S. Khan, E. Ashe, B. P. Horton, A. L. Dutton, R. E. Kopp, G. Brocard, S. E. Engelhart, D. F. Hill, W. Peltier, C. H. Vane, and F. N. Scatena (2017). Drivers of Holocene sea-level change in the Caribbean. _Quaternary Science Reviews_ 155, 13–36. doi: 10.1016/j.quascirev.2016.08.032.](http://dx.doi.org/10.1016/j.quascirev.2016.08.032)
 

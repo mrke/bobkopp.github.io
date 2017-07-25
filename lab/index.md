@@ -2,7 +2,7 @@
 layout: page-noauthor
 title: Rutgers Earth System Science & Policy Lab
 tags: [about]
-modified: February 21 2017
+modified: July 25 2017
 comments: false
 share: false
 image:
@@ -46,11 +46,6 @@ change and on the interactions between physical climate change and the economy.
 #### [Carling Hay (Joint Rutgers/Harvard Postdoc)](https://www.linkedin.com/in/carling-hay-4479377b/)
 {:.no_toc} 
 
-<div>
-<a href="https://www.linkedin.com/in/carling-hay-4479377b/"><div style="float: right; margin: 20px; max-width: 200px"><img src="portraits/carlinghay.jpg"></div></a>
-One of the main goals of my work is to answer the fundamentally important climatological question:  what are the various contributors to the observed changes in sea level?  My research focuses on using statistical techniques to better understand global mean sea level during current and past warm periods, and to develop the tools necessary to extract source information from historical sea-level records.  Understanding how past sea level has changed in response to rising surface temperatures is a critical step in being able to predict sea-level rise into the next century and beyond.
-</div>
-
 #### [Jiacan Yuan](http://www.meteo.psu.edu/~juy17/)
 {:.no_toc}
 
@@ -89,6 +84,13 @@ sea-level equation.
 I am an interdisciplinary environmental scientist who applies climate science to policy applications and decision-making problems under uncertainty. My interests lie in assessing dynamics between climate impacts and social and natural systems. My research involves optimizing resilience to climate change impacts, particularly to sea level rise in the face of multiple economic and social stressors. Before starting my PhD, I worked for the White House Subcommittee on Global Change Research on developing the U.S. Government's priorities in advancing climate science and informing decision makers. Previously, I worked as an environmental engineer and policy analyst for NASA, the Department of Energy, the Architect of the Capital, and the United Nations (Iraq and Jordan field offices). 
 </div>
 
+####[Kristen Joyse (Earth and Planetary Sciences)](http://geology.rutgers.edu/people-directory/24-graduate-students/707-kristen-joyse)
+{: .no_toc}
+
+<div>
+<a href="http://geology.rutgers.edu/people-directory/24-graduate-students/707-kristen-joyse"><div style="margin: 20px; max-width: 150px"><img src="portraits/kristenjoyse.jpg"></div></a>
+</div>
+
 #### [D.J. Rasmussen (Woodrow Wilson School)](http://www.djrasmussen.co ) 
 {: .no_toc}
 
@@ -100,6 +102,7 @@ DJ’s interests lie at the intersection of climate, policy, and the economy. He
 
 #### Postdocs
 
+* [Carling Hay](http://www.carlinghay.com)
 * [Eric Morrow](http://www.ericmorrow.ca)
 
 #### Graduate students co-advised

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Software
-tags: [software]
+title: Code
+tags: [code]
 modified: January 8 2017
 comments: false
 share: false
