@@ -98,6 +98,7 @@ DJ’s interests lie at the intersection of climate, policy, and the economy. He
 ### Alumni
 
 #### Postdocs
+{:.no_toc}
 
 * [Carling Hay](http://www.carlinghay.com)
 * [Eric Morrow](http://www.ericmorrow.ca)
