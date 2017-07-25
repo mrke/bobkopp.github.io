@@ -84,7 +84,7 @@ sea-level equation.
 I am an interdisciplinary environmental scientist who applies climate science to policy applications and decision-making problems under uncertainty. My interests lie in assessing dynamics between climate impacts and social and natural systems. My research involves optimizing resilience to climate change impacts, particularly to sea level rise in the face of multiple economic and social stressors. Before starting my PhD, I worked for the White House Subcommittee on Global Change Research on developing the U.S. Government's priorities in advancing climate science and informing decision makers. Previously, I worked as an environmental engineer and policy analyst for NASA, the Department of Energy, the Architect of the Capital, and the United Nations (Iraq and Jordan field offices). 
 </div>
 
-####[Kristen Joyse (Earth and Planetary Sciences)](http://geology.rutgers.edu/people-directory/24-graduate-students/707-kristen-joyse)
+#### [Kristen Joyse (Earth and Planetary Sciences)](http://geology.rutgers.edu/people-directory/24-graduate-students/707-kristen-joyse)
 {: .no_toc}
 
 <div>
