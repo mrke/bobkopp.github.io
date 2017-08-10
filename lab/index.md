@@ -2,7 +2,7 @@
 layout: page-noauthor
 title: Rutgers Earth System Science & Policy Lab
 tags: [about]
-modified: July 25 2017
+modified: July 26 2017
 comments: false
 share: false
 image:
@@ -85,8 +85,8 @@ I am an interdisciplinary environmental scientist who applies climate science to
 {: .no_toc}
 
 <div>
-<a href="http://geology.rutgers.edu/people-directory/24-graduate-students/707-kristen-joyse"><div style="margin: 20px; max-width: 150px"><img src="portraits/kristenjoyse.jpg"></div></a>
-</div>
+<a href="http://geology.rutgers.edu/people-directory/24-graduate-students/707-kristen-joyse"><div style="float: right; margin: 20px; max-width: 150px"><img src="portraits/kristenjoyse.jpg"></div></a>
+I am a geoscientist interested in using evidence of past climate change to improve understanding of physical Earth systems and projections of future climate. My interests lie particularly within aspects of climate that have large social implications, including sea level rise, major storm frequency, and resource availability. I am currently a member of Rutgers University’s first cohort of trainees in the Coastal Climate Risk and Resilience initiative, which focuses on the transdisciplinary research and collaboration I am interested in. My current research is focused on relative sea level rise in the Western Mediterranean Basin and its implications for past civilizations. Additionally, I am working on a paleostorm reconstruction for the New Jersey coast from overwash deposits in backbarrier environments.</div>
 
 #### [D.J. Rasmussen (Woodrow Wilson School)](http://www.djrasmussen.co ) 
 {: .no_toc}
