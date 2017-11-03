@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: October 23 2017
+modified: November 3 2017
 comments: false
 share: false
 image:
@@ -185,9 +185,17 @@ image:
 
 * [G. Griggs, J. Árvai, D. Cayan, R. DeConto, J. Fox, H. A. Fricker, R. E. Kopp, C. Tebaldi, and E. A. Whiteman (2017). _Rising seas in California: An update on sea-level rise science._ California Ocean Science Trust, 71 pp.](http://www.opc.ca.gov/webmaster/ftp/pdf/docs/rising-seas-in-california-an-update-on-sea-level-rise-science.pdf)
 
+* [K. Hayhoe, J. Edmonds, R. E. Kopp, A. N. LeGrande, B. M. Sanderson, M. F. Wehner, and D. J. Wuebbles (2017). "Climate models, scenarios, and projections". In: _Climate Science Special Report: Fourth National Climate Assessment, Volume I_. Ed. by D. J. Wuebbles, D. W. Fahey, K. A. Hibbard, D. J. Dokken, B. C. Stewart, and T. K. Maycock. Washington, DC, USA: U.S. Global Change Research Program. Chap. 4, pp. 133–160. doi: 10.7930/J0WH2N54.](http://dx.doi.org/10.7930/J0WH2N54)
+
+* [R. E. Kopp, D. R. Easterling, T. Hall, K. Hayhoe, R. Horton, K. E. Kunkel, and A. N. LeGrande (2017). “Potential surprises – compound extremes and tipping elements”. In: Climate Science Special Report: Fourth National Climate Assessment, Volume I. Ed. by D. J. Wuebbles, D. W. Fahey, K. A. Hibbard, D. J. Dokken, B. C. Stewart, and T. K. Maycock. Washington, DC, USA: U.S. Global Change Research Program. Chap. 15, pp. 411–429. doi: 10.7930/J0GB227J.](http://dx.doi.org/10.7930/J0GB227J)
+
 * [National Academies of Sciences, Engineering, and Medicine (2017). _Valuing Climate Damages: Updating Estimation of the Social Cost of Carbon Dioxide._ The National Academies Press, 394 pp. doi:10.17226/24651.](http://dx.doi.org/10.17226/24651)
 
+* [W. V. Sweet, R. Horton, R. E. Kopp, A. N. LeGrande, and A. Romanou (2017). "Sea level rise". In: _Climate Science Special Report: Fourth National Climate Assessment, Volume I_. Ed. by D. J. Wuebbles, D. W. Fahey, K. A. Hibbard, D. J. Dokken, B. C. Stewart, and T. K. Maycock. Washington, DC, USA: U.S. Global Change Research Program. Chap. 12, pp. 333–363. doi: 10.7930/J0VM49F2.](http://dx.doi.org/10.7930/J0VM49F2)
+
 * [W.V. Sweet, R. E. Kopp, C. P. Weaver, J. Obeysekera, R. Horton, E. R. Thieler, and C. Zervas (2017). _Global and Regional Sea Level Rise Scenarios for the United States._ Technical Report NOS CO-OPS 083. National Oceanic and Atmospheric Administration.](https://tidesandcurrents.noaa.gov/publications/techrpt83_Global_and_Regional_SLR_Scenarios_for_the_US_final.pdf)
+
+* [Wuebbles, D. J., D. R. Easterling, K. Hayhoe, T. Knutson, R. E. Kopp, J. P. Kossin, K. E. Kunkel, A. N. LeGrande, C. Mears, W. V. Sweet, P. C. Taylor, R. S. Vose, and M. F. Wehner (2017). "Our globally changing climate". In: _Climate Science Special Report: Fourth National Climate Assessment, Volume I_. Ed. by D. J. Wuebbles, D. W. Fahey, K. A. Hibbard, D. J. Dokken, B. C. Stewart, and T. K. Maycock. Washington, DC, USA: U.S. Global Change Research Program. Chap. 1, pp. 35–72. doi: 10.7930/J08S4N35.](http://dx.doi.org/10.7930/J08S4N35)
 
 * [E. Douglas et al. (2016). _Climate Change and Sea Level Rise Projections for Boston: the Boston Research Advisory Group Report_. Boston, MA: Climate Ready Boston, 54 pp.](http://climateready.boston.gov/findings)
 
