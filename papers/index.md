@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: November 3 2017
+modified: November 7 2017
 comments: false
 share: false
 image:
@@ -41,7 +41,7 @@ image:
 
 ### Journal articles
 
-* [A. J. Garner,  M. E. Mann, K. A. Emanuel, R. E. Kopp, N. Ling, R. B. Alley, B. P. Horton, R. M. DeConto, J. P. Donnelly, and D. Pollard (2017). Impact of climate change on New York City’s coastal flood hazard: Increasing flood heights from the preindustrial to 2300 CE. _Proceedings of the National Academy of Sciences_, in press. doi: 10.1073/pnas.1703568114.](http://dx.doi.org/10.1073/pnas.1703568114)
+* [A. J. Garner,  M. E. Mann, K. A. Emanuel, R. E. Kopp, N. Ling, R. B. Alley, B. P. Horton, R. M. DeConto, J. P. Donnelly, and D. Pollard (2017). Impact of climate change on New York City’s coastal flood hazard: Increasing flood heights from the preindustrial to 2300 CE. _Proceedings of the National Academy of Sciences_, 114, 11861–11866. doi: 10.1073/pnas.1703568114.](http://dx.doi.org/10.1073/pnas.1703568114)
 
 * [M. K. Buchanan, M. Oppenheimer, and R. E. Kopp (2017). Amplification of flood frequencies with local sea level rise and emerging flood regimes. _Environmental Research Letters_ 12, 064009. doi: 10.1088/1748-9326/aa6cb3.](http://dx.doi.org/10.1088/1748-9326/aa6cb3)
 
@@ -195,7 +195,7 @@ image:
 
 * [W.V. Sweet, R. E. Kopp, C. P. Weaver, J. Obeysekera, R. Horton, E. R. Thieler, and C. Zervas (2017). _Global and Regional Sea Level Rise Scenarios for the United States._ Technical Report NOS CO-OPS 083. National Oceanic and Atmospheric Administration.](https://tidesandcurrents.noaa.gov/publications/techrpt83_Global_and_Regional_SLR_Scenarios_for_the_US_final.pdf)
 
-* [Wuebbles, D. J., D. R. Easterling, K. Hayhoe, T. Knutson, R. E. Kopp, J. P. Kossin, K. E. Kunkel, A. N. LeGrande, C. Mears, W. V. Sweet, P. C. Taylor, R. S. Vose, and M. F. Wehner (2017). "Our globally changing climate". In: _Climate Science Special Report: Fourth National Climate Assessment, Volume I_. Ed. by D. J. Wuebbles, D. W. Fahey, K. A. Hibbard, D. J. Dokken, B. C. Stewart, and T. K. Maycock. Washington, DC, USA: U.S. Global Change Research Program. Chap. 1, pp. 35–72. doi: 10.7930/J08S4N35.](http://dx.doi.org/10.7930/J08S4N35)
+* [D. J. Wuebbles, D. R. Easterling, K. Hayhoe, T. Knutson, R. E. Kopp, J. P. Kossin, K. E. Kunkel, A. N. LeGrande, C. Mears, W. V. Sweet, P. C. Taylor, R. S. Vose, and M. F. Wehner (2017). "Our globally changing climate". In: _Climate Science Special Report: Fourth National Climate Assessment, Volume I_. Ed. by D. J. Wuebbles, D. W. Fahey, K. A. Hibbard, D. J. Dokken, B. C. Stewart, and T. K. Maycock. Washington, DC, USA: U.S. Global Change Research Program. Chap. 1, pp. 35–72. doi: 10.7930/J08S4N35.](http://dx.doi.org/10.7930/J08S4N35)
 
 * [E. Douglas et al. (2016). _Climate Change and Sea Level Rise Projections for Boston: the Boston Research Advisory Group Report_. Boston, MA: Climate Ready Boston, 54 pp.](http://climateready.boston.gov/findings)
 
