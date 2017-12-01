@@ -45,6 +45,8 @@ Prior to joining the Rutgers faculty, I served as a [AAAS Science & Technology P
 
 #### [In the media](http://www.google.com/search?hl=en&gl=us&tbm=nws&q="Robert+Kopp"+OR+"Bob+Kopp"+Rutgers)
 
+* [Reddit AMA (December 2017)](https://doi.org/10.15200/winn.151213.32636)
+* [_New York Times_ (November 2017)](https://nyti.ms/2hLb7MS)
 * [_The Conversation_ (June 2017)](https://goo.gl/EvRo1X)
 * [_The Conversation_ (November 2016)](https://goo.gl/OWovmZ)
 * [_The Conversation_ (June 2016)](https://goo.gl/nOadXV)

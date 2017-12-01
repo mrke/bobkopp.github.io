@@ -2,7 +2,7 @@
 layout: page
 title: Contact Information
 tags: [papers]
-modified: Sat May 16 14:50:50 EDT 2015
+modified: Dec 1 2017
 comments: false
 share: false
 image:
@@ -28,15 +28,19 @@ image:
 
 ### Mailing address
 
-Dept. of Earth & Planetary Sciences  
+Department of Earth & Planetary Sciences  
 Wright Labs, 610 Taylor Road  
 Rutgers University  
 Piscataway, NJ 08854-8066, USA
 
 ### Offices 
 
+Marine and Coastal Sciences, Rm. 205A  
+Institute of Earth, Ocean, and Atmospheric Sciences   
+71 Dudley Road, Cook Campus, New Brunswick, NJ  
+&nbsp;  
 Wright Labs, Rm. 225  
-Dept. of Earth & Planetary Sciences  
+Department of Earth & Planetary Sciences  
 610 Taylor Road, Busch Campus, Piscataway, NJ  
 &nbsp;  
 Civic Square Building, Rm. 248  
