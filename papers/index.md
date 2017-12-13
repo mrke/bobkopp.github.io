@@ -37,7 +37,7 @@ image:
 
 ### Journal articles
 
-* [R. E. Kopp, R. M. DeConto, D. A. Bader, R. M. Horton, C. C. Hay, S. Kulp, M. Oppenheimer, D. Pollard, and B. H. Strauss (2017). Implications of Antarctic ice-cliff collapse and ice-shelf hydrofracturing mechanisms for sea-level projections. _Earth's Future_. doi: 10.1002/2017EF000663.](http://dx.doi.org/10.1002/2017EF000663) [[Climate Lab Insights Post]](http://www.impactlab.org/news-insights/kopp-ice-sea-level-rise-projections/)
+* [R. E. Kopp, R. M. DeConto, D. A. Bader, R. M. Horton, C. C. Hay, S. Kulp, M. Oppenheimer, D. Pollard, and B. H. Strauss (2017). Implications of Antarctic ice-cliff collapse and ice-shelf hydrofracturing mechanisms for sea-level projections. _Earth's Future_. doi: 10.1002/2017EF000663.](http://dx.doi.org/10.1002/2017EF000663) [[Climate Lab Insights Post]](http://www.impactlab.org/news-insights/kopp-ice-sea-level-rise-projections/) [[Interactive Maps]](http://stakes.climatecentral.org/)
 
 * [M. K. Buchanan, M. Oppenheimer, and R. E. Kopp (2017). Amplification of flood frequencies with local sea level rise and emerging flood regimes. _Environmental Research Letters_ 12, 064009. doi: 10.1088/1748-9326/aa6cb3.](http://dx.doi.org/10.1088/1748-9326/aa6cb3)
 
