@@ -35,15 +35,13 @@ image:
 
 * [T. Houser, S. Hsiang, R. Kopp, K. Larsen and others (2015). _Economic Risks of Climate Change: An American Prospectus_. New York: Columbia University Press, 384 pp. ISBN 9780231174565.](http://www.climateprospectus.org)
 
-### Working papers
-
-* [R. E. Kopp, R. M. DeConto, D. A. Bader, R. M. Horton, C. C. Hay, S. Kulp, M. Oppenheimer, D. Pollard, and B. H. Strauss (2017). Implications of Antarctic ice-cliff collapse and ice-shelf hydrofracturing mechanisms for sea-level projections. _ArXiv e-prints_. eprint: 1704.05597.](https://arxiv.org/abs/1704.05597)
-
 ### Journal articles
 
-* [A. J. Garner,  M. E. Mann, K. A. Emanuel, R. E. Kopp, N. Ling, R. B. Alley, B. P. Horton, R. M. DeConto, J. P. Donnelly, and D. Pollard (2017). Impact of climate change on New York City’s coastal flood hazard: Increasing flood heights from the preindustrial to 2300 CE. _Proceedings of the National Academy of Sciences_, 114, 11861–11866. doi: 10.1073/pnas.1703568114.](http://dx.doi.org/10.1073/pnas.1703568114)
+* [R. E. Kopp, R. M. DeConto, D. A. Bader, R. M. Horton, C. C. Hay, S. Kulp, M. Oppenheimer, D. Pollard, and B. H. Strauss (2017). Implications of Antarctic ice-cliff collapse and ice-shelf hydrofracturing mechanisms for sea-level projections. _Earth's Future_. doi: 10.1002/2017EF000663.](http://dx.doi.org/10.1002/2017EF000663) [[Climate Lab Insights Post]](http://www.impactlab.org/news-insights/kopp-ice-sea-level-rise-projections/)
 
 * [M. K. Buchanan, M. Oppenheimer, and R. E. Kopp (2017). Amplification of flood frequencies with local sea level rise and emerging flood regimes. _Environmental Research Letters_ 12, 064009. doi: 10.1088/1748-9326/aa6cb3.](http://dx.doi.org/10.1088/1748-9326/aa6cb3)
+
+* [A. J. Garner,  M. E. Mann, K. A. Emanuel, R. E. Kopp, N. Ling, R. B. Alley, B. P. Horton, R. M. DeConto, J. P. Donnelly, and D. Pollard (2017). Impact of climate change on New York City’s coastal flood hazard: Increasing flood heights from the preindustrial to 2300 CE. _Proceedings of the National Academy of Sciences_, 114, 11861–11866. doi: 10.1073/pnas.1703568114.](http://dx.doi.org/10.1073/pnas.1703568114)
 
 * [C. C. Hay, E. D. Morrow, R. E. Kopp, and J. X. Mitrovica (2017). On the robustness of Bayesian fingerprinting estimates of global sea-level change. _Journal of Climate_ 155, 13-36. doi: 10.1175/JCLI-D-16-0271.1.](http://dx.doi.org/10.1175/JCLI-D-16-0271.1)
 
