@@ -2,7 +2,7 @@
 layout: page
 title: Presentations and Media Appearances
 tags: [presentations]
-modified: 14 June 2017
+modified: 17 December 2017
 comments: false
 share: false
 image:
@@ -23,6 +23,10 @@ image:
 
   
 ### Selected Public Presentations and Media Appearances
+  
+  * ["Will the Federal Climate Change Report Alter the Debate?," Knowledge@Wharton, 10 November 2017.](http://knowledge.wharton.upenn.edu/article/new-federal-climate-change-report/)
+  
+  *  ["Rising Sea Levels Put Coastal Cities At Risk," The Real News, 20 July 2017.](https://goo.gl/CPdo3U)
   
   * ["Episode #45 – Climate Science Part 3 – Paleoclimate." The Energy Transition Show, 14 June 2017.](http://xenetwork.org/ets/episodes/episode-45-paleoclimate/)
   
@@ -45,6 +49,10 @@ image:
 * Featured in: [Maryland Sea Grant (2013), Forecasting sea level rise for Maryland, July 2013.](http://youtu.be/RCc3C89qxOM)
 
 ### Selected Academic Talks
+
+* ["Probabilistic mapping of past and future sea-level change." American Geophysical Union Fall Meeting, New Orleans, LA, December 2017.](https://youtu.be/3BFnCOBtCC4?t=1h1m30s)
+
+* ["Treatment of uncertainty in climate change risk assessments." NAS Workshop on Methods for Characterizing Risk in Climate Change Assessments, Washington, DC, March 2016.](http://goo.gl/azyHx3)
   
 *  ["Sea-level rise: Assessing the risks, estimating the costs." Energy Policy Institute at Chicago (EPIC) seminar, University of Chicago, Chicago, IL, 30 September 2015.](http://youtu.be/bagRtnY_Xm8)
 

@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: December 5 2017
+modified: December 17 2017
 comments: false
 share: false
 image:
@@ -37,7 +37,9 @@ image:
 
 ### Journal articles
 
-* [R. E. Kopp, R. M. DeConto, D. A. Bader, R. M. Horton, C. C. Hay, S. Kulp, M. Oppenheimer, D. Pollard, and B. H. Strauss (2017). Implications of Antarctic ice-cliff collapse and ice-shelf hydrofracturing mechanisms for sea-level projections. _Earth's Future_. doi: 10.1002/2017EF000663.](http://dx.doi.org/10.1002/2017EF000663) [[Climate Lab Insights Post]](http://www.impactlab.org/news-insights/kopp-ice-sea-level-rise-projections/) [[Interactive Maps]](http://stakes.climatecentral.org/)
+* [C. S. Johnson, K. G. Miller, J. V. Browning, R. E. Kopp, N. S. Khan, Y. Fan, S. D. Stanford, and B. P. Horton (2018). The Role of Sediment Compaction and Groundwater Withdrawal in Local Sea-Level Rise, Sandy Hook, New Jersey, USA. _Quaternary Science Reviews_ 181, 30–42. doi: 10.1016/j.quascirev.2017.11.031.](http://dx.doi.org/10.1016/j.quascirev.2017.11.031)
+
+* [K. Bittermann, S. Rahmstorf, R. E. Kopp, and A. C. Kemp (2017). Global mean sea-level rise in a world agreed upon in Paris. _Environmental Research Letters_ 12, 124010. doi: 10.1088/1748-9326/aa9def.](http://dx.doi.org/10.1088/1748-9326/aa9def)
 
 * [M. K. Buchanan, M. Oppenheimer, and R. E. Kopp (2017). Amplification of flood frequencies with local sea level rise and emerging flood regimes. _Environmental Research Letters_ 12, 064009. doi: 10.1088/1748-9326/aa6cb3.](http://dx.doi.org/10.1088/1748-9326/aa6cb3)
 
@@ -49,13 +51,15 @@ image:
 
 * [N. S. Khan, E. Ashe, B. P. Horton, A. L. Dutton, R. E. Kopp, G. Brocard, S. E. Engelhart, D. F. Hill, W. Peltier, C. H. Vane, and F. N. Scatena (2017). Drivers of Holocene sea-level change in the Caribbean. _Quaternary Science Reviews_ 155, 13–36. doi: 10.1016/j.quascirev.2016.08.032.](http://dx.doi.org/10.1016/j.quascirev.2016.08.032)
 
+* [R. E. Kopp, R. M. DeConto, D. A. Bader, R. M. Horton, C. C. Hay, S. Kulp, M. Oppenheimer, D. Pollard, and B. H. Strauss (2017). Implications of Antarctic ice-cliff collapse and ice-shelf hydrofracturing mechanisms for sea-level projections. _Earth's Future_. doi: 10.1002/2017EF000663.](http://dx.doi.org/10.1002/2017EF000663) [[Climate Lab Insights Post]](http://www.impactlab.org/news-insights/kopp-ice-sea-level-rise-projections/) [[Interactive Maps]](http://stakes.climatecentral.org/)
+
 * [A. J. Meltzner, A. D. Switzer, B. P. Horton, E. Ashe, Q. Qiu, D. F. Hill, S. L. Bradley, R. E. Kopp, E. M. Hill, J. M. Majeski, D. H. Natawidjaja, and B. W. Suwargadi (2017). Half-metre sea-level fluctuations on centennial timescales from mid-Holocene corals of Southeast Asia. _Nature Communications_ 8, 14387. doi: 10.1038/ncomms14387.](http://dx.doi.org/10.1038/ncomms14387)
 
 * [K. G. Miller, J. V. Browning, P. J. Sugarman, D. H. Monteverde, D. C. Andreasen, C. Lombardi, J. Thornburg, Y. Fan, and R. E. Kopp (2017). Lower to mid-Cretaceous Sequence Stratigraphy and Characterization of CO<sub>2</sub> Storage Potential in the Mid-Atlantic U.S. Coastal Plain. _Journal of Sedimentary Research_ 87, 609–629. doi: 10.2110/jsr.2017.33.](http://dx.doi.org/10.2110/jsr.2017.33)
 
 * [K. G. Miller, R. Baluyot, J. D. Wright, R. E. Kopp, and J. V. Browning (2017). Closing an early Miocene astronomical gap with Southern Ocean δ<sup>18</sup>O and δ<sup>13</sup>C records: Implications for sea-level change. _Paleoceanography_ 32, 600-621. doi: 10.1002/2016PA003074.](http://dx.doi.org/10.1002/2016PA003074)
 
-* [B. C. O’Neill, M. Oppenheimer, R. Warren, S. Hallegatte, R. E. Kopp, H. O. Pörtner, R. Scholes, J. Birkmann, W. Foden, R. Licker, K. J. Mach, P. Marbaix, M. Mastrandrea, J. Price, K. Takahashi, J.-P. van Ypersele, and G. Yohe (2017). IPCC Reasons for Concern regarding climate change risks. Nature Climate Change 7, 28–37. doi: 10.1038/nclimate3179.](http://rdcu.be/ohnY)   [[Journal link]](http://dx.doi.org/10.1038/nclimate3179)
+* [B. C. O’Neill, M. Oppenheimer, R. Warren, S. Hallegatte, R. E. Kopp, H. O. Pörtner, R. Scholes, J. Birkmann, W. Foden, R. Licker, K. J. Mach, P. Marbaix, M. Mastrandrea, J. Price, K. Takahashi, J.-P. van Ypersele, and G. Yohe (2017). IPCC Reasons for Concern regarding climate change risks. _Nature Climate Change_ 7, 28–37. doi: 10.1038/nclimate3179.](http://rdcu.be/ohnY)   [[Journal link]](http://dx.doi.org/10.1038/nclimate3179)
 
 * [M. K. Buchanan, R. E. Kopp, M. Oppenheimer, and C. Tebaldi (2016). Allowances for evolving coastal flood risk under uncertain local sea-level rise. _Climatic Change_ 137, 347-362. doi:10.1007/s10584-016-1664-7.](http://dx.doi.org/10.1007/s10584-016-1664-7)
 
