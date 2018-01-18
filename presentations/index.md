@@ -2,7 +2,7 @@
 layout: page
 title: Presentations and Media Appearances
 tags: [presentations]
-modified: 17 December 2017
+modified: 10 January 2018
 comments: false
 share: false
 image:
@@ -23,6 +23,8 @@ image:
 
   
 ### Selected Public Presentations and Media Appearances
+  
+  * ["Dr. Robert Kopp on the Latest Climate Report," Planet Watch Radio, 8 January 2018.](http://planetwatchradio.com/dr-robert-kopp-latest-climate-report-pw006/)
   
   * ["Will the Federal Climate Change Report Alter the Debate?," Knowledge@Wharton, 10 November 2017.](http://knowledge.wharton.upenn.edu/article/new-federal-climate-change-report/)
   
