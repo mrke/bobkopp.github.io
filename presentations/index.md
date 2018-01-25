@@ -2,7 +2,7 @@
 layout: page
 title: Presentations and Media Appearances
 tags: [presentations]
-modified: 10 January 2018
+modified: 24 January 2018
 comments: false
 share: false
 image:
@@ -51,6 +51,8 @@ image:
 * Featured in: [Maryland Sea Grant (2013), Forecasting sea level rise for Maryland, July 2013.](http://youtu.be/RCc3C89qxOM)
 
 ### Selected Academic Talks
+
+* ["Coasts in times of sea-level rise." Yale School of Forestry & Environmental Studies, New Haven, CT, January 2018.](https://youtu.be/GN3vE6pPRzY)
 
 * ["Probabilistic mapping of past and future sea-level change." American Geophysical Union Fall Meeting, New Orleans, LA, December 2017.](https://youtu.be/3BFnCOBtCC4?t=1h1m30s)
 

@@ -2,7 +2,7 @@
 layout: page-noauthor
 title: Rutgers Earth System Science & Policy Lab
 tags: [about]
-modified: July 26 2017
+modified: January 19 2018
 comments: false
 share: false
 image:
@@ -73,14 +73,6 @@ commonly accepted ice sheet histories and earth parameter profiles, including di
 sea-level equation.
 </div>
 
-#### [Maya Buchanan (Woodrow Wilson School)](https://www.linkedin.com/in/maya-buchanan-b544a87/) 
-{: .no_toc}
-
-<div>
-<a href="https://www.linkedin.com/in/maya-buchanan-b544a87/"><div style="float: right; margin: 20px; max-width: 200px"><img src="portraits/mayabuchanan.jpg"></div></a>
-I am an interdisciplinary environmental scientist who applies climate science to policy applications and decision-making problems under uncertainty. My interests lie in assessing dynamics between climate impacts and social and natural systems. My research involves optimizing resilience to climate change impacts, particularly to sea level rise in the face of multiple economic and social stressors. Before starting my PhD, I worked for the White House Subcommittee on Global Change Research on developing the U.S. Government's priorities in advancing climate science and informing decision makers. Previously, I worked as an environmental engineer and policy analyst for NASA, the Department of Energy, the Architect of the Capital, and the United Nations (Iraq and Jordan field offices). 
-</div>
-
 #### [Kristen Joyse (Earth and Planetary Sciences)](http://geology.rutgers.edu/people-directory/24-graduate-students/707-kristen-joyse)
 {: .no_toc}
 
@@ -109,7 +101,7 @@ DJ’s interests lie at the intersection of climate, policy, and the economy. He
 * [R.D. Baluyot](https://www.linkedin.com/pub/ronidell-baluyot/72/2b5/359), Rutgers M.S. '13 in Geological Sciences
 * [Joe Majkut](https://niskanencenter.org/blog/staff/director-of-climate-science-2/), Princeton  Ph.D. '14 in Atmosphere & Ocean Sciences
 * [Shankar Chandramowli](https://www.linkedin.com/pub/shankar-chandramowli/10/4a9/78), Rutgers Ph.D. '15 in Public Policy
-
+* [Maya Buchanan](https://www.linkedin.com/in/maya-buchanan-b544a87/), Princeton Ph.D. '17 in Public Policy
 
 #### Undergraduate students
 {:.no_toc}
