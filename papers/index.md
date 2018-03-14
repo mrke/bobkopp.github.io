@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: January 18 2018
+modified: March 14 2018
 comments: false
 share: false
 image:
@@ -35,13 +35,12 @@ image:
 
 * [T. Houser, S. Hsiang, R. Kopp, K. Larsen and others (2015). _Economic Risks of Climate Change: An American Prospectus_. New York: Columbia University Press, 384 pp. ISBN 9780231174565.](http://www.climateprospectus.org)
 
-### Working papers
-
-* [D. Rasmussen, K. Bittermann, M. K. Buchanan, S. Kulp, B. H. Strauss, R. E. Kopp, and M. Oppenheimer (2017). Coastal flood implications of 1.5°C, 2.0°C, and 2.5°C temperature stabilization targets in the 21st and 22nd century. _ArXiv e-prints_. eprint: 1710.08297.](https://arxiv.org/abs/1710.08297)
 
 ### Journal articles
 
 * [C. S. Johnson, K. G. Miller, J. V. Browning, R. E. Kopp, N. S. Khan, Y. Fan, S. D. Stanford, and B. P. Horton (2018). The Role of Sediment Compaction and Groundwater Withdrawal in Local Sea-Level Rise, Sandy Hook, New Jersey, USA. _Quaternary Science Reviews_ 181, 30–42. doi: 10.1016/j.quascirev.2017.11.031.](http://dx.doi.org/10.1016/j.quascirev.2017.11.031)
+
+* [D. J. Rasmussen, K. Bittermann, M. K. Buchanan, S. Kulp, B. H. Strauss, R. E. Kopp, and M. Oppenheimer (2018). Extreme sea level implications of 1.5 °C, 2.0 °C, and 2.5 °C temperature stabilization targets in the 21st and 22nd centuries. _Environmental Research Letters_ 13, 034040. doi: 10.1088/1748-9326/aaac87.](http://dx.doi.org/10.1088/1748-9326/aaac87)
 
 * [M. E. Ross, A. M. Vicedo-Cabrera, R. E. Kopp, L. Song, D. S. Goldfarb, J. Pulido, S. Warner, S. L. Furth, and G. E. Tasian (2018). Assessment of the combination of temperature and relative humidity on kidney stone presentations. _Environmental Research_ 162, 97–105. doi: 10.1016/j.envres.2017.12.020.](http://dx.doi.org/10.1016/j.envres.2017.12.020)
 
