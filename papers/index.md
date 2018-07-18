@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: March 14 2018
+modified: July 18 2018
 comments: false
 share: false
 image:
@@ -38,6 +38,8 @@ image:
 
 ### Journal articles
 
+* [B. P. Horton, I. Shennan, S. Bradley, N. Cahill, M. Kirwan, R. E. Kopp, and T. A. Shaw (2018). Predicting marsh vulnerability to sea-level rise using Holocene relative sea-level data. Nature Communications 9, 2687. doi: 10.1038/s41467-018-05080-0.](http://dx.doi.org/10.1038/s41467-018-05080-0)
+
 * [C. S. Johnson, K. G. Miller, J. V. Browning, R. E. Kopp, N. S. Khan, Y. Fan, S. D. Stanford, and B. P. Horton (2018). The Role of Sediment Compaction and Groundwater Withdrawal in Local Sea-Level Rise, Sandy Hook, New Jersey, USA. _Quaternary Science Reviews_ 181, 30–42. doi: 10.1016/j.quascirev.2017.11.031.](http://dx.doi.org/10.1016/j.quascirev.2017.11.031)
 
 * [D. J. Rasmussen, K. Bittermann, M. K. Buchanan, S. Kulp, B. H. Strauss, R. E. Kopp, and M. Oppenheimer (2018). Extreme sea level implications of 1.5 °C, 2.0 °C, and 2.5 °C temperature stabilization targets in the 21st and 22nd centuries. _Environmental Research Letters_ 13, 034040. doi: 10.1088/1748-9326/aaac87.](http://dx.doi.org/10.1088/1748-9326/aaac87)
@@ -60,7 +62,7 @@ image:
 
 * [R. E. Kopp, R. M. DeConto, D. A. Bader, R. M. Horton, C. C. Hay, S. Kulp, M. Oppenheimer, D. Pollard, and B. H. Strauss (2017). Implications of Antarctic ice-cliff collapse and ice-shelf hydrofracturing mechanisms for sea-level projections. _Earth's Future_ 5, 1217-1233. doi: 10.1002/2017EF000663.](http://dx.doi.org/10.1002/2017EF000663) [[Climate Lab Insights Post]](http://www.impactlab.org/news-insights/kopp-ice-sea-level-rise-projections/) [[Interactive Maps]](http://stakes.climatecentral.org/)
 
-* [R. E. Kopp, A. L. Dutton, and A. E. Carlson (2017). Centennial- to millennial-scale sea-level change during the Holocene and Last Interglacial periods. _Past Global Changes Magazine_ 25(3), 148–149. doi: 10. 22498/pages.25.3.148.](http://dx.doi.org/10. 22498/pages.25.3.148)
+* [R. E. Kopp, A. L. Dutton, and A. E. Carlson (2017). Centennial- to millennial-scale sea-level change during the Holocene and Last Interglacial periods. _Past Global Changes Magazine_ 25(3), 148–149. doi: 10. 22498/pages.25.3.148.](http://dx.doi.org/10.22498/pages.25.3.148)
 
 * [A. J. Meltzner, A. D. Switzer, B. P. Horton, E. Ashe, Q. Qiu, D. F. Hill, S. L. Bradley, R. E. Kopp, E. M. Hill, J. M. Majeski, D. H. Natawidjaja, and B. W. Suwargadi (2017). Half-metre sea-level fluctuations on centennial timescales from mid-Holocene corals of Southeast Asia. _Nature Communications_ 8, 14387. doi: 10.1038/ncomms14387.](http://dx.doi.org/10.1038/ncomms14387)
 
