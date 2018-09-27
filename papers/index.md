@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: July 18 2018
+modified: September 23 2018
 comments: false
 share: false
 image:
@@ -35,6 +35,19 @@ image:
 
 * [T. Houser, S. Hsiang, R. Kopp, K. Larsen and others (2015). _Economic Risks of Climate Change: An American Prospectus_. New York: Columbia University Press, 384 pp. ISBN 9780231174565.](http://www.climateprospectus.org)
 
+### Working papers and manuscripts in press
+
+* [Horton, B. P., R. E. Kopp, A. J. Garner, C. C. Hay, N. S. Khan, K. Roy, and T. A. Shaw (in press). Mapping sea-level change in time, space and probability. _Annual Reviews of Environment and Resources_. doi: 10.1146/annurev-environ-102017-025826.](http://doi.org/10.1146/annurev-environ-102017-025826)
+
+* [Shwom, R. L. and R. E. Kopp (in press). Long-term risk governance: When do societies act before crisis? _Journal of Risk Research_. doi: 10.1080/13669877.2018.1476900.  Available at SSRN: doi: 10.2139/ssrn.3230337](http://dx.doi.org/10.2139/ssrn.3230337)
+
+* [Yuan, J., W. Li, R. E. Kopp, and Y. Deng (in press). Response of subtropical stationary waves and hydrological extremes to climate warming in boreal summer. _Journal of Climate_ . doi: 10.1175/JCLI-D-17- 0401.1.](http://doi.org/10.1175/JCLI-D-17-0401.1)
+
+* [Carleton, T., M. Delgado, M. Greenstone, S. Hsiang, A. Hultgren, A. Jina, R. E. Kopp, I. Nath, J. Rising, A. Rode, S. Seo, J. Simcock, A. Viaen, J. Yuan, and A. Zhang (2018). Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits. Working Paper 2018-51. University of Chicago, Becker Friedman Institute for Economics.](https://ssrn.com/abstract=3224365)
+
+* [Desmet, K., R. Kopp, S. A. Kulp, D. K. Nagy, M. Oppenheimer, E. Rossi-Hansberg, and B. H. Strauss (2018). Evaluating the economic cost of coastal flooding. Working Paper 24918. National Bureau of Economic Research.](http://www.nber.org/papers/w24918)
+
+* [Behar, D., R. Kopp, R. DeConto, C. Weaver, K. White, K. May, and R. Bindschadler (2017). “Planning for Sea Level Rise: An AGU Talk in the Form of a Co-Production Experiment Exploring Recent Science”.](https://www.wucaonline.org/assets/pdf/pubs-agu-consensus-statement.pdf)
 
 ### Journal articles
 
