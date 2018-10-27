@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: September 23 2018
+modified: Octber 27 2018
 comments: false
 share: false
 image:
@@ -37,7 +37,11 @@ image:
 
 ### Working papers and manuscripts in press
 
-* [Horton, B. P., R. E. Kopp, A. J. Garner, C. C. Hay, N. S. Khan, K. Roy, and T. A. Shaw (in press). Mapping sea-level change in time, space and probability. _Annual Reviews of Environment and Resources_. doi: 10.1146/annurev-environ-102017-025826.](http://doi.org/10.1146/annurev-environ-102017-025826)
+* [Ashe, E. L., N. Cahill, C. C. Hay, N. Khan, A. Kemp, S. Engelhart, B. P. Horton, A. Parnell, and R. E. Kopp (in press). Statistical modeling of rates and trends in Holocene sea level. _Quaternary Science Reviews_. Available at 	arXiv:1810.10488.](https://export.arxiv.org/abs/1810.10488)
+
+* [Garner, A. J., J. L. Weiss, A. Parris, R. E. Kopp, R. M. Horton, J. T. Overpeck, and B. P. Horton (in press). Evolution of 21st Century Sea-level Rise Projections. _Nature Communications_. doi: 10.1029/2018EF000991. Available at 	arXiv:1810.08145](https://export.arxiv.org/abs/1810.08145)
+
+* [Meijles, E. W., P. Kiden, H.-J. Streurman, J. van der Plicht, P. C. V. W. R. Gehrels, and R. E. Kopp (2018). Holocene relative sea-level changes in the Wadden Sea area, northern Netherlands. _Journal of Quaternary Science_. doi: 10.1002/jqs.3068.](http://dx.doi.org/10.1002/jqs.3068)
 
 * [Shwom, R. L. and R. E. Kopp (in press). Long-term risk governance: When do societies act before crisis? _Journal of Risk Research_. doi: 10.1080/13669877.2018.1476900.  Available at SSRN: doi: 10.2139/ssrn.3230337](http://dx.doi.org/10.2139/ssrn.3230337)
 
@@ -51,15 +55,23 @@ image:
 
 ### Journal articles
 
-* [B. P. Horton, I. Shennan, S. Bradley, N. Cahill, M. Kirwan, R. E. Kopp, and T. A. Shaw (2018). Predicting marsh vulnerability to sea-level rise using Holocene relative sea-level data. Nature Communications 9, 2687. doi: 10.1038/s41467-018-05080-0.](http://dx.doi.org/10.1038/s41467-018-05080-0)
+* [Garcıa-Artola, A., P. Stéphan, A. Cearreta, R. E. Kopp, N. S. Khan, and B. P. Horton (2018). Holocene sea- level database from the Atlantic coast of Europe. _Quaternary Science Reviews_ 196, 177–192. doi: 10.1016/j.quascirev.2018.07.031.](http://dx.doi.org/10.1016/j.quascirev.2018.07.031)
+
+* [B. P. Horton, R. E. Kopp, A. J. Garner, C. C. Hay, N. S. Khan, K. Roy, and T. A. Shaw (2018). Mapping sea-level change in time, space and probability. _Annual Reviews of Environment and Resources_ 43, 481-521. doi: 10.1146/annurev-environ-102017-025826.](http://doi.org/10.1146/annurev-environ-102017-025826)
+
+* [B. P. Horton, I. Shennan, S. Bradley, N. Cahill, M. Kirwan, R. E. Kopp, and T. A. Shaw (2018). Predicting marsh vulnerability to sea-level rise using Holocene relative sea-level data. _Nature Communications_ 9, 2687. doi: 10.1038/s41467-018-05080-0.](http://dx.doi.org/10.1038/s41467-018-05080-0)
 
 * [C. S. Johnson, K. G. Miller, J. V. Browning, R. E. Kopp, N. S. Khan, Y. Fan, S. D. Stanford, and B. P. Horton (2018). The Role of Sediment Compaction and Groundwater Withdrawal in Local Sea-Level Rise, Sandy Hook, New Jersey, USA. _Quaternary Science Reviews_ 181, 30–42. doi: 10.1016/j.quascirev.2017.11.031.](http://dx.doi.org/10.1016/j.quascirev.2017.11.031)
+
+* [Kemp, A. C., A. J. Wright, R. J. Edwards, R. L. Barnett, M. J. Brain, R. E. Kopp, N. Cahill, B. P. Horton, D. J. Charman, A. D. Hawkes, T. D. Hill, and O. van de Plassche (2018). Late Holocene relative sea-level change in Newfoundland, Canada. _Quaternary Science Reviews_ 201, 89–110. doi: 10.1016/j.quascirev.2018.10.012.](http://dx.doi.org/10.1016/j.quascirev.2018.10.012)
+
+* [J. X. Mitrovica, C. C. Hay, R. E. Kopp, C. Harig, and K. Latychev (2018). Quantifying the Sensitivity of Sea Level Change in Coastal Localities to the Geometry of Polar Ice Mass Flux. _J. Climate_ 31, 3701-3709. doi:10.1175/JCLI-D-17-0465.1.](http://dx.doi.org/10.1175/JCLI-D-17-0465.1)
 
 * [D. J. Rasmussen, K. Bittermann, M. K. Buchanan, S. Kulp, B. H. Strauss, R. E. Kopp, and M. Oppenheimer (2018). Extreme sea level implications of 1.5 °C, 2.0 °C, and 2.5 °C temperature stabilization targets in the 21st and 22nd centuries. _Environmental Research Letters_ 13, 034040. doi: 10.1088/1748-9326/aaac87.](http://dx.doi.org/10.1088/1748-9326/aaac87)
 
 * [M. E. Ross, A. M. Vicedo-Cabrera, R. E. Kopp, L. Song, D. S. Goldfarb, J. Pulido, S. Warner, S. L. Furth, and G. E. Tasian (2018). Assessment of the combination of temperature and relative humidity on kidney stone presentations. _Environmental Research_ 162, 97–105. doi: 10.1016/j.envres.2017.12.020.](http://dx.doi.org/10.1016/j.envres.2017.12.020)
 
-* [J. X. Mitrovica, C. C. Hay, R. E. Kopp, C. Harig, and K. Latychev (2018). Quantifying the Sensitivity of Sea Level Change in Coastal Localities to the Geometry of Polar Ice Mass Flux. _J. Climate_. doi:10.1175/JCLI-D-17-0465.1, in press.](http://dx.doi.org/10.1175/JCLI-D-17-0465.1)
+* [Vacchi, M., S. E. Engelhart, D. Nikitina, E. L. Ashe, W. R. Peltier, K. Roy, R. E. Kopp, and B. P. Horton (2018). Postglacial relative sea-level histories along the eastern Canadian coastline. _Quaternary Science Reviews_ 201, 124–146. doi: 10.1016/j.quascirev.2018.09.043.](http://doi.org/10.1016/j.quascirev.2018.09.043)
 
 * [K. Bittermann, S. Rahmstorf, R. E. Kopp, and A. C. Kemp (2017). Global mean sea-level rise in a world agreed upon in Paris. _Environmental Research Letters_ 12, 124010. doi: 10.1088/1748-9326/aa9def.](http://dx.doi.org/10.1088/1748-9326/aa9def)
 
@@ -266,6 +278,8 @@ image:
 * [Guest co-editor (with R. Tol and S. Waldhoff), _Economics_ special issue (2012). _The Social Cost of Carbon_.](http://www.economics-ejournal.org/special-areas/special-issues/the-social-cost-of-carbon)
 
 ### Popular publications
+
+* [Mitrovica, J., C. Hay, and R. Kopp (2018). All Sea Level is Local. _Bulletin of the Atomic Scientists_ 74(3), 142–147. doi: 10.1080/00963402.2018.1461935.](http://doi.org/10.1080/00963402.2018.1461935)
 
 * [R. Kopp. How bad could Trump's Paris Agreement withdrawal be? A scientist's perspective. _The Conversation_, 1 June 2017.](https://goo.gl/EvRo1X)
 
