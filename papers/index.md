@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: Octber 27 2018
+modified: Octber 29 2018
 comments: false
 share: false
 image:
@@ -41,7 +41,7 @@ image:
 
 * [Garner, A. J., J. L. Weiss, A. Parris, R. E. Kopp, R. M. Horton, J. T. Overpeck, and B. P. Horton (in press). Evolution of 21st Century Sea-level Rise Projections. _Earth's Future_. doi: 10.1029/2018EF000991.](http://doi.org/10.1029/2018EF000991)
 
-* [Hsiang, S. M. and R. E. Kopp (in press). An economist’s guide to climate change science. _Journal of Economic Perspectives_. NBER working paper no. 25189.](https://www.nber.org/papers/w25189.]
+* [Hsiang, S. M. and R. E. Kopp (in press). An economist’s guide to climate change science. _Journal of Economic Perspectives_. NBER working paper no. 25189.](https://www.nber.org/papers/w25189)
 
 * [Meijles, E. W., P. Kiden, H.-J. Streurman, J. van der Plicht, P. C. V. W. R. Gehrels, and R. E. Kopp (2018). Holocene relative sea-level changes in the Wadden Sea area, northern Netherlands. _Journal of Quaternary Science_. doi: 10.1002/jqs.3068.](http://dx.doi.org/10.1002/jqs.3068)
 
