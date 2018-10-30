@@ -39,7 +39,7 @@ image:
 
 * [Ashe, E. L., N. Cahill, C. C. Hay, N. Khan, A. Kemp, S. Engelhart, B. P. Horton, A. Parnell, and R. E. Kopp (in press). Statistical modeling of rates and trends in Holocene sea level. _Quaternary Science Reviews_. Available at 	arXiv:1810.10488.](https://export.arxiv.org/abs/1810.10488)
 
-* [Garner, A. J., J. L. Weiss, A. Parris, R. E. Kopp, R. M. Horton, J. T. Overpeck, and B. P. Horton (in press). Evolution of 21st Century Sea-level Rise Projections. _Nature Communications_. doi: 10.1029/2018EF000991. Available at 	arXiv:1810.08145](https://export.arxiv.org/abs/1810.08145)
+* [Garner, A. J., J. L. Weiss, A. Parris, R. E. Kopp, R. M. Horton, J. T. Overpeck, and B. P. Horton (in press). Evolution of 21st Century Sea-level Rise Projections. _Earth's Future_. doi: 10.1029/2018EF000991.](http://doi.org/10.1029/2018EF000991)
 
 * [Meijles, E. W., P. Kiden, H.-J. Streurman, J. van der Plicht, P. C. V. W. R. Gehrels, and R. E. Kopp (2018). Holocene relative sea-level changes in the Wadden Sea area, northern Netherlands. _Journal of Quaternary Science_. doi: 10.1002/jqs.3068.](http://dx.doi.org/10.1002/jqs.3068)
 
