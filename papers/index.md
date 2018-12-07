@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: December 4 2018
+modified: December 6 2018
 comments: false
 share: false
 image:
@@ -37,8 +37,6 @@ image:
 
 ### Working papers and manuscripts in press
 
-* [Ashe, E. L., N. Cahill, C. C. Hay, N. Khan, A. Kemp, S. Engelhart, B. P. Horton, A. Parnell, and R. E. Kopp (in press). Statistical modeling of rates and trends in Holocene sea level. _Quaternary Science Reviews_. Available at 	arXiv:1810.10488.](https://export.arxiv.org/abs/1810.10488)
-
 * [Garner, A. J., J. L. Weiss, A. Parris, R. E. Kopp, R. M. Horton, J. T. Overpeck, and B. P. Horton (in press). Evolution of 21st Century Sea-level Rise Projections. _Earth's Future_. doi: 10.1029/2018EF000991.](http://doi.org/10.1029/2018EF000991)
 
 * [Meijles, E. W., P. Kiden, H.-J. Streurman, J. van der Plicht, P. C. V. W. R. Gehrels, and R. E. Kopp (2018). Holocene relative sea-level changes in the Wadden Sea area, northern Netherlands. _Journal of Quaternary Science_. doi: 10.1002/jqs.3068.](http://dx.doi.org/10.1002/jqs.3068)
@@ -52,6 +50,9 @@ image:
 * [Behar, D., R. Kopp, R. DeConto, C. Weaver, K. White, K. May, and R. Bindschadler (2017). “Planning for Sea Level Rise: An AGU Talk in the Form of a Co-Production Experiment Exploring Recent Science”.](https://www.wucaonline.org/assets/pdf/pubs-agu-consensus-statement.pdf)
 
 ### Journal articles
+
+
+* [Ashe, E. L., N. Cahill, C. C. Hay, N. Khan, A. Kemp, S. Engelhart, B. P. Horton, A. Parnell, and R. E. Kopp (2019). Statistical modeling of rates and trends in Holocene sea level. Quaternary Science Reviews 204, 58–77. doi: 10.1016/j.quascirev.2018.10.032.](https://doi.org/10.1016/j.quascirev.2018.10.032)
 
 * [Garcıa-Artola, A., P. Stéphan, A. Cearreta, R. E. Kopp, N. S. Khan, and B. P. Horton (2018). Holocene sea- level database from the Atlantic coast of Europe. _Quaternary Science Reviews_ 196, 177–192. doi: 10.1016/j.quascirev.2018.07.031.](http://dx.doi.org/10.1016/j.quascirev.2018.07.031)
 
