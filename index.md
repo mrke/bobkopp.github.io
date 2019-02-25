@@ -45,6 +45,7 @@ Prior to joining the Rutgers faculty, I served as a [AAAS Science & Technology P
 
 #### [In the media](http://www.google.com/search?hl=en&gl=us&tbm=nws&q="Robert+Kopp"+OR+"Bob+Kopp"+Rutgers)
 
+* [Resources Radio (January 2019)](https://soundcloud.com/resourcesradio/demystifying-sea-level-rise-with-robert-kopp-of-rutgers-university)
 * [Radio Times with Mary Cummings-Jordan [WHYY] (November 2018)](https://goo.gl/H2Q4oa)
 * [Science Friday (November 2018)](https://goo.gl/JVgHNp)
 * [E&E News Off Topic (November 2018)](https://goo.gl/M2FfqL)

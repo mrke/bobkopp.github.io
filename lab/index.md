@@ -2,7 +2,7 @@
 layout: page-noauthor
 title: Rutgers Earth System Science & Policy Lab
 tags: [about]
-modified: January 19 2018
+modified: February 25 2019
 comments: false
 share: false
 image:
@@ -41,7 +41,15 @@ We welcome applications from potential graduate students and postdocs with stron
 change and on the interactions between physical climate change and the economy.
 </div>
 
-### Postdocs
+### Research Faculty
+
+#### [Andra Garner](https://sites.google.com/site/andrajreed/)
+{:.no_toc}
+
+<div>
+<a href="https://sites.google.com/site/andrajreed/"><div style="float:right; margin: 20px; max-width: 150px"><img src="portraits/andragarner.jpg"></div></a>
+I am a climate scientist and meteorologist interested in studying the impacts of a changing climate on natural hazards.  In the past, my research has included studies investigating the changing flood risk in New York City from the past millennium through 2300 CE due to tropical cyclones, storm surge, and sea-level rise.  I have also worked on projects related to the evolution of  sea-level rise projections, which included the development of a comprehensive database of global sea-level rise projections for the year 2100.  Currently, I am continuing research related to the impacts of a changing climate on natural hazards, including increasing flood risks associated with tsunamis and sea-level rise, evolving characteristics of tropical cyclones in a changing climate, and changing flood risks related to storm surge and rising sea levels.  In addition to working on innovative research projects related to climate change, I am committed to bringing this important science to the public.  I have spoken about my work to a wide range of audiences at a number of venues, ranging from the NJ March for Science 2018 to high school classrooms. 
+</div>
 
 #### [Jiacan Yuan](http://www.meteo.psu.edu/~juy17/)
 {:.no_toc}
@@ -50,17 +58,11 @@ change and on the interactions between physical climate change and the economy.
 <a href="http://www.meteo.psu.edu/~juy17/"><div style="float:right; margin: 20px; max-width: 150px"><img src="portraits/jiacanyuan.jpg"></div></a>
 I am a climatologist who is interested in understanding the fundamental dynamical processes in the atmosphere and improving climate models, which could give us better predictive power and risk assessment of the changing climate. My research apparatus is built with a fusion of advanced statistical methods, idealized general circulation models (GCM), and state of the art climate models. At present, my research is focused on assessing economic risks from the projection of future climate. I have worked on several projects on climate dynamics, including the response of large-scale circulations in the warming climate, its effects on regional weather patterns and extreme events, tropical influence on midlatitude weather, and dynamical mechanisms of subseasonal variability of midlatitude jet streams.  </div>
 
-#### [Andra Garner](https://sites.google.com/site/andrajreed/)
-{:.no_toc}
 
-<div>
-<a href="https://sites.google.com/site/andrajreed/"><div style="float:right; margin: 20px; max-width: 150px"><img src="portraits/andragarner.jpg"></div></a>
- I am currently an NSF Earth Sciences Postdoctoral Fellow, working with the Sea Level Research group and the Earth System Science and Policy Lab at Rutgers University. My research focuses on changing flood risk in New York City during the past millennium and in coming centuries due to tropical cyclones, storm surge, and sea level rise. I earned my Ph.D. from Penn State University in August 2016, working with Dr. Michael E. Mann in the Department of Meteorology.  A brief portion of my graduate research was in the field of atmospheric chemistry, focusing on a comparison of ground and satellite-based retrievals of ozone and nitrogen dioxide. However, my true research interests lie in the realm of climate science, where focus upon the impacts of climate change on tropical cyclones and their resultant storm surges, as well as on the rising sea levels upon which those storm surges occur.
-</div>
 
-### Graduate students
+### Postdocs
 
-#### [Erica Ashe  (Statistics)](https://www.linkedin.com/in/erica-ashe-21948a3/)
+#### [Erica Ashe](https://www.linkedin.com/in/erica-ashe-21948a3/)
 {:.no_toc}
 
 <div>
@@ -72,6 +74,25 @@ prediction and forecasting, as well as modeling, of the relationships between se
 commonly accepted ice sheet histories and earth parameter profiles, including different lithospheric thicknesses, and upper and lower mantle viscosities, I am developing a stochastic emulator of the
 sea-level equation.
 </div>
+
+#### [Daniel Gilford](http://danielgilford.com)
+{:.no_toc}
+
+<div>
+<a href="http://danielgilford.com"><div style="float: right; margin: 20px; max-width: 200px"><img src="portraits/danielgilford.png"></div></a>
+I am a climate scientist interested in the answering the question "How do distant climate
+phenomena evolve and affect me and my community?" My primary research focuses the deep uncertainties in polar ice-sheet contributions to global and local sea level rise. I use a blend of statistical and machine learning techniques to study ice-sheet model emulation, the emergence of Antarctic contributions to sea level rise, and paleoclimate/observational constraints on ice-sheet model projections. I studied Atmospheric Science with Prof. Susan Solomon at the Massachusetts Institute of Technology, and received my doctorate degree in 2018. My graduate research fused middle atmospheric chemistry, radiation, and tropical cyclone theory to explore tropopause region influences on hurricane intensities. I’m motivated to work on societally relevant problems and science communication, and I aspire to connect science and communities.
+</div>
+
+#### [Greg Garner](https://sites.google.com/site/gggarner121/)
+{:.no_toc}
+
+<div>
+<a href="https://sites.google.com/site/gggarner121/"><div style="float: right; margin: 20px; max-width: 200px"><img src="portraits/greggarner.jpg"></div></a>
+I am a meteorologist and climate scientist working on a comprehensive computational framework for projecting sea-level rise in a changing climate.  Broadly, I’m interested in how people use tools and information to inform decisions.  This has afforded me the opportunity to study a diverse range of topics including weather, climate change, atmospheric chemistry, air quality, robust decision making, sea-level rise, heatwaves, and more alongside experts in social sciences, statistics, economics, philosophy, mathematics, and engineering.  I use state-of-the-art optimization tools, statistical methods, integrated assessment models, and data analysis to investigate complex problems across multiple disciplines.  I emphasize the importance of science communication throughout my research by publishing with open-access (when available), performing science-outreach activities, and sharing the products of my work through web-based tools and code repositories.
+</div>
+
+### Graduate students
 
 #### [Kristen Joyse (Earth and Planetary Sciences)](http://geology.rutgers.edu/people-directory/24-graduate-students/707-kristen-joyse)
 {: .no_toc}
@@ -86,6 +107,16 @@ I am a geoscientist interested in using evidence of past climate change to impro
 <div>
 <a href="http://www.djrasmussen.co"><div style="float: right; margin: 20px; max-width: 150px"><img src="portraits/djrasmussen.png"></div></a>
 DJ’s interests lie at the intersection of climate, policy, and the economy. He uses computational models and large data sets to assess risks posed by weather and climate. DJ was a research fellow at the National Oceanic and Atmospheric Administration’s (NOAA) Geophysical Fluid Dynamics Laboratory (GFDL). He later contributed to the physical climate projection work for the technical analysis underlying the Risky Business Project — an initiative to quantify and publicize the economic risks from the impacts of a changing climate — and was more recently a senior associate engineer at Ramboll Environ, located in the San Francisco Bay Area. DJ has a BS in atmospheric science and an MS in civil and environmental engineering.</div>
+
+### External Affiliates
+
+#### [Ian Bolliger (UC-Berkeley)](https://erg.berkeley.edu/people/bolliger-ian/)
+{: .no_toc}
+
+<div>
+<a href="https://erg.berkeley.edu/people/bolliger-ian/"><div style="float: right; margin: 20px; max-width: 150px"><img src="portraits/ianbolliger.jpg"></div></a>
+I am a Berkeley Graduate Fellow in the Energy and Resources Group (ERG) and the Global Policy Laboratory (GPL) at UC Berkeley, advised by Solomon Hsiang and Daniel Kammen. I am a member of the Climate Impact Lab, in which my research focuses predicting regional, socioeconomic impacts of climate change on coastal communities. I use both empirical and dynamical modeling approaches to address this task, often leveraging the growing database of global satellite imagery. Currently, I am developing a spatially-resolved, probabilistic quantification of the economic risk to coastal communities due to changes in hurricane frequency and intensity that are driven by climate change. I earned my BA in Applied Mathematics from Harvard University in 2011 and MS degrees in Energy and Resources (2016) and Civil and Environmental Engineering (2017) from UC Berkeley. Prior to graduate school I modeled global disease burden at the Institute for Health Metrics and Evaluation in my hometown of Seattle, WA.</div>
+
 
 ### Alumni
 

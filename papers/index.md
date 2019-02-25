@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: December 6 2018
+modified: December 7 2018
 comments: false
 share: false
 image:
@@ -37,10 +37,6 @@ image:
 
 ### Working papers and manuscripts in press
 
-* [Garner, A. J., J. L. Weiss, A. Parris, R. E. Kopp, R. M. Horton, J. T. Overpeck, and B. P. Horton (in press). Evolution of 21st Century Sea-level Rise Projections. _Earth's Future_. doi: 10.1029/2018EF000991.](http://doi.org/10.1029/2018EF000991)
-
-* [Meijles, E. W., P. Kiden, H.-J. Streurman, J. van der Plicht, P. C. V. W. R. Gehrels, and R. E. Kopp (2018). Holocene relative sea-level changes in the Wadden Sea area, northern Netherlands. _Journal of Quaternary Science_. doi: 10.1002/jqs.3068.](http://dx.doi.org/10.1002/jqs.3068)
-
 * [Shwom, R. L. and R. E. Kopp (in press). Long-term risk governance: When do societies act before crisis? _Journal of Risk Research_. doi: 10.1080/13669877.2018.1476900.  Available at SSRN: doi: 10.2139/ssrn.3230337](http://dx.doi.org/10.2139/ssrn.3230337)
 
 * [Carleton, T., M. Delgado, M. Greenstone, S. Hsiang, A. Hultgren, A. Jina, R. E. Kopp, I. Nath, J. Rising, A. Rode, S. Seo, J. Simcock, A. Viaen, J. Yuan, and A. Zhang (2018). Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits. Working Paper 2018-51. University of Chicago, Becker Friedman Institute for Economics.](https://ssrn.com/abstract=3224365)
@@ -56,6 +52,8 @@ image:
 
 * [Garcıa-Artola, A., P. Stéphan, A. Cearreta, R. E. Kopp, N. S. Khan, and B. P. Horton (2018). Holocene sea- level database from the Atlantic coast of Europe. _Quaternary Science Reviews_ 196, 177–192. doi: 10.1016/j.quascirev.2018.07.031.](http://dx.doi.org/10.1016/j.quascirev.2018.07.031)
 
+* [Garner, A. J., J. L. Weiss, A. Parris, R. E. Kopp, R. M. Horton, J. T. Overpeck, and B. P. Horton (2018). Evolution of 21st Century Sea-level Rise Projections. _Earth's Future_ 6, 1603-1615. doi: 10.1029/2018EF000991.](http://doi.org/10.1029/2018EF000991)
+
 * [B. P. Horton, R. E. Kopp, A. J. Garner, C. C. Hay, N. S. Khan, K. Roy, and T. A. Shaw (2018). Mapping sea-level change in time, space and probability. _Annual Reviews of Environment and Resources_ 43, 481-521. doi: 10.1146/annurev-environ-102017-025826.](http://www.annualreviews.org/eprint/qiHnKknJeg3i4tK63j39/full/10.1146/annurev-environ-102017-025826)
 
 * [B. P. Horton, I. Shennan, S. Bradley, N. Cahill, M. Kirwan, R. E. Kopp, and T. A. Shaw (2018). Predicting marsh vulnerability to sea-level rise using Holocene relative sea-level data. _Nature Communications_ 9, 2687. doi: 10.1038/s41467-018-05080-0.](http://dx.doi.org/10.1038/s41467-018-05080-0)
@@ -65,6 +63,8 @@ image:
 * [C. S. Johnson, K. G. Miller, J. V. Browning, R. E. Kopp, N. S. Khan, Y. Fan, S. D. Stanford, and B. P. Horton (2018). The Role of Sediment Compaction and Groundwater Withdrawal in Local Sea-Level Rise, Sandy Hook, New Jersey, USA. _Quaternary Science Reviews_ 181, 30–42. doi: 10.1016/j.quascirev.2017.11.031.](http://dx.doi.org/10.1016/j.quascirev.2017.11.031)
 
 * [Kemp, A. C., A. J. Wright, R. J. Edwards, R. L. Barnett, M. J. Brain, R. E. Kopp, N. Cahill, B. P. Horton, D. J. Charman, A. D. Hawkes, T. D. Hill, and O. van de Plassche (2018). Late Holocene relative sea-level change in Newfoundland, Canada. _Quaternary Science Reviews_ 201, 89–110. doi: 10.1016/j.quascirev.2018.10.012.](http://dx.doi.org/10.1016/j.quascirev.2018.10.012)
+
+* [Meijles, E. W., P. Kiden, H.-J. Streurman, J. van der Plicht, P. C. V. W. R. Gehrels, and R. E. Kopp (2018). Holocene relative sea-level changes in the Wadden Sea area, northern Netherlands. _Journal of Quaternary Science_ 33, 905-923. doi: 10.1002/jqs.3068.](http://dx.doi.org/10.1002/jqs.3068)
 
 * [J. X. Mitrovica, C. C. Hay, R. E. Kopp, C. Harig, and K. Latychev (2018). Quantifying the Sensitivity of Sea Level Change in Coastal Localities to the Geometry of Polar Ice Mass Flux. _J. Climate_ 31, 3701-3709. doi:10.1175/JCLI-D-17-0465.1.](http://dx.doi.org/10.1175/JCLI-D-17-0465.1)
 
