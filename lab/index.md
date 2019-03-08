@@ -2,7 +2,7 @@
 layout: page-noauthor
 title: Rutgers Earth System Science & Policy Lab
 tags: [about]
-modified: February 25 2019
+modified: March 7 2019
 comments: false
 share: false
 image:
@@ -25,9 +25,9 @@ Major projects within our Lab at the moment include:
 * probabilistically projecting future changes in sea levels and their implications for changing coastal flood risk, and translating those projected changes into actionable information for coastal adaptation; and
 * linking probabilistic simple climate models, complex Earth system models, and econometric analyses of historical weathering and climate impacts to project future risks associated with climate change and improve estimates of the social cost of carbon.
 
-We have close collaborations with colleagues at the [Rutgers Sea Level Lab](http://sealevel.marine.rutgers.edu), the [Princeton Science, Technology & Environmental Policy program](https://www.princeton.edu/step/), the [Harvard Sea Level Dynamics group](http://isites.harvard.edu/icb/icb.do?keyword=k92805),  and the [Berkeley Global Policy Lab](http://www.solomonhsiang.com/lab).
+We have close collaborations with colleagues at the [Princeton Science, Technology & Environmental Policy program](https://www.princeton.edu/step/),  the [Berkeley Global Policy Lab](http://www.solomonhsiang.com/lab), the [Earth Observatory of Singapore Sea Level Lab](https://earthobservatory.sg/research-group/sea-level-research-benjamin-horton), and the [Harvard Sea Level Dynamics group](http://isites.harvard.edu/icb/icb.do?keyword=k92805).
 
-We welcome applications from potential graduate students and postdocs with strong computational skills who want to join our group's eclectic mix of statisticians, geophysicists, climate modelers, and policy scholars. Contact [Bob Kopp](../contact/) for more information.
+We welcome applications from potential graduate students and postdocs with strong computational skills who want to join our group's eclectic mix of statisticians, geophysicists, climate modelers, and policy scholars. Potential graduate students can apply through a variety of Rutgers programs, including [Atmospheric Science](http://envsci.rutgers.edu/academics/atmos_grad/), [Geological Sciences](https://eps.rutgers.edu/academics/graduate/graduate-program),  [Oceanography](https://marine.rutgers.edu/main/academics/graduate), [Statistics](https://www.stat.rutgers.edu/academics/graduate-program), and [Planning and Public Policy](https://bloustein.rutgers.edu/graduate/doctoral-studies/), and are encouraged to consider the [Coastal Climate Risk & Resilience traineeship](http://c2r2.rutgers.edu/). Contact [Bob Kopp](../contact/) for more information.
 
 ## People
 
@@ -62,11 +62,11 @@ I am a climatologist who is interested in understanding the fundamental dynamica
 
 ### Postdocs
 
-#### [Erica Ashe](https://www.linkedin.com/in/erica-ashe-21948a3/)
+#### [Erica Ashe](https://scholar.google.com/citations?user=UZ1-b8IAAAAJ&hl=en&oi=sra)
 {:.no_toc}
 
 <div>
-<a href="https://www.linkedin.com/in/erica-ashe-21948a3/"><div style="float: right; margin: 20px; max-width: 200px"><img src="portraits/ericaashe.jpg"></div></a>
+<a href="https://scholar.google.com/citations?user=UZ1-b8IAAAAJ&hl=en&oi=sra"><div style="float: right; margin: 20px; max-width: 200px"><img src="portraits/ericaashe.jpg"></div></a>
 Statistics is the mathematical body of science pertaining to collection, organization, analysis, interpretation and presentation of data.  The complex nature of the spatial and temporal data used for
 climate process reconstruction produces unique statistical challenges, which highlight the importance of interdisciplinary research.  Without an understanding of the scientific processes underlying
 observable data, as well as the theoretical foundations of the statistical tools used in analysis, the data may be misinterpreted.  I am interested in applying this theory to the current problems in
@@ -90,6 +90,27 @@ phenomena evolve and affect me and my community?" My primary research focuses th
 <div>
 <a href="https://sites.google.com/site/gggarner121/"><div style="float: right; margin: 20px; max-width: 200px"><img src="portraits/greggarner.jpg"></div></a>
 I am a meteorologist and climate scientist working on a comprehensive computational framework for projecting sea-level rise in a changing climate.  Broadly, I’m interested in how people use tools and information to inform decisions.  This has afforded me the opportunity to study a diverse range of topics including weather, climate change, atmospheric chemistry, air quality, robust decision making, sea-level rise, heatwaves, and more alongside experts in social sciences, statistics, economics, philosophy, mathematics, and engineering.  I use state-of-the-art optimization tools, statistical methods, integrated assessment models, and data analysis to investigate complex problems across multiple disciplines.  I emphasize the importance of science communication throughout my research by publishing with open-access (when available), performing science-outreach activities, and sharing the products of my work through web-based tools and code repositories.
+</div>
+
+#### [Dawei Li](https://scholar.google.com/citations?user=qfAPnEIAAAAJ&hl=en&oi=sra)
+{:.no_toc}
+
+<div>
+<a href="https://scholar.google.com/citations?user=qfAPnEIAAAAJ&hl=en&oi=sra">
+<div style="float: right; margin: 20px; max-width: 200px">
+<img src="portraits/daweili.jpg"></div></a>
+I consider myself a theorist, a modeler, and above all, a perpetual learner. I'm enchanted by the variety of ways that fundamental physical laws — fluid dynamics, thermodynamics, and radiative transfer — can be blended to address complex problems in a hierarchy of models. Specifically, the central topics of my research have been the large-scale flows of atmosphere, ocean, and ice, as well as the dramatic climate changes in the past and at present.
+To gain a holistic understanding, I prefer a top-down, minimalist approach to attack any new problem, often starting from the simplest one of the climate model hierarchy — a single column radiative-convective model or one-dimensional energy balance model — to get a first-order grasp, and then moving to more complex, but still idealized GCMs to investigate the features that deem unrepresentable in a "lesser" model. A model would be made just as comprehensive as it needs to be to grasp the essence of the targeted problem, but is no more complex that elegance should be sacrificed for the sake of getting details right.
+</div>
+
+#### [Laura Reynolds](https://scholar.google.com/citations?hl=en&user=dsGpWHcAAAAJ)
+{:.no_toc}
+
+<div>
+<a href="https://scholar.google.com/citations?hl=en&user=dsGpWHcAAAAJ">
+<div style="float: right; margin: 20px; max-width: 200px">
+<img src="portraits/laurareynolds.jpg"></div></a>
+I am a sedimentary geologist who studies how coastlines evolve over time. I am interested in how sediments in salt marshes and other coastal environments archive changes in sea level, tectonics, climate, and human influence. My projects have included reconstructions of relative sea level and the identification of flood deposits and evidence for coseismic subsidence in the coastal stratigraphic record. In my current research, I am working with an interdisciplinary team to build more realistic sediment dynamics into models of future tidal marsh response to sea level rise, with the ultimate goal of integrating models of physical processes in tidal marshes with ecological models of species' population chang
 </div>
 
 ### Graduate students
@@ -117,6 +138,16 @@ DJ’s interests lie at the intersection of climate, policy, and the economy. He
 <a href="https://erg.berkeley.edu/people/bolliger-ian/"><div style="float: right; margin: 20px; max-width: 150px"><img src="portraits/ianbolliger.jpg"></div></a>
 I am a Berkeley Graduate Fellow in the Energy and Resources Group (ERG) and the Global Policy Laboratory (GPL) at UC Berkeley, advised by Solomon Hsiang and Daniel Kammen. I am a member of the Climate Impact Lab, in which my research focuses predicting regional, socioeconomic impacts of climate change on coastal communities. I use both empirical and dynamical modeling approaches to address this task, often leveraging the growing database of global satellite imagery. Currently, I am developing a spatially-resolved, probabilistic quantification of the economic risk to coastal communities due to changes in hurricane frequency and intensity that are driven by climate change. I earned my BA in Applied Mathematics from Harvard University in 2011 and MS degrees in Energy and Resources (2016) and Civil and Environmental Engineering (2017) from UC Berkeley. Prior to graduate school I modeled global disease burden at the Institute for Health Metrics and Evaluation in my hometown of Seattle, WA.</div>
 
+
+#### [Roger Creel (Columbia)](https://www.linkedin.com/in/roger-creel-18629145/)
+{: .no_toc}
+
+Roger is a graduate student at Columbia University working with Dr. Jacky Austermann. His research uses records of past sea level to understand ice volume changes during glacial cycles. Current projects involve detecting a Holocene readvance of the Antarctic ice sheet in the sea level record and modeling how Antarctic inception ~34 million years ago changed sea levels. Roger graduated from Amherst College in 2013 with degrees in geology and English, and danced professionally with the Louisville Ballet before matriculating at Columbia.
+
+#### [Megan Lickley (MIT)](http://paocweb.mit.edu/people/mlickley)
+{: .no_toc}
+
+Megan is a PhD student at MIT working with advisor Susan Solomon.  She researches the processes, uncertainty, and impacts of modern day climate change.  One of her focuses is on the global water cycle, where she characterizes changes in aridity in large ensembles of General Circulation Models and how these changes coincide with human populations.   She has also studied the relationship between sea surface temperatures and changes in rainfall in southern Africa.  She has collaborated with researchers looking at agricultural impacts and water infrastructure decisions under a changing climate. Her second focus relates to the measurement and estimation of modern day sea level change.  This work has involved the quantification of bias in altimetry measurements of sea level change, and improved ocean representation in sea level estimation.  She is currently working on multiple data assimilation techniques to improve our understanding on the spatial variability of modern day sea level change. Before starting her PhD she spent a year in the Democratic Republic of Congo teaching math courses at the Catholic University of Bukavu.  She also consulted to the World Bank in Uganda, contributing to a climate change impacts report and strategy plan.  In 2012, she completed her Master’s in the Technology and Policy Program at MIT, focusing on climate impacts on coastal infrastructure and spent the following year as a research associate at MIT’s Joint Program on the Science and Policy of Global Change, studying climate impacts on river systems in the United States.
 
 ### Alumni
 
