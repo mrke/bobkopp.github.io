@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: December 7 2018
+modified: April 5 2019
 comments: false
 share: false
 image:
@@ -53,6 +53,8 @@ image:
 * [Garcıa-Artola, A., P. Stéphan, A. Cearreta, R. E. Kopp, N. S. Khan, and B. P. Horton (2018). Holocene sea- level database from the Atlantic coast of Europe. _Quaternary Science Reviews_ 196, 177–192. doi: 10.1016/j.quascirev.2018.07.031.](http://dx.doi.org/10.1016/j.quascirev.2018.07.031)
 
 * [Garner, A. J., J. L. Weiss, A. Parris, R. E. Kopp, R. M. Horton, J. T. Overpeck, and B. P. Horton (2018). Evolution of 21st Century Sea-level Rise Projections. _Earth's Future_ 6, 1603-1615. doi: 10.1029/2018EF000991.](http://doi.org/10.1029/2018EF000991)
+
+* [Hall, J. A., C. P. Weaver, J. Obeysekera, M. Crowell, R. M. Horton, R. E. Kopp, J. Marburger, D. C. Marcy, A. Parris, W. V. Sweet, and W. C. Veatch (2019). Rising Sea Levels: Helping Decision-Makers Confront the Inevitable. _Coastal Management_ 47, 127-150. doi: 10.1080/08920753.2019.1551012.](http://doi.org/10.1080/08920753.2019.1551012)
 
 * [B. P. Horton, R. E. Kopp, A. J. Garner, C. C. Hay, N. S. Khan, K. Roy, and T. A. Shaw (2018). Mapping sea-level change in time, space and probability. _Annual Reviews of Environment and Resources_ 43, 481-521. doi: 10.1146/annurev-environ-102017-025826.](http://www.annualreviews.org/eprint/qiHnKknJeg3i4tK63j39/full/10.1146/annurev-environ-102017-025826)
 
@@ -281,6 +283,8 @@ image:
 * [Guest co-editor (with R. Tol and S. Waldhoff), _Economics_ special issue (2012). _The Social Cost of Carbon_.](http://www.economics-ejournal.org/special-areas/special-issues/the-social-cost-of-carbon)
 
 ### Popular publications
+
+* [Kopp, R. (2019). Climate research needs to change to help communities plan for the future. _The Conversation_, 5 April 2019.](https://bit.ly/2I7jmSz)
 
 * [Mitrovica, J., C. Hay, and R. Kopp (2018). All Sea Level is Local. _Bulletin of the Atomic Scientists_ 74(3), 142–147. doi: 10.1080/00963402.2018.1461935.](http://doi.org/10.1080/00963402.2018.1461935)
 
