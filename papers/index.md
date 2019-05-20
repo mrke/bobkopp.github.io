@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 tags: [papers]
-modified: April 5 2019
+modified: May 20 2019
 comments: false
 share: false
 image:
@@ -37,7 +37,6 @@ image:
 
 ### Working papers and manuscripts in press
 
-* [Shwom, R. L. and R. E. Kopp (in press). Long-term risk governance: When do societies act before crisis? _Journal of Risk Research_. doi: 10.1080/13669877.2018.1476900.  Available at SSRN: doi: 10.2139/ssrn.3230337](http://dx.doi.org/10.2139/ssrn.3230337)
 
 * [Carleton, T., M. Delgado, M. Greenstone, S. Hsiang, A. Hultgren, A. Jina, R. E. Kopp, I. Nath, J. Rising, A. Rode, S. Seo, J. Simcock, A. Viaen, J. Yuan, and A. Zhang (2018). Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits. Working Paper 2018-51. University of Chicago, Becker Friedman Institute for Economics.](https://ssrn.com/abstract=3224365)
 
@@ -47,14 +46,19 @@ image:
 
 ### Journal articles
 
+* [Ashe, E. L., N. Cahill, C. C. Hay, N. Khan, A. Kemp, S. Engelhart, B. P. Horton, A. Parnell, and R. E. Kopp (2019). Statistical modeling of rates and trends in Holocene sea level. _Quaternary Science Reviews_ 204, 58–77. doi: 10.1016/j.quascirev.2018.10.032.](https://doi.org/10.1016/j.quascirev.2018.10.032)
 
-* [Ashe, E. L., N. Cahill, C. C. Hay, N. Khan, A. Kemp, S. Engelhart, B. P. Horton, A. Parnell, and R. E. Kopp (2019). Statistical modeling of rates and trends in Holocene sea level. Quaternary Science Reviews 204, 58–77. doi: 10.1016/j.quascirev.2018.10.032.](https://doi.org/10.1016/j.quascirev.2018.10.032)
+* [Bamber, J. L., M. Oppenheimer, R. E. Kopp, W. Aspinall, and R. M. Cooke (2019). Ice sheet contributions to future sea level rise from structured expert judgement. _Proceedings of the National Academy of Sciences_. doi:10.1073/pnas.1817205116.](https://doi.org/10.1073/pnas.1817205116)
+
+* [Gregory, J., S. Griffies, C. Hughes, J. Lowe, J. Church, I. Fukumori, N. Gomez, R. Kopp, F. Landerer, R. Ponte, D. Stammer, M. Tamisiea, and R. van de Wal (2019). Concepts and terminology for sea level – mean, variability and change, both local and global. _Surveys in Geophysics_. doi:10.1007/s10712-019-09525-z.](https://doi.org/10.1007/s10712-019-09525-z)
+
+* [Hall, J. A., C. P. Weaver, J. Obeysekera, M. Crowell, R. M. Horton, R. E. Kopp, J. Marburger, D. C. Marcy, A. Parris, W. V. Sweet, and W. C. Veatch (2019). Rising Sea Levels: Helping Decision-Makers Confront the Inevitable. _Coastal Management_ 47, 127-150. doi: 10.1080/08920753.2019.1551012.](http://doi.org/10.1080/08920753.2019.1551012)
+
+* [Shwom, R. L. and R. E. Kopp (2019). Long-term risk governance: When do societies act before crisis? _Journal of Risk Research_. doi: 10.1080/13669877.2018.1476900.](http://dx.doi.org/10.1080/13669877.2018.1476900)
 
 * [Garcıa-Artola, A., P. Stéphan, A. Cearreta, R. E. Kopp, N. S. Khan, and B. P. Horton (2018). Holocene sea- level database from the Atlantic coast of Europe. _Quaternary Science Reviews_ 196, 177–192. doi: 10.1016/j.quascirev.2018.07.031.](http://dx.doi.org/10.1016/j.quascirev.2018.07.031)
 
 * [Garner, A. J., J. L. Weiss, A. Parris, R. E. Kopp, R. M. Horton, J. T. Overpeck, and B. P. Horton (2018). Evolution of 21st Century Sea-level Rise Projections. _Earth's Future_ 6, 1603-1615. doi: 10.1029/2018EF000991.](http://doi.org/10.1029/2018EF000991)
-
-* [Hall, J. A., C. P. Weaver, J. Obeysekera, M. Crowell, R. M. Horton, R. E. Kopp, J. Marburger, D. C. Marcy, A. Parris, W. V. Sweet, and W. C. Veatch (2019). Rising Sea Levels: Helping Decision-Makers Confront the Inevitable. _Coastal Management_ 47, 127-150. doi: 10.1080/08920753.2019.1551012.](http://doi.org/10.1080/08920753.2019.1551012)
 
 * [B. P. Horton, R. E. Kopp, A. J. Garner, C. C. Hay, N. S. Khan, K. Roy, and T. A. Shaw (2018). Mapping sea-level change in time, space and probability. _Annual Reviews of Environment and Resources_ 43, 481-521. doi: 10.1146/annurev-environ-102017-025826.](http://www.annualreviews.org/eprint/qiHnKknJeg3i4tK63j39/full/10.1146/annurev-environ-102017-025826)
 
