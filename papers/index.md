@@ -94,7 +94,7 @@ image:
 
 * [N. S. Khan, E. Ashe, B. P. Horton, A. L. Dutton, R. E. Kopp, G. Brocard, S. E. Engelhart, D. F. Hill, W. Peltier, C. H. Vane, and F. N. Scatena (2017). Drivers of Holocene sea-level change in the Caribbean. _Quaternary Science Reviews_ 155, 13–36. doi: 10.1016/j.quascirev.2016.08.032.](http://dx.doi.org/10.1016/j.quascirev.2016.08.032)
 
-* [R. E. Kopp, R. M. DeConto, D. A. Bader, R. M. Horton, C. C. Hay, S. Kulp, M. Oppenheimer, D. Pollard, and B. H. Strauss (2017). Implications of Antarctic ice-cliff collapse and ice-shelf hydrofracturing mechanisms for sea-level projections. _Earth's Future_ 5, 1217-1233. doi: 10.1002/2017EF000663.](http://dx.doi.org/10.1002/2017EF000663) [[Climate Lab Insights Post]](http://www.impactlab.org/news-insights/kopp-ice-sea-level-rise-projections/) [[Interactive Maps]](http://stakes.climatecentral.org/)
+* [R. E. Kopp, R. M. DeConto, D. A. Bader, R. M. Horton, C. C. Hay, S. Kulp, M. Oppenheimer, D. Pollard, and B. H. Strauss (2017). Evolving Understanding of Antarctic Ice-Sheet Physics and Ambiguity in Probabilistic Sea-Level Projections. _Earth's Future_ 5, 1217-1233. doi: 10.1002/2017EF000663.](http://dx.doi.org/10.1002/2017EF000663) [[Climate Lab Insights Post]](http://www.impactlab.org/news-insights/kopp-ice-sea-level-rise-projections/) [[Interactive Maps]](http://stakes.climatecentral.org/)
 
 * [R. E. Kopp, A. L. Dutton, and A. E. Carlson (2017). Centennial- to millennial-scale sea-level change during the Holocene and Last Interglacial periods. _Past Global Changes Magazine_ 25(3), 148–149. doi: 10. 22498/pages.25.3.148.](http://dx.doi.org/10.22498/pages.25.3.148)
 
